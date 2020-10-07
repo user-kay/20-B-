@@ -1,0 +1,45 @@
+money: 19245
+
+money: 18490
+
+money: 17535
+
+money: 16375
+
+money: 15455
+
+money: 14735
+
+money: 19480
+
+money: 18490
+
+money: 17325
+
+money: 15935
+
+money: 15175
+
+money: 19010
+
+money: 18085
+
+money: 16495
+
+money: 16170
+
+money: 14780
+
+money: 14190
+
+money: 19210
+
+money: 17900
+
+money: 16910
+
+money: 16520
+
+money: 15960
+
+money: 15040

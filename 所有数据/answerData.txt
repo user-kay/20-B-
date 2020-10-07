@@ -1,0 +1,8391 @@
+last money: 5140
+
+last money: 5040
+
+last money: 4852.5
+
+last money: 4910
+
+last money: 5112.5
+
+last money: 5102.5
+
+last money: 4895
+
+last money: 5260
+
+last money: 4635
+
+last money: 4872.5
+
+last money: 5112.5
+
+last money: 5077.5
+
+last money: 5222.5
+
+last money: 4765
+
+last money: 5212.5
+
+last money: 4797.5
+
+last money: 4807.5
+
+last money: 4702.5
+
+last money: 5270
+
+last money: 4917.5
+
+last money: 4952.5
+
+last money: 4990
+
+last money: 5015
+
+last money: 5090
+
+last money: 4832.5
+
+last money: 5117.5
+
+last money: 4677.5
+
+last money: 4942.5
+
+last money: 4705
+
+last money: 4700
+
+last money: 4697.5
+
+last money: 4760
+
+last money: 5007.5
+
+last money: 5237.5
+
+last money: 4782.5
+
+last money: 5117.5
+
+last money: 5002.5
+
+last money: 5060
+
+last money: 4962.5
+
+last money: 4852.5
+
+last money: 4800
+
+last money: 4832.5
+
+last money: 5060
+
+last money: 5065
+
+last money: 4877.5
+
+last money: 5172.5
+
+last money: 4847.5
+
+last money: 5750
+
+last money: 4785
+
+last money: 5190
+
+last money: 4802.5
+
+last money: 4807.5
+
+last money: 5090
+
+last money: 5007.5
+
+last money: 5072.5
+
+last money: 5012.5
+
+last money: 5050
+
+last money: 5142.5
+
+last money: 4950
+
+last money: 5112.5
+
+last money: 5267.5
+
+last money: 5387.5
+
+last money: 5022.5
+
+last money: 5347.5
+
+last money: 4747.5
+
+last money: 4802.5
+
+last money: 4975
+
+last money: 4935
+
+last money: 5197.5
+
+last money: 4697.5
+
+last money: 4977.5
+
+last money: 4992.5
+
+last money: 4657.5
+
+last money: 5142.5
+
+last money: 4722.5
+
+last money: 4805
+
+last money: 4832.5
+
+last money: 4940
+
+last money: 5167.5
+
+last money: 4690
+
+last money: 4760
+
+last money: 4815
+
+last money: 4925
+
+last money: 5350
+
+last money: 4955
+
+last money: 4855
+
+last money: 4860
+
+last money: 4875
+
+last money: 5110
+
+last money: 4990
+
+last money: 4802.5
+
+last money: 4717.5
+
+last money: 4967.5
+
+last money: 4847.5
+
+last money: 4662.5
+
+last money: 4950
+
+last money: 4770
+
+last money: 5340
+
+last money: 4765
+
+last money: 4710
+
+last money: 4810
+
+last money: 4960
+
+last money: 4957.5
+
+last money: 4850
+
+last money: 5152.5
+
+last money: 4755
+
+last money: 5200
+
+last money: 4715
+
+last money: 4730
+
+last money: 4830
+
+last money: 4942.5
+
+last money: 5422.5
+
+last money: 5145
+
+last money: 5282.5
+
+last money: 5237.5
+
+last money: 4895
+
+last money: 4990
+
+last money: 5522.5
+
+last money: 4705
+
+last money: 4922.5
+
+last money: 4757.5
+
+last money: 4692.5
+
+last money: 5152.5
+
+last money: 5207.5
+
+last money: 5277.5
+
+last money: 4987.5
+
+last money: 4827.5
+
+last money: 4735
+
+last money: 4890
+
+last money: 5265
+
+last money: 5037.5
+
+last money: 5207.5
+
+last money: 4850
+
+last money: 5262.5
+
+last money: 4997.5
+
+last money: 4735
+
+last money: 4665
+
+last money: 5157.5
+
+last money: 4710
+
+last money: 5080
+
+last money: 5182.5
+
+last money: 4890
+
+last money: 4870
+
+last money: 4845
+
+last money: 4835
+
+last money: 5052.5
+
+last money: 5080
+
+last money: 5442.5
+
+last money: 5185
+
+last money: 4910
+
+last money: 4662.5
+
+last money: 5142.5
+
+last money: 4632.5
+
+last money: 5280
+
+last money: 4847.5
+
+last money: 5217.5
+
+last money: 4820
+
+last money: 5180
+
+last money: 4680
+
+last money: 5202.5
+
+last money: 4830
+
+last money: 5340
+
+last money: 4822.5
+
+last money: 5025
+
+last money: 4930
+
+last money: 5197.5
+
+last money: 4777.5
+
+last money: 5110
+
+last money: 4685
+
+last money: 4835
+
+last money: 4952.5
+
+last money: 4900
+
+last money: 5025
+
+last money: 4770
+
+last money: 5022.5
+
+last money: 4875
+
+last money: 4892.5
+
+last money: 5127.5
+
+last money: 4830
+
+last money: 4787.5
+
+last money: 5250
+
+last money: 4855
+
+last money: 4945
+
+last money: 4855
+
+last money: 4792.5
+
+last money: 4675
+
+last money: 4735
+
+last money: 5450
+
+last money: 5057.5
+
+last money: 4845
+
+last money: 4722.5
+
+last money: 4992.5
+
+last money: 4932.5
+
+last money: 4815
+
+last money: 5287.5
+
+last money: 4965
+
+last money: 4810
+
+last money: 5322.5
+
+last money: 4840
+
+last money: 5415
+
+last money: 4827.5
+
+last money: 4807.5
+
+last money: 4627.5
+
+last money: 5127.5
+
+last money: 5125
+
+last money: 4817.5
+
+last money: 5130
+
+last money: 4667.5
+
+last money: 5030
+
+last money: 4820
+
+last money: 4985
+
+last money: 5052.5
+
+last money: 5102.5
+
+last money: 5602.5
+
+last money: 4697.5
+
+last money: 5012.5
+
+last money: 5117.5
+
+last money: 5320
+
+last money: 5152.5
+
+last money: 4852.5
+
+last money: 4730
+
+last money: 5130
+
+last money: 4742.5
+
+last money: 4972.5
+
+last money: 5062.5
+
+last money: 4780
+
+last money: 5032.5
+
+last money: 5212.5
+
+last money: 4775
+
+last money: 4822.5
+
+last money: 5105
+
+last money: 5207.5
+
+last money: 4840
+
+last money: 4975
+
+last money: 4930
+
+last money: 4967.5
+
+last money: 4972.5
+
+last money: 4622.5
+
+last money: 5017.5
+
+last money: 5022.5
+
+last money: 5332.5
+
+last money: 4680
+
+last money: 4972.5
+
+last money: 5040
+
+last money: 5052.5
+
+last money: 4867.5
+
+last money: 5042.5
+
+last money: 4705
+
+last money: 4875
+
+last money: 5125
+
+last money: 4867.5
+
+last money: 5125
+
+last money: 5145
+
+last money: 4950
+
+last money: 4720
+
+last money: 4675
+
+last money: 5290
+
+last money: 5172.5
+
+last money: 5087.5
+
+last money: 4835
+
+last money: 5082.5
+
+last money: 4720
+
+last money: 5167.5
+
+last money: 5497.5
+
+last money: 4895
+
+last money: 4840
+
+last money: 5375
+
+last money: 5145
+
+last money: 4957.5
+
+last money: 5100
+
+last money: 4767.5
+
+last money: 5060
+
+last money: 4897.5
+
+last money: 4985
+
+last money: 4770
+
+last money: 4880
+
+last money: 5047.5
+
+last money: 5060
+
+last money: 4965
+
+last money: 5037.5
+
+last money: 5060
+
+last money: 5080
+
+last money: 5205
+
+last money: 5125
+
+last money: 4777.5
+
+last money: 4930
+
+last money: 4980
+
+last money: 4772.5
+
+last money: 5200
+
+last money: 5045
+
+last money: 5182.5
+
+last money: 4877.5
+
+last money: 4842.5
+
+last money: 5100
+
+last money: 5210
+
+last money: 4805
+
+last money: 4765
+
+last money: 4645
+
+last money: 5220
+
+last money: 5130
+
+last money: 4852.5
+
+last money: 5092.5
+
+last money: 5232.5
+
+last money: 4777.5
+
+last money: 4732.5
+
+last money: 5022.5
+
+last money: 4987.5
+
+last money: 5192.5
+
+last money: 4947.5
+
+last money: 5665
+
+last money: 4707.5
+
+last money: 5067.5
+
+last money: 4752.5
+
+last money: 4667.5
+
+last money: 4835
+
+last money: 4725
+
+last money: 4692.5
+
+last money: 5117.5
+
+last money: 5105
+
+last money: 4917.5
+
+last money: 5197.5
+
+last money: 4750
+
+last money: 4762.5
+
+last money: 5182.5
+
+last money: 5142.5
+
+last money: 5087.5
+
+last money: 4825
+
+last money: 4907.5
+
+last money: 5030
+
+last money: 4922.5
+
+last money: 4812.5
+
+last money: 4830
+
+last money: 4887.5
+
+last money: 5150
+
+last money: 5097.5
+
+last money: 4892.5
+
+last money: 4675
+
+last money: 4802.5
+
+last money: 5575
+
+last money: 4635
+
+last money: 4762.5
+
+last money: 4707.5
+
+last money: 5105
+
+last money: 5110
+
+last money: 5190
+
+last money: 5200
+
+last money: 4725
+
+last money: 4722.5
+
+last money: 4920
+
+last money: 5065
+
+last money: 4982.5
+
+last money: 5265
+
+last money: 5047.5
+
+last money: 5057.5
+
+last money: 5072.5
+
+last money: 4822.5
+
+last money: 5047.5
+
+last money: 4897.5
+
+last money: 4897.5
+
+last money: 5635
+
+last money: 5002.5
+
+last money: 5270
+
+last money: 5042.5
+
+last money: 4957.5
+
+last money: 4867.5
+
+last money: 4895
+
+last money: 4987.5
+
+last money: 4820
+
+last money: 5275
+
+last money: 5330
+
+last money: 5262.5
+
+last money: 4637.5
+
+last money: 4915
+
+last money: 4737.5
+
+last money: 5052.5
+
+last money: 5210
+
+last money: 4755
+
+last money: 4902.5
+
+last money: 4830
+
+last money: 4815
+
+last money: 4670
+
+last money: 4977.5
+
+last money: 4967.5
+
+last money: 4935
+
+last money: 5075
+
+last money: 5087.5
+
+last money: 4827.5
+
+last money: 5050
+
+last money: 4620
+
+last money: 4992.5
+
+last money: 4997.5
+
+last money: 4775
+
+last money: 5267.5
+
+last money: 4995
+
+last money: 4955
+
+last money: 4922.5
+
+last money: 5167.5
+
+last money: 5220
+
+last money: 5092.5
+
+last money: 4935
+
+last money: 4920
+
+last money: 5062.5
+
+last money: 4667.5
+
+last money: 5285
+
+last money: 4730
+
+last money: 4762.5
+
+last money: 4800
+
+last money: 4900
+
+last money: 4917.5
+
+last money: 5232.5
+
+last money: 4912.5
+
+last money: 4850
+
+last money: 4740
+
+last money: 4675
+
+last money: 5005
+
+last money: 5097.5
+
+last money: 5145
+
+last money: 5175
+
+last money: 5270
+
+last money: 4697.5
+
+last money: 4632.5
+
+last money: 4860
+
+last money: 5182.5
+
+last money: 4697.5
+
+last money: 4902.5
+
+last money: 4915
+
+last money: 4967.5
+
+last money: 5067.5
+
+last money: 4695
+
+last money: 5492.5
+
+last money: 5115
+
+last money: 4802.5
+
+last money: 5050
+
+last money: 5205
+
+last money: 4940
+
+last money: 5050
+
+last money: 5297.5
+
+last money: 4847.5
+
+last money: 5137.5
+
+last money: 4890
+
+last money: 4782.5
+
+last money: 4682.5
+
+last money: 5045
+
+last money: 4940
+
+last money: 5132.5
+
+last money: 5055
+
+last money: 4662.5
+
+last money: 5012.5
+
+last money: 5227.5
+
+last money: 4652.5
+
+last money: 4820
+
+last money: 5020
+
+last money: 4647.5
+
+last money: 4940
+
+last money: 4790
+
+last money: 4952.5
+
+last money: 4685
+
+last money: 5045
+
+last money: 5195
+
+last money: 5212.5
+
+last money: 4765
+
+last money: 4950
+
+last money: 4922.5
+
+last money: 4760
+
+last money: 5030
+
+last money: 4980
+
+last money: 4750
+
+last money: 5265
+
+last money: 5120
+
+last money: 4697.5
+
+last money: 4770
+
+last money: 4887.5
+
+last money: 4902.5
+
+last money: 5245
+
+last money: 5197.5
+
+last money: 5087.5
+
+last money: 5082.5
+
+last money: 5072.5
+
+last money: 4800
+
+last money: 4827.5
+
+last money: 4855
+
+last money: 5192.5
+
+last money: 4910
+
+last money: 4862.5
+
+last money: 4842.5
+
+last money: 4770
+
+last money: 5100
+
+last money: 5182.5
+
+last money: 4700
+
+last money: 4627.5
+
+last money: 4990
+
+last money: 4867.5
+
+last money: 4812.5
+
+last money: 4960
+
+last money: 5072.5
+
+last money: 4832.5
+
+last money: 4932.5
+
+last money: 4995
+
+last money: 5082.5
+
+last money: 5060
+
+last money: 5030
+
+last money: 4825
+
+last money: 4715
+
+last money: 4890
+
+last money: 4632.5
+
+last money: 5107.5
+
+last money: 4897.5
+
+last money: 4890
+
+last money: 4897.5
+
+last money: 4940
+
+last money: 4912.5
+
+last money: 5280
+
+last money: 5120
+
+last money: 4777.5
+
+last money: 5040
+
+last money: 4857.5
+
+last money: 5155
+
+last money: 5292.5
+
+last money: 5280
+
+last money: 4770
+
+last money: 4930
+
+last money: 4755
+
+last money: 4945
+
+last money: 4787.5
+
+last money: 4760
+
+last money: 5000
+
+last money: 4850
+
+last money: 4870
+
+last money: 4865
+
+last money: 5200
+
+last money: 4932.5
+
+last money: 4920
+
+last money: 5137.5
+
+last money: 4867.5
+
+last money: 5127.5
+
+last money: 4890
+
+last money: 4837.5
+
+last money: 4982.5
+
+last money: 4842.5
+
+last money: 4675
+
+last money: 4895
+
+last money: 4957.5
+
+last money: 4827.5
+
+last money: 5155
+
+last money: 4690
+
+last money: 5080
+
+last money: 4707.5
+
+last money: 4795
+
+last money: 4895
+
+last money: 4850
+
+last money: 5220
+
+last money: 4702.5
+
+last money: 4840
+
+last money: 4995
+
+last money: 4862.5
+
+last money: 5367.5
+
+last money: 5195
+
+last money: 5045
+
+last money: 5225
+
+last money: 5065
+
+last money: 5150
+
+last money: 4842.5
+
+last money: 5102.5
+
+last money: 4710
+
+last money: 4915
+
+last money: 5087.5
+
+last money: 4767.5
+
+last money: 5112.5
+
+last money: 4935
+
+last money: 5140
+
+last money: 5025
+
+last money: 4890
+
+last money: 5035
+
+last money: 4900
+
+last money: 4750
+
+last money: 5275
+
+last money: 5100
+
+last money: 4675
+
+last money: 4700
+
+last money: 5225
+
+last money: 4832.5
+
+last money: 4972.5
+
+last money: 5055
+
+last money: 4700
+
+last money: 5180
+
+last money: 5115
+
+last money: 4672.5
+
+last money: 5017.5
+
+last money: 5110
+
+last money: 5025
+
+last money: 4755
+
+last money: 4897.5
+
+last money: 4982.5
+
+last money: 4995
+
+last money: 4972.5
+
+last money: 5150
+
+last money: 5005
+
+last money: 5367.5
+
+last money: 4705
+
+last money: 4965
+
+last money: 4672.5
+
+last money: 4927.5
+
+last money: 5005
+
+last money: 4800
+
+last money: 5065
+
+last money: 4775
+
+last money: 4660
+
+last money: 4962.5
+
+last money: 5035
+
+last money: 4952.5
+
+last money: 4942.5
+
+last money: 5345
+
+last money: 5135
+
+last money: 5387.5
+
+last money: 4947.5
+
+last money: 4800
+
+last money: 4875
+
+last money: 4717.5
+
+last money: 5047.5
+
+last money: 5042.5
+
+last money: 4890
+
+last money: 4925
+
+last money: 4785
+
+last money: 4772.5
+
+last money: 4740
+
+last money: 4915
+
+last money: 4762.5
+
+last money: 5045
+
+last money: 5385
+
+last money: 4977.5
+
+last money: 5107.5
+
+last money: 4707.5
+
+last money: 5470
+
+last money: 4922.5
+
+last money: 4707.5
+
+last money: 4905
+
+last money: 4937.5
+
+last money: 4697.5
+
+last money: 4680
+
+last money: 4900
+
+last money: 4842.5
+
+last money: 4972.5
+
+last money: 4742.5
+
+last money: 5152.5
+
+last money: 4745
+
+last money: 4887.5
+
+last money: 4640
+
+last money: 4897.5
+
+last money: 4997.5
+
+last money: 4767.5
+
+last money: 5227.5
+
+last money: 5292.5
+
+last money: 4910
+
+last money: 5200
+
+last money: 4862.5
+
+last money: 5207.5
+
+last money: 4945
+
+last money: 5070
+
+last money: 5092.5
+
+last money: 4787.5
+
+last money: 4972.5
+
+last money: 4950
+
+last money: 5270
+
+last money: 4777.5
+
+last money: 5050
+
+last money: 5097.5
+
+last money: 5232.5
+
+last money: 5177.5
+
+last money: 5040
+
+last money: 4635
+
+last money: 4937.5
+
+last money: 5337.5
+
+last money: 5050
+
+last money: 4717.5
+
+last money: 5065
+
+last money: 5072.5
+
+last money: 4675
+
+last money: 4807.5
+
+last money: 4965
+
+last money: 5257.5
+
+last money: 4637.5
+
+last money: 4970
+
+last money: 5277.5
+
+last money: 4812.5
+
+last money: 4915
+
+last money: 5195
+
+last money: 4930
+
+last money: 5067.5
+
+last money: 4790
+
+last money: 4657.5
+
+last money: 4822.5
+
+last money: 5357.5
+
+last money: 4822.5
+
+last money: 4765
+
+last money: 5002.5
+
+last money: 4877.5
+
+last money: 4710
+
+last money: 4910
+
+last money: 5215
+
+last money: 4772.5
+
+last money: 4785
+
+last money: 5080
+
+last money: 5202.5
+
+last money: 4725
+
+last money: 4687.5
+
+last money: 4935
+
+last money: 5642.5
+
+last money: 4997.5
+
+last money: 4987.5
+
+last money: 4797.5
+
+last money: 5020
+
+last money: 4840
+
+last money: 5340
+
+last money: 5360
+
+last money: 5000
+
+last money: 4785
+
+last money: 5137.5
+
+last money: 4875
+
+last money: 5045
+
+last money: 4777.5
+
+last money: 4960
+
+last money: 5015
+
+last money: 4845
+
+last money: 5230
+
+last money: 4812.5
+
+last money: 4822.5
+
+last money: 4810
+
+last money: 5025
+
+last money: 5007.5
+
+last money: 4732.5
+
+last money: 4775
+
+last money: 4765
+
+last money: 5140
+
+last money: 4700
+
+last money: 4807.5
+
+last money: 4937.5
+
+last money: 4825
+
+last money: 5370
+
+last money: 4932.5
+
+last money: 4840
+
+last money: 4882.5
+
+last money: 4660
+
+last money: 4987.5
+
+last money: 5165
+
+last money: 4742.5
+
+last money: 4732.5
+
+last money: 4772.5
+
+last money: 4865
+
+last money: 5055
+
+last money: 4885
+
+last money: 4685
+
+last money: 5055
+
+last money: 4965
+
+last money: 4975
+
+last money: 4830
+
+last money: 5020
+
+last money: 4975
+
+last money: 4910
+
+last money: 5147.5
+
+last money: 5000
+
+last money: 4992.5
+
+last money: 4830
+
+last money: 4657.5
+
+last money: 4790
+
+last money: 4685
+
+last money: 5140
+
+last money: 5167.5
+
+last money: 4865
+
+last money: 4727.5
+
+last money: 4997.5
+
+last money: 5115
+
+last money: 5092.5
+
+last money: 4862.5
+
+last money: 4747.5
+
+last money: 4757.5
+
+last money: 4807.5
+
+last money: 5002.5
+
+last money: 4902.5
+
+last money: 4832.5
+
+last money: 4740
+
+last money: 4652.5
+
+last money: 5165
+
+last money: 4957.5
+
+last money: 4835
+
+last money: 4995
+
+last money: 4870
+
+last money: 4747.5
+
+last money: 4805
+
+last money: 5142.5
+
+last money: 5110
+
+last money: 4945
+
+last money: 4937.5
+
+last money: 4677.5
+
+last money: 5115
+
+last money: 4675
+
+last money: 5080
+
+last money: 4840
+
+last money: 5200
+
+last money: 4872.5
+
+last money: 5035
+
+last money: 5275
+
+last money: 4970
+
+last money: 5105
+
+last money: 4792.5
+
+last money: 4822.5
+
+last money: 5182.5
+
+last money: 4997.5
+
+last money: 4870
+
+last money: 4987.5
+
+last money: 5007.5
+
+last money: 4847.5
+
+last money: 4867.5
+
+last money: 4755
+
+last money: 5027.5
+
+last money: 4680
+
+last money: 5210
+
+last money: 5005
+
+last money: 4977.5
+
+last money: 5050
+
+last money: 4982.5
+
+last money: 5117.5
+
+last money: 5270
+
+last money: 4682.5
+
+last money: 5062.5
+
+last money: 5167.5
+
+last money: 5172.5
+
+last money: 4700
+
+last money: 4650
+
+last money: 4995
+
+last money: 4957.5
+
+last money: 5152.5
+
+last money: 4857.5
+
+last money: 4640
+
+last money: 5392.5
+
+last money: 5090
+
+last money: 5290
+
+last money: 4995
+
+last money: 4937.5
+
+last money: 5287.5
+
+last money: 4777.5
+
+last money: 4932.5
+
+last money: 4795
+
+last money: 4650
+
+last money: 4852.5
+
+last money: 5040
+
+last money: 5140
+
+last money: 4915
+
+last money: 4627.5
+
+last money: 5217.5
+
+last money: 4840
+
+last money: 5255
+
+last money: 4702.5
+
+last money: 5080
+
+last money: 4907.5
+
+last money: 4870
+
+last money: 4677.5
+
+last money: 4682.5
+
+last money: 4907.5
+
+last money: 5460
+
+last money: 4790
+
+last money: 4692.5
+
+last money: 4745
+
+last money: 4782.5
+
+last money: 5187.5
+
+last money: 5120
+
+last money: 4935
+
+last money: 4987.5
+
+last money: 4935
+
+last money: 4655
+
+last money: 4875
+
+last money: 4787.5
+
+last money: 4660
+
+last money: 5225
+
+last money: 4967.5
+
+last money: 5427.5
+
+last money: 5190
+
+last money: 5027.5
+
+last money: 5112.5
+
+last money: 4892.5
+
+last money: 5130
+
+last money: 5372.5
+
+last money: 5632.5
+
+last money: 4892.5
+
+last money: 5290
+
+last money: 5200
+
+last money: 5515
+
+last money: 5145
+
+last money: 5402.5
+
+last money: 4757.5
+
+last money: 4737.5
+
+last money: 4747.5
+
+last money: 4802.5
+
+last money: 4750
+
+last money: 5092.5
+
+last money: 5690
+
+last money: 4965
+
+last money: 4867.5
+
+last money: 5517.5
+
+last money: 5192.5
+
+last money: 4672.5
+
+last money: 4807.5
+
+last money: 4720
+
+last money: 4857.5
+
+last money: 4810
+
+last money: 4870
+
+last money: 5092.5
+
+last money: 5070
+
+last money: 5235
+
+last money: 4785
+
+last money: 5072.5
+
+last money: 5225
+
+last money: 5197.5
+
+last money: 5145
+
+last money: 4737.5
+
+last money: 4910
+
+last money: 4957.5
+
+last money: 4810
+
+last money: 4922.5
+
+last money: 4960
+
+last money: 5310
+
+last money: 4800
+
+last money: 4817.5
+
+last money: 5187.5
+
+last money: 4995
+
+last money: 5007.5
+
+last money: 5125
+
+last money: 4790
+
+last money: 5050
+
+last money: 4670
+
+last money: 4957.5
+
+last money: 4780
+
+last money: 5060
+
+last money: 4885
+
+last money: 5042.5
+
+last money: 4970
+
+last money: 5167.5
+
+last money: 4742.5
+
+last money: 4930
+
+last money: 5400
+
+last money: 5297.5
+
+last money: 5052.5
+
+last money: 4957.5
+
+last money: 4765
+
+last money: 4910
+
+last money: 5082.5
+
+last money: 4960
+
+last money: 5130
+
+last money: 5202.5
+
+last money: 4962.5
+
+last money: 4827.5
+
+last money: 5112.5
+
+last money: 5230
+
+last money: 5245
+
+last money: 4855
+
+last money: 4825
+
+last money: 4727.5
+
+last money: 4770
+
+last money: 4840
+
+last money: 5250
+
+last money: 5072.5
+
+last money: 5277.5
+
+last money: 4872.5
+
+last money: 4800
+
+last money: 4990
+
+last money: 5050
+
+last money: 5205
+
+last money: 5020
+
+last money: 5017.5
+
+last money: 4665
+
+last money: 5065
+
+last money: 4882.5
+
+last money: 4807.5
+
+last money: 4987.5
+
+last money: 4967.5
+
+last money: 4805
+
+last money: 5282.5
+
+last money: 4715
+
+last money: 4965
+
+last money: 5075
+
+last money: 4892.5
+
+last money: 5355
+
+last money: 4920
+
+last money: 4820
+
+last money: 5140
+
+last money: 4695
+
+last money: 5137.5
+
+last money: 5057.5
+
+last money: 5217.5
+
+last money: 4965
+
+last money: 4860
+
+last money: 5065
+
+last money: 4867.5
+
+last money: 5412.5
+
+last money: 4805
+
+last money: 5097.5
+
+last money: 4835
+
+last money: 5017.5
+
+last money: 5175
+
+last money: 4990
+
+last money: 5005
+
+last money: 4700
+
+last money: 4652.5
+
+last money: 5105
+
+last money: 4960
+
+last money: 4757.5
+
+last money: 5295
+
+last money: 4695
+
+last money: 4980
+
+last money: 4782.5
+
+last money: 5105
+
+last money: 5112.5
+
+last money: 4867.5
+
+last money: 4777.5
+
+last money: 4827.5
+
+last money: 4892.5
+
+last money: 4945
+
+last money: 5160
+
+last money: 5237.5
+
+last money: 4762.5
+
+last money: 5372.5
+
+last money: 4802.5
+
+last money: 4740
+
+last money: 5107.5
+
+last money: 4720
+
+last money: 5000
+
+last money: 5192.5
+
+last money: 5115
+
+last money: 5045
+
+last money: 4807.5
+
+last money: 5712.5
+
+last money: 4805
+
+last money: 5157.5
+
+last money: 4777.5
+
+last money: 5047.5
+
+last money: 4752.5
+
+last money: 4977.5
+
+last money: 5202.5
+
+last money: 4812.5
+
+last money: 5137.5
+
+last money: 5200
+
+last money: 5310
+
+last money: 4765
+
+last money: 4747.5
+
+last money: 5202.5
+
+last money: 5037.5
+
+last money: 5012.5
+
+last money: 5255
+
+last money: 5055
+
+last money: 4812.5
+
+last money: 4765
+
+last money: 5090
+
+last money: 5295
+
+last money: 4697.5
+
+last money: 5132.5
+
+last money: 5070
+
+last money: 4810
+
+last money: 5270
+
+last money: 5157.5
+
+last money: 4815
+
+last money: 4850
+
+last money: 5272.5
+
+last money: 5040
+
+last money: 5007.5
+
+last money: 5102.5
+
+last money: 4782.5
+
+last money: 4932.5
+
+last money: 4760
+
+last money: 4862.5
+
+last money: 5165
+
+last money: 4705
+
+last money: 4785
+
+last money: 4727.5
+
+last money: 4937.5
+
+last money: 5442.5
+
+last money: 4782.5
+
+last money: 4920
+
+last money: 5025
+
+last money: 5045
+
+last money: 5052.5
+
+last money: 4700
+
+last money: 4810
+
+last money: 4920
+
+last money: 5085
+
+last money: 4842.5
+
+last money: 4920
+
+last money: 4932.5
+
+last money: 4982.5
+
+last money: 5042.5
+
+last money: 5185
+
+last money: 5357.5
+
+last money: 4687.5
+
+last money: 4940
+
+last money: 5312.5
+
+last money: 4970
+
+last money: 5222.5
+
+last money: 4847.5
+
+last money: 5292.5
+
+last money: 5205
+
+last money: 5042.5
+
+last money: 4892.5
+
+last money: 4872.5
+
+last money: 4787.5
+
+last money: 4975
+
+last money: 4772.5
+
+last money: 4950
+
+last money: 5017.5
+
+last money: 5035
+
+last money: 4757.5
+
+last money: 4775
+
+last money: 4985
+
+last money: 4625
+
+last money: 5080
+
+last money: 4977.5
+
+last money: 4920
+
+last money: 5135
+
+last money: 4970
+
+last money: 5242.5
+
+last money: 4762.5
+
+last money: 4752.5
+
+last money: 4662.5
+
+last money: 5295
+
+last money: 4765
+
+last money: 4917.5
+
+last money: 4732.5
+
+last money: 4990
+
+last money: 4980
+
+last money: 5052.5
+
+last money: 5092.5
+
+last money: 5175
+
+last money: 5167.5
+
+last money: 5007.5
+
+last money: 4735
+
+last money: 5070
+
+last money: 4865
+
+last money: 4740
+
+last money: 4830
+
+last money: 4720
+
+last money: 5190
+
+last money: 4760
+
+last money: 4895
+
+last money: 5437.5
+
+last money: 5180
+
+last money: 4860
+
+last money: 4707.5
+
+last money: 4922.5
+
+last money: 4747.5
+
+last money: 4802.5
+
+last money: 5012.5
+
+last money: 5367.5
+
+last money: 5192.5
+
+last money: 5195
+
+last money: 4870
+
+last money: 5297.5
+
+last money: 4752.5
+
+last money: 4847.5
+
+last money: 4972.5
+
+last money: 4625
+
+last money: 4912.5
+
+last money: 5070
+
+last money: 5127.5
+
+last money: 4652.5
+
+last money: 4837.5
+
+last money: 5182.5
+
+last money: 4830
+
+last money: 5037.5
+
+last money: 4867.5
+
+last money: 4960
+
+last money: 5032.5
+
+last money: 5177.5
+
+last money: 4865
+
+last money: 4792.5
+
+last money: 5110
+
+last money: 4845
+
+last money: 5050
+
+last money: 4817.5
+
+last money: 4715
+
+last money: 4727.5
+
+last money: 5287.5
+
+last money: 4680
+
+last money: 5182.5
+
+last money: 5017.5
+
+last money: 4862.5
+
+last money: 5130
+
+last money: 5042.5
+
+last money: 5280
+
+last money: 4837.5
+
+last money: 4645
+
+last money: 5060
+
+last money: 4982.5
+
+last money: 5085
+
+last money: 4817.5
+
+last money: 4972.5
+
+last money: 4967.5
+
+last money: 5190
+
+last money: 5022.5
+
+last money: 4775
+
+last money: 4677.5
+
+last money: 5062.5
+
+last money: 5087.5
+
+last money: 4785
+
+last money: 4837.5
+
+last money: 4905
+
+last money: 4772.5
+
+last money: 4907.5
+
+last money: 4787.5
+
+last money: 4857.5
+
+last money: 4715
+
+last money: 4682.5
+
+last money: 4985
+
+last money: 4977.5
+
+last money: 5235
+
+last money: 5132.5
+
+last money: 5120
+
+last money: 5102.5
+
+last money: 4747.5
+
+last money: 5015
+
+last money: 4867.5
+
+last money: 4817.5
+
+last money: 4860
+
+last money: 5055
+
+last money: 5120
+
+last money: 4917.5
+
+last money: 5052.5
+
+last money: 5455
+
+last money: 4852.5
+
+last money: 4850
+
+last money: 4870
+
+last money: 4990
+
+last money: 5160
+
+last money: 4955
+
+last money: 4897.5
+
+last money: 4912.5
+
+last money: 4747.5
+
+last money: 5135
+
+last money: 5240
+
+last money: 4792.5
+
+last money: 4917.5
+
+last money: 4922.5
+
+last money: 5007.5
+
+last money: 5285
+
+last money: 5027.5
+
+last money: 4780
+
+last money: 4627.5
+
+last money: 5065
+
+last money: 4782.5
+
+last money: 4807.5
+
+last money: 4992.5
+
+last money: 4922.5
+
+last money: 4630
+
+last money: 5385
+
+last money: 4955
+
+last money: 5367.5
+
+last money: 5382.5
+
+last money: 5362.5
+
+last money: 4852.5
+
+last money: 5500
+
+last money: 5435
+
+last money: 4970
+
+last money: 4732.5
+
+last money: 4815
+
+last money: 4950
+
+last money: 4840
+
+last money: 5192.5
+
+last money: 5202.5
+
+last money: 4760
+
+last money: 4880
+
+last money: 4842.5
+
+last money: 4817.5
+
+last money: 4657.5
+
+last money: 5020
+
+last money: 5120
+
+last money: 5092.5
+
+last money: 4787.5
+
+last money: 4867.5
+
+last money: 5017.5
+
+last money: 4800
+
+last money: 4727.5
+
+last money: 4957.5
+
+last money: 4932.5
+
+last money: 5017.5
+
+last money: 5072.5
+
+last money: 5270
+
+last money: 5265
+
+last money: 4655
+
+last money: 5287.5
+
+last money: 5077.5
+
+last money: 4800
+
+last money: 5082.5
+
+last money: 5135
+
+last money: 4735
+
+last money: 4712.5
+
+last money: 4692.5
+
+last money: 4970
+
+last money: 4890
+
+last money: 5117.5
+
+last money: 5070
+
+last money: 5272.5
+
+last money: 5227.5
+
+last money: 4660
+
+last money: 5132.5
+
+last money: 5032.5
+
+last money: 4905
+
+last money: 5072.5
+
+last money: 4807.5
+
+last money: 5185
+
+last money: 4867.5
+
+last money: 5000
+
+last money: 4992.5
+
+last money: 4950
+
+last money: 4652.5
+
+last money: 5047.5
+
+last money: 5007.5
+
+last money: 4687.5
+
+last money: 5002.5
+
+last money: 4795
+
+last money: 5062.5
+
+last money: 4792.5
+
+last money: 5362.5
+
+last money: 5292.5
+
+last money: 5052.5
+
+last money: 4937.5
+
+last money: 5260
+
+last money: 5350
+
+last money: 5325
+
+last money: 4640
+
+last money: 5075
+
+last money: 4875
+
+last money: 4827.5
+
+last money: 4842.5
+
+last money: 4630
+
+last money: 5580
+
+last money: 4797.5
+
+last money: 5132.5
+
+last money: 4937.5
+
+last money: 4960
+
+last money: 4850
+
+last money: 4952.5
+
+last money: 4865
+
+last money: 5037.5
+
+last money: 4692.5
+
+last money: 5175
+
+last money: 5095
+
+last money: 4785
+
+last money: 5330
+
+last money: 4837.5
+
+last money: 4880
+
+last money: 4985
+
+last money: 5137.5
+
+last money: 4970
+
+last money: 4995
+
+last money: 5190
+
+last money: 4872.5
+
+last money: 4977.5
+
+last money: 4907.5
+
+last money: 5105
+
+last money: 4967.5
+
+last money: 5112.5
+
+last money: 4982.5
+
+last money: 4900
+
+last money: 4650
+
+last money: 4682.5
+
+last money: 5225
+
+last money: 4885
+
+last money: 4697.5
+
+last money: 5077.5
+
+last money: 5087.5
+
+last money: 4920
+
+last money: 4867.5
+
+last money: 5382.5
+
+last money: 4942.5
+
+last money: 4922.5
+
+last money: 4990
+
+last money: 5122.5
+
+last money: 4915
+
+last money: 5062.5
+
+last money: 5170
+
+last money: 5417.5
+
+last money: 5272.5
+
+last money: 4925
+
+last money: 5095
+
+last money: 5107.5
+
+last money: 4875
+
+last money: 4677.5
+
+last money: 5025
+
+last money: 4662.5
+
+last money: 4817.5
+
+last money: 4887.5
+
+last money: 4675
+
+last money: 5212.5
+
+last money: 5040
+
+last money: 4705
+
+last money: 4800
+
+last money: 4712.5
+
+last money: 4847.5
+
+last money: 4832.5
+
+last money: 4827.5
+
+last money: 4965
+
+last money: 5127.5
+
+last money: 4792.5
+
+last money: 4822.5
+
+last money: 4677.5
+
+last money: 5097.5
+
+last money: 4850
+
+last money: 4907.5
+
+last money: 5242.5
+
+last money: 4817.5
+
+last money: 4782.5
+
+last money: 4735
+
+last money: 4830
+
+last money: 5185
+
+last money: 4750
+
+last money: 4997.5
+
+last money: 5017.5
+
+last money: 4920
+
+last money: 5100
+
+last money: 4995
+
+last money: 4842.5
+
+last money: 5035
+
+last money: 4772.5
+
+last money: 4925
+
+last money: 4855
+
+last money: 5052.5
+
+last money: 4720
+
+last money: 4980
+
+last money: 4962.5
+
+last money: 4772.5
+
+last money: 5087.5
+
+last money: 4792.5
+
+last money: 4890
+
+last money: 4930
+
+last money: 4702.5
+
+last money: 5070
+
+last money: 5342.5
+
+last money: 5065
+
+last money: 4930
+
+last money: 5265
+
+last money: 4772.5
+
+last money: 5192.5
+
+last money: 5027.5
+
+last money: 4822.5
+
+last money: 4897.5
+
+last money: 4765
+
+last money: 4982.5
+
+last money: 4920
+
+last money: 5475
+
+last money: 5147.5
+
+last money: 4975
+
+last money: 4910
+
+last money: 4672.5
+
+last money: 5375
+
+last money: 5210
+
+last money: 4877.5
+
+last money: 4860
+
+last money: 4897.5
+
+last money: 4750
+
+last money: 4705
+
+last money: 4997.5
+
+last money: 4822.5
+
+last money: 5037.5
+
+last money: 5207.5
+
+last money: 5315
+
+last money: 5265
+
+last money: 4935
+
+last money: 5057.5
+
+last money: 4822.5
+
+last money: 5070
+
+last money: 4877.5
+
+last money: 4790
+
+last money: 5200
+
+last money: 5117.5
+
+last money: 4707.5
+
+last money: 4845
+
+last money: 4952.5
+
+last money: 5080
+
+last money: 4942.5
+
+last money: 4737.5
+
+last money: 4762.5
+
+last money: 5160
+
+last money: 4970
+
+last money: 4760
+
+last money: 4812.5
+
+last money: 4987.5
+
+last money: 4687.5
+
+last money: 5357.5
+
+last money: 4835
+
+last money: 4825
+
+last money: 5160
+
+last money: 5245
+
+last money: 4907.5
+
+last money: 4957.5
+
+last money: 4740
+
+last money: 5212.5
+
+last money: 4870
+
+last money: 4850
+
+last money: 5150
+
+last money: 5287.5
+
+last money: 4800
+
+last money: 4950
+
+last money: 4942.5
+
+last money: 4695
+
+last money: 5127.5
+
+last money: 4905
+
+last money: 5085
+
+last money: 4680
+
+last money: 5480
+
+last money: 5307.5
+
+last money: 4690
+
+last money: 5030
+
+last money: 5052.5
+
+last money: 5530
+
+last money: 5352.5
+
+last money: 5180
+
+last money: 5047.5
+
+last money: 4785
+
+last money: 5182.5
+
+last money: 5132.5
+
+last money: 4870
+
+last money: 4877.5
+
+last money: 4865
+
+last money: 4687.5
+
+last money: 4655
+
+last money: 4705
+
+last money: 4927.5
+
+last money: 4735
+
+last money: 4912.5
+
+last money: 4970
+
+last money: 4900
+
+last money: 5282.5
+
+last money: 4840
+
+last money: 5080
+
+last money: 5262.5
+
+last money: 5047.5
+
+last money: 4812.5
+
+last money: 5077.5
+
+last money: 4800
+
+last money: 5072.5
+
+last money: 5220
+
+last money: 4735
+
+last money: 4797.5
+
+last money: 4930
+
+last money: 5065
+
+last money: 4747.5
+
+last money: 4870
+
+last money: 5367.5
+
+last money: 4832.5
+
+last money: 5152.5
+
+last money: 5080
+
+last money: 5052.5
+
+last money: 5240
+
+last money: 5415
+
+last money: 4752.5
+
+last money: 4800
+
+last money: 5170
+
+last money: 4895
+
+last money: 4742.5
+
+last money: 5260
+
+last money: 4900
+
+last money: 5077.5
+
+last money: 5127.5
+
+last money: 4845
+
+last money: 5342.5
+
+last money: 4960
+
+last money: 4847.5
+
+last money: 5422.5
+
+last money: 4632.5
+
+last money: 4765
+
+last money: 4852.5
+
+last money: 4642.5
+
+last money: 5017.5
+
+last money: 5225
+
+last money: 4835
+
+last money: 4905
+
+last money: 4837.5
+
+last money: 5037.5
+
+last money: 4702.5
+
+last money: 4790
+
+last money: 4840
+
+last money: 4905
+
+last money: 5355
+
+last money: 4870
+
+last money: 4705
+
+last money: 4897.5
+
+last money: 4892.5
+
+last money: 5397.5
+
+last money: 5437.5
+
+last money: 4942.5
+
+last money: 5247.5
+
+last money: 4775
+
+last money: 5195
+
+last money: 5220
+
+last money: 4722.5
+
+last money: 5305
+
+last money: 5220
+
+last money: 5172.5
+
+last money: 4892.5
+
+last money: 4800
+
+last money: 5387.5
+
+last money: 5057.5
+
+last money: 4792.5
+
+last money: 5220
+
+last money: 4830
+
+last money: 4755
+
+last money: 5030
+
+last money: 4935
+
+last money: 5075
+
+last money: 5037.5
+
+last money: 5172.5
+
+last money: 4755
+
+last money: 4827.5
+
+last money: 5132.5
+
+last money: 4942.5
+
+last money: 4992.5
+
+last money: 4715
+
+last money: 5195
+
+last money: 4967.5
+
+last money: 4827.5
+
+last money: 4975
+
+last money: 4787.5
+
+last money: 4837.5
+
+last money: 5017.5
+
+last money: 4750
+
+last money: 4705
+
+last money: 4815
+
+last money: 5162.5
+
+last money: 5422.5
+
+last money: 4910
+
+last money: 4955
+
+last money: 5075
+
+last money: 5082.5
+
+last money: 4747.5
+
+last money: 5012.5
+
+last money: 4970
+
+last money: 5060
+
+last money: 4897.5
+
+last money: 4715
+
+last money: 4785
+
+last money: 4975
+
+last money: 5027.5
+
+last money: 4835
+
+last money: 5172.5
+
+last money: 5012.5
+
+last money: 4772.5
+
+last money: 4992.5
+
+last money: 5192.5
+
+last money: 5175
+
+last money: 4827.5
+
+last money: 5092.5
+
+last money: 4770
+
+last money: 4687.5
+
+last money: 4800
+
+last money: 4782.5
+
+last money: 5235
+
+last money: 4660
+
+last money: 4785
+
+last money: 4805
+
+last money: 4955
+
+last money: 4695
+
+last money: 4757.5
+
+last money: 4767.5
+
+last money: 4665
+
+last money: 4725
+
+last money: 4967.5
+
+last money: 5115
+
+last money: 4637.5
+
+last money: 4982.5
+
+last money: 4760
+
+last money: 5130
+
+last money: 4790
+
+last money: 5120
+
+last money: 4917.5
+
+last money: 4820
+
+last money: 5320
+
+last money: 4930
+
+last money: 5210
+
+last money: 4885
+
+last money: 4700
+
+last money: 4715
+
+last money: 4752.5
+
+last money: 5365
+
+last money: 4745
+
+last money: 4722.5
+
+last money: 4670
+
+last money: 4902.5
+
+last money: 4965
+
+last money: 4712.5
+
+last money: 4752.5
+
+last money: 4685
+
+last money: 4762.5
+
+last money: 4960
+
+last money: 4900
+
+last money: 4807.5
+
+last money: 4772.5
+
+last money: 4897.5
+
+last money: 4795
+
+last money: 4982.5
+
+last money: 4760
+
+last money: 4747.5
+
+last money: 4832.5
+
+last money: 4725
+
+last money: 5280
+
+last money: 4750
+
+last money: 4775
+
+last money: 4775
+
+last money: 4805
+
+last money: 4790
+
+last money: 4997.5
+
+last money: 4795
+
+last money: 4872.5
+
+last money: 4980
+
+last money: 4835
+
+last money: 5207.5
+
+last money: 5330
+
+last money: 4930
+
+last money: 4810
+
+last money: 4820
+
+last money: 5020
+
+last money: 5057.5
+
+last money: 4780
+
+last money: 4817.5
+
+last money: 5155
+
+last money: 4960
+
+last money: 4697.5
+
+last money: 4710
+
+last money: 4842.5
+
+last money: 4967.5
+
+last money: 4765
+
+last money: 5305
+
+last money: 5045
+
+last money: 4820
+
+last money: 5225
+
+last money: 4990
+
+last money: 5145
+
+last money: 4857.5
+
+last money: 4897.5
+
+last money: 4875
+
+last money: 5442.5
+
+last money: 5497.5
+
+last money: 4857.5
+
+last money: 5137.5
+
+last money: 4642.5
+
+last money: 4772.5
+
+last money: 5025
+
+last money: 4790
+
+last money: 4647.5
+
+last money: 4840
+
+last money: 4977.5
+
+last money: 4632.5
+
+last money: 5147.5
+
+last money: 5277.5
+
+last money: 4620
+
+last money: 5035
+
+last money: 5385
+
+last money: 4787.5
+
+last money: 5095
+
+last money: 4852.5
+
+last money: 5115
+
+last money: 4905
+
+last money: 4897.5
+
+last money: 5282.5
+
+last money: 4625
+
+last money: 5180
+
+last money: 4887.5
+
+last money: 5097.5
+
+last money: 5177.5
+
+last money: 5290
+
+last money: 4827.5
+
+last money: 5130
+
+last money: 4740
+
+last money: 4895
+
+last money: 5365
+
+last money: 5100
+
+last money: 4755
+
+last money: 4977.5
+
+last money: 4962.5
+
+last money: 4867.5
+
+last money: 5190
+
+last money: 5297.5
+
+last money: 4795
+
+last money: 5100
+
+last money: 5227.5
+
+last money: 5115
+
+last money: 5117.5
+
+last money: 4972.5
+
+last money: 5130
+
+last money: 5272.5
+
+last money: 4727.5
+
+last money: 4672.5
+
+last money: 5087.5
+
+last money: 5312.5
+
+last money: 4865
+
+last money: 5020
+
+last money: 5067.5
+
+last money: 5020
+
+last money: 5217.5
+
+last money: 4862.5
+
+last money: 5127.5
+
+last money: 5042.5
+
+last money: 4922.5
+
+last money: 5060
+
+last money: 5075
+
+last money: 5135
+
+last money: 4952.5
+
+last money: 5130
+
+last money: 4935
+
+last money: 4910
+
+last money: 5137.5
+
+last money: 4657.5
+
+last money: 4780
+
+last money: 5150
+
+last money: 4990
+
+last money: 4905
+
+last money: 4745
+
+last money: 5085
+
+last money: 4830
+
+last money: 4982.5
+
+last money: 4910
+
+last money: 4905
+
+last money: 4697.5
+
+last money: 4970
+
+last money: 4865
+
+last money: 5425
+
+last money: 4900
+
+last money: 5070
+
+last money: 5005
+
+last money: 5025
+
+last money: 4912.5
+
+last money: 4680
+
+last money: 5127.5
+
+last money: 4815
+
+last money: 4692.5
+
+last money: 5002.5
+
+last money: 4727.5
+
+last money: 5422.5
+
+last money: 4980
+
+last money: 4905
+
+last money: 5277.5
+
+last money: 4902.5
+
+last money: 4922.5
+
+last money: 5355
+
+last money: 4855
+
+last money: 4820
+
+last money: 4860
+
+last money: 4687.5
+
+last money: 4685
+
+last money: 4972.5
+
+last money: 4800
+
+last money: 5067.5
+
+last money: 5122.5
+
+last money: 5142.5
+
+last money: 5327.5
+
+last money: 4800
+
+last money: 4980
+
+last money: 5320
+
+last money: 5107.5
+
+last money: 5047.5
+
+last money: 5242.5
+
+last money: 5142.5
+
+last money: 4930
+
+last money: 5137.5
+
+last money: 4947.5
+
+last money: 5142.5
+
+last money: 5085
+
+last money: 4990
+
+last money: 5170
+
+last money: 4880
+
+last money: 4737.5
+
+last money: 4910
+
+last money: 5260
+
+last money: 5307.5
+
+last money: 4727.5
+
+last money: 5035
+
+last money: 4752.5
+
+last money: 4955
+
+last money: 4670
+
+last money: 4907.5
+
+last money: 5225
+
+last money: 4675
+
+last money: 4862.5
+
+last money: 4857.5
+
+last money: 5060
+
+last money: 4862.5
+
+last money: 5427.5
+
+last money: 4840
+
+last money: 4772.5
+
+last money: 4840
+
+last money: 4897.5
+
+last money: 4787.5
+
+last money: 5147.5
+
+last money: 5125
+
+last money: 4787.5
+
+last money: 4807.5
+
+last money: 4810
+
+last money: 5425
+
+last money: 4740
+
+last money: 4825
+
+last money: 4850
+
+last money: 4942.5
+
+last money: 4997.5
+
+last money: 5002.5
+
+last money: 4707.5
+
+last money: 5207.5
+
+last money: 5090
+
+last money: 4847.5
+
+last money: 4777.5
+
+last money: 4825
+
+last money: 5167.5
+
+last money: 5020
+
+last money: 4742.5
+
+last money: 4842.5
+
+last money: 5305
+
+last money: 4917.5
+
+last money: 5555
+
+last money: 4972.5
+
+last money: 5247.5
+
+last money: 5375
+
+last money: 4850
+
+last money: 5485
+
+last money: 5052.5
+
+last money: 5170
+
+last money: 4927.5
+
+last money: 4995
+
+last money: 5335
+
+last money: 5025
+
+last money: 5300
+
+last money: 5142.5
+
+last money: 4722.5
+
+last money: 4900
+
+last money: 4970
+
+last money: 4912.5
+
+last money: 4985
+
+last money: 4797.5
+
+last money: 4810
+
+last money: 5077.5
+
+last money: 4892.5
+
+last money: 5560
+
+last money: 4945
+
+last money: 5175
+
+last money: 4707.5
+
+last money: 5000
+
+last money: 4907.5
+
+last money: 4770
+
+last money: 4910
+
+last money: 4860
+
+last money: 4995
+
+last money: 4762.5
+
+last money: 5290
+
+last money: 5387.5
+
+last money: 5307.5
+
+last money: 4935
+
+last money: 4750
+
+last money: 5032.5
+
+last money: 5037.5
+
+last money: 4860
+
+last money: 4865
+
+last money: 4862.5
+
+last money: 4835
+
+last money: 4750
+
+last money: 4862.5
+
+last money: 4870
+
+last money: 4840
+
+last money: 5297.5
+
+last money: 5080
+
+last money: 5192.5
+
+last money: 5050
+
+last money: 4750
+
+last money: 5060
+
+last money: 5160
+
+last money: 4767.5
+
+last money: 5135
+
+last money: 4907.5
+
+last money: 4840
+
+last money: 4662.5
+
+last money: 4672.5
+
+last money: 4860
+
+last money: 4907.5
+
+last money: 4790
+
+last money: 4855
+
+last money: 5232.5
+
+last money: 4742.5
+
+last money: 5210
+
+last money: 4822.5
+
+last money: 5147.5
+
+last money: 5070
+
+last money: 5230
+
+last money: 4660
+
+last money: 5055
+
+last money: 4935
+
+last money: 5147.5
+
+last money: 4842.5
+
+last money: 4852.5
+
+last money: 5177.5
+
+last money: 4660
+
+last money: 5052.5
+
+last money: 4770
+
+last money: 4812.5
+
+last money: 4770
+
+last money: 4885
+
+last money: 4795
+
+last money: 4995
+
+last money: 4952.5
+
+last money: 4907.5
+
+last money: 4960
+
+last money: 5020
+
+last money: 4942.5
+
+last money: 4817.5
+
+last money: 4705
+
+last money: 5095
+
+last money: 4915
+
+last money: 5120
+
+last money: 4862.5
+
+last money: 4745
+
+last money: 4622.5
+
+last money: 4772.5
+
+last money: 5297.5
+
+last money: 4897.5
+
+last money: 5142.5
+
+last money: 5005
+
+last money: 4805
+
+last money: 4900
+
+last money: 5010
+
+last money: 5177.5
+
+last money: 4795
+
+last money: 4822.5
+
+last money: 5267.5
+
+last money: 5067.5
+
+last money: 4947.5
+
+last money: 5017.5
+
+last money: 5095
+
+last money: 5030
+
+last money: 4882.5
+
+last money: 4637.5
+
+last money: 5000
+
+last money: 5035
+
+last money: 4935
+
+last money: 5280
+
+last money: 5207.5
+
+last money: 5240
+
+last money: 5175
+
+last money: 4932.5
+
+last money: 4697.5
+
+last money: 4795
+
+last money: 4942.5
+
+last money: 5247.5
+
+last money: 5040
+
+last money: 4742.5
+
+last money: 4852.5
+
+last money: 5375
+
+last money: 4957.5
+
+last money: 4965
+
+last money: 5025
+
+last money: 4762.5
+
+last money: 4872.5
+
+last money: 5147.5
+
+last money: 5035
+
+last money: 4650
+
+last money: 5045
+
+last money: 4827.5
+
+last money: 4900
+
+last money: 5320
+
+last money: 4750
+
+last money: 4787.5
+
+last money: 4697.5
+
+last money: 5145
+
+last money: 4832.5
+
+last money: 4935
+
+last money: 4917.5
+
+last money: 5447.5
+
+last money: 4837.5
+
+last money: 4862.5
+
+last money: 4920
+
+last money: 4795
+
+last money: 4897.5
+
+last money: 4762.5
+
+last money: 5025
+
+last money: 4852.5
+
+last money: 5260
+
+last money: 4685
+
+last money: 4915
+
+last money: 4772.5
+
+last money: 5500
+
+last money: 5140
+
+last money: 4927.5
+
+last money: 5095
+
+last money: 4905
+
+last money: 5000
+
+last money: 4705
+
+last money: 5297.5
+
+last money: 5110
+
+last money: 4987.5
+
+last money: 4845
+
+last money: 5347.5
+
+last money: 4927.5
+
+last money: 4745
+
+last money: 4877.5
+
+last money: 5055
+
+last money: 4835
+
+last money: 5007.5
+
+last money: 4955
+
+last money: 5285
+
+last money: 5052.5
+
+last money: 5287.5
+
+last money: 5157.5
+
+last money: 4655
+
+last money: 5185
+
+last money: 4980
+
+last money: 4777.5
+
+last money: 4897.5
+
+last money: 5085
+
+last money: 5035
+
+last money: 5125
+
+last money: 4677.5
+
+last money: 5100
+
+last money: 5220
+
+last money: 4852.5
+
+last money: 4887.5
+
+last money: 5422.5
+
+last money: 4685
+
+last money: 5287.5
+
+last money: 5075
+
+last money: 5130
+
+last money: 5072.5
+
+last money: 4917.5
+
+last money: 5277.5
+
+last money: 4757.5
+
+last money: 4897.5
+
+last money: 4827.5
+
+last money: 4940
+
+last money: 4965
+
+last money: 5422.5
+
+last money: 5137.5
+
+last money: 4767.5
+
+last money: 4672.5
+
+last money: 5075
+
+last money: 4755
+
+last money: 5002.5
+
+last money: 4892.5
+
+last money: 5080
+
+last money: 5322.5
+
+last money: 4942.5
+
+last money: 5252.5
+
+last money: 5037.5
+
+last money: 4847.5
+
+last money: 4902.5
+
+last money: 4882.5
+
+last money: 4747.5
+
+last money: 4880
+
+last money: 4752.5
+
+last money: 5110
+
+last money: 4885
+
+last money: 5037.5
+
+last money: 4990
+
+last money: 4920
+
+last money: 4772.5
+
+last money: 4772.5
+
+last money: 4892.5
+
+last money: 4827.5
+
+last money: 4842.5
+
+last money: 5027.5
+
+last money: 4917.5
+
+last money: 4742.5
+
+last money: 5067.5
+
+last money: 5195
+
+last money: 5152.5
+
+last money: 4850
+
+last money: 4620
+
+last money: 4682.5
+
+last money: 4725
+
+last money: 5205
+
+last money: 5090
+
+last money: 4777.5
+
+last money: 4762.5
+
+last money: 4947.5
+
+last money: 4620
+
+last money: 5030
+
+last money: 4925
+
+last money: 4987.5
+
+last money: 5195
+
+last money: 4695
+
+last money: 5185
+
+last money: 4685
+
+last money: 4675
+
+last money: 5417.5
+
+last money: 4985
+
+last money: 4952.5
+
+last money: 4850
+
+last money: 5032.5
+
+last money: 4845
+
+last money: 4795
+
+last money: 5005
+
+last money: 4680
+
+last money: 4795
+
+last money: 4877.5
+
+last money: 5207.5
+
+last money: 5035
+
+last money: 5310
+
+last money: 5267.5
+
+last money: 4955
+
+last money: 4955
+
+last money: 4787.5
+
+last money: 5070
+
+last money: 4737.5
+
+last money: 4880
+
+last money: 4767.5
+
+last money: 4917.5
+
+last money: 4927.5
+
+last money: 4812.5
+
+last money: 5172.5
+
+last money: 4780
+
+last money: 4800
+
+last money: 4680
+
+last money: 4647.5
+
+last money: 5135
+
+last money: 5050
+
+last money: 4930
+
+last money: 5125
+
+last money: 5480
+
+last money: 5302.5
+
+last money: 4787.5
+
+last money: 4867.5
+
+last money: 4897.5
+
+last money: 5320
+
+last money: 4775
+
+last money: 5075
+
+last money: 4965
+
+last money: 4852.5
+
+last money: 4840
+
+last money: 4982.5
+
+last money: 4897.5
+
+last money: 4642.5
+
+last money: 4882.5
+
+last money: 4780
+
+last money: 4625
+
+last money: 4632.5
+
+last money: 4990
+
+last money: 4865
+
+last money: 4945
+
+last money: 4955
+
+last money: 4680
+
+last money: 4792.5
+
+last money: 4822.5
+
+last money: 4685
+
+last money: 5122.5
+
+last money: 5082.5
+
+last money: 4867.5
+
+last money: 5502.5
+
+last money: 4722.5
+
+last money: 5212.5
+
+last money: 5037.5
+
+last money: 4910
+
+last money: 5005
+
+last money: 4965
+
+last money: 5005
+
+last money: 4750
+
+last money: 5227.5
+
+last money: 5027.5
+
+last money: 5090
+
+last money: 4910
+
+last money: 4745
+
+last money: 4865
+
+last money: 4922.5
+
+last money: 4737.5
+
+last money: 5020
+
+last money: 5292.5
+
+last money: 5315
+
+last money: 5050
+
+last money: 4717.5
+
+last money: 4790
+
+last money: 4817.5
+
+last money: 5065
+
+last money: 4942.5
+
+last money: 4920
+
+last money: 4985
+
+last money: 5222.5
+
+last money: 5142.5
+
+last money: 5107.5
+
+last money: 4735
+
+last money: 5047.5
+
+last money: 4870
+
+last money: 4910
+
+last money: 4997.5
+
+last money: 4750
+
+last money: 4950
+
+last money: 5150
+
+last money: 5135
+
+last money: 5002.5
+
+last money: 4967.5
+
+last money: 5287.5
+
+last money: 5047.5
+
+last money: 4830
+
+last money: 4830
+
+last money: 4697.5
+
+last money: 4810
+
+last money: 5220
+
+last money: 4827.5
+
+last money: 5050
+
+last money: 4977.5
+
+last money: 4700
+
+last money: 4775
+
+last money: 4840
+
+last money: 5252.5
+
+last money: 4750
+
+last money: 4695
+
+last money: 4715
+
+last money: 4797.5
+
+last money: 4750
+
+last money: 4975
+
+last money: 4792.5
+
+last money: 5095
+
+last money: 4782.5
+
+last money: 4760
+
+last money: 4845
+
+last money: 4935
+
+last money: 5200
+
+last money: 4850
+
+last money: 5335
+
+last money: 4732.5
+
+last money: 4827.5
+
+last money: 4997.5
+
+last money: 4737.5
+
+last money: 4680
+
+last money: 4780
+
+last money: 5012.5
+
+last money: 5227.5
+
+last money: 5102.5
+
+last money: 4925
+
+last money: 5200
+
+last money: 4757.5
+
+last money: 4790
+
+last money: 4877.5
+
+last money: 5175
+
+last money: 5032.5
+
+last money: 5045
+
+last money: 5140
+
+last money: 5252.5
+
+last money: 4982.5
+
+last money: 4680
+
+last money: 5147.5
+
+last money: 4657.5
+
+last money: 5130
+
+last money: 5070
+
+last money: 4960
+
+last money: 5220
+
+last money: 4902.5
+
+last money: 4980
+
+last money: 5167.5
+
+last money: 4980
+
+last money: 5132.5
+
+last money: 4677.5
+
+last money: 4687.5
+
+last money: 4800
+
+last money: 5170
+
+last money: 4885
+
+last money: 5200
+
+last money: 4905
+
+last money: 4955
+
+last money: 5065
+
+last money: 4865
+
+last money: 4960
+
+last money: 4720
+
+last money: 5110
+
+last money: 5157.5
+
+last money: 5435
+
+last money: 4780
+
+last money: 5105
+
+last money: 4885
+
+last money: 4837.5
+
+last money: 5065
+
+last money: 4895
+
+last money: 5012.5
+
+last money: 5022.5
+
+last money: 4710
+
+last money: 4935
+
+last money: 5155
+
+last money: 4730
+
+last money: 5100
+
+last money: 4990
+
+last money: 4690
+
+last money: 5430
+
+last money: 5370
+
+last money: 4637.5
+
+last money: 4932.5
+
+last money: 5245
+
+last money: 4662.5
+
+last money: 4927.5
+
+last money: 4767.5
+
+last money: 4755
+
+last money: 4950
+
+last money: 5125
+
+last money: 4742.5
+
+last money: 5340
+
+last money: 4900
+
+last money: 4810
+
+last money: 5420
+
+last money: 4907.5
+
+last money: 5305
+
+last money: 4875
+
+last money: 4705
+
+last money: 5057.5
+
+last money: 5180
+
+last money: 4945
+
+last money: 4840
+
+last money: 4990
+
+last money: 4855
+
+last money: 4762.5
+
+last money: 5225
+
+last money: 4972.5
+
+last money: 5010
+
+last money: 4785
+
+last money: 4955
+
+last money: 4890
+
+last money: 4890
+
+last money: 4897.5
+
+last money: 5032.5
+
+last money: 4895
+
+last money: 5072.5
+
+last money: 5020
+
+last money: 4675
+
+last money: 4627.5
+
+last money: 4675
+
+last money: 4915
+
+last money: 4807.5
+
+last money: 5207.5
+
+last money: 4825
+
+last money: 5082.5
+
+last money: 4947.5
+
+last money: 4985
+
+last money: 4725
+
+last money: 4882.5
+
+last money: 4765
+
+last money: 5395
+
+last money: 5072.5
+
+last money: 5172.5
+
+last money: 5060
+
+last money: 4715
+
+last money: 4945
+
+last money: 4850
+
+last money: 4930
+
+last money: 5250
+
+last money: 4872.5
+
+last money: 5042.5
+
+last money: 4870
+
+last money: 5415
+
+last money: 5142.5
+
+last money: 4840
+
+last money: 4847.5
+
+last money: 5107.5
+
+last money: 4842.5
+
+last money: 4790
+
+last money: 4980
+
+last money: 4982.5
+
+last money: 4905
+
+last money: 5280
+
+last money: 4715
+
+last money: 4742.5
+
+last money: 4980
+
+last money: 5405
+
+last money: 4922.5
+
+last money: 4835
+
+last money: 4720
+
+last money: 4972.5
+
+last money: 4935
+
+last money: 4815
+
+last money: 4762.5
+
+last money: 4915
+
+last money: 4972.5
+
+last money: 5075
+
+last money: 5665
+
+last money: 4877.5
+
+last money: 5280
+
+last money: 5320
+
+last money: 5347.5
+
+last money: 5162.5
+
+last money: 4932.5
+
+last money: 4672.5
+
+last money: 4700
+
+last money: 4875
+
+last money: 4845
+
+last money: 5007.5
+
+last money: 5182.5
+
+last money: 4735
+
+last money: 4770
+
+last money: 4952.5
+
+last money: 4827.5
+
+last money: 5127.5
+
+last money: 4942.5
+
+last money: 4942.5
+
+last money: 4852.5
+
+last money: 5120
+
+last money: 4920
+
+last money: 5537.5
+
+last money: 4777.5
+
+last money: 4797.5
+
+last money: 5282.5
+
+last money: 5255
+
+last money: 4830
+
+last money: 5062.5
+
+last money: 4912.5
+
+last money: 4727.5
+
+last money: 4842.5
+
+last money: 4882.5
+
+last money: 5252.5
+
+last money: 4762.5
+
+last money: 4687.5
+
+last money: 4752.5
+
+last money: 4910
+
+last money: 4900
+
+last money: 4912.5
+
+last money: 4705
+
+last money: 4695
+
+last money: 5265
+
+last money: 5215
+
+last money: 5157.5
+
+last money: 4840
+
+last money: 5052.5
+
+last money: 4830
+
+last money: 4795
+
+last money: 4870
+
+last money: 5075
+
+last money: 5370
+
+last money: 4850
+
+last money: 5440
+
+last money: 4852.5
+
+last money: 5182.5
+
+last money: 4962.5
+
+last money: 4960
+
+last money: 4905
+
+last money: 5155
+
+last money: 4670
+
+last money: 4640
+
+last money: 4715
+
+last money: 5177.5
+
+last money: 4722.5
+
+last money: 4940
+
+last money: 4977.5
+
+last money: 4845
+
+last money: 5050
+
+last money: 4645
+
+last money: 4807.5
+
+last money: 4940
+
+last money: 4777.5
+
+last money: 4932.5
+
+last money: 5147.5
+
+last money: 4842.5
+
+last money: 5035
+
+last money: 5052.5
+
+last money: 4765
+
+last money: 5145
+
+last money: 4770
+
+last money: 5040
+
+last money: 4827.5
+
+last money: 5127.5
+
+last money: 5295
+
+last money: 4857.5
+
+last money: 5027.5
+
+last money: 5265
+
+last money: 5212.5
+
+last money: 5140
+
+last money: 5125
+
+last money: 4995
+
+last money: 5050
+
+last money: 4775
+
+last money: 4922.5
+
+last money: 4877.5
+
+last money: 4985
+
+last money: 4902.5
+
+last money: 4867.5
+
+last money: 4732.5
+
+last money: 5035
+
+last money: 5215
+
+last money: 4855
+
+last money: 4960
+
+last money: 5115
+
+last money: 5055
+
+last money: 5197.5
+
+last money: 5152.5
+
+last money: 4975
+
+last money: 4855
+
+last money: 4630
+
+last money: 5132.5
+
+last money: 5417.5
+
+last money: 4970
+
+last money: 5247.5
+
+last money: 4927.5
+
+last money: 5585
+
+last money: 5007.5
+
+last money: 5112.5
+
+last money: 4860
+
+last money: 4840
+
+last money: 4897.5
+
+last money: 5330
+
+last money: 4970
+
+last money: 5055
+
+last money: 4970
+
+last money: 4740
+
+last money: 4735
+
+last money: 5105
+
+last money: 4972.5
+
+last money: 4850
+
+last money: 5137.5
+
+last money: 4790
+
+last money: 4917.5
+
+last money: 4830
+
+last money: 5165
+
+last money: 5277.5
+
+last money: 4827.5
+
+last money: 5197.5
+
+last money: 4910
+
+last money: 5117.5
+
+last money: 4827.5
+
+last money: 4757.5
+
+last money: 4725
+
+last money: 5165
+
+last money: 5550
+
+last money: 5045
+
+last money: 4845
+
+last money: 4985
+
+last money: 5130
+
+last money: 4825
+
+last money: 5202.5
+
+last money: 4822.5
+
+last money: 4725
+
+last money: 5020
+
+last money: 4997.5
+
+last money: 5040
+
+last money: 4850
+
+last money: 4830
+
+last money: 4787.5
+
+last money: 4857.5
+
+last money: 4852.5
+
+last money: 5010
+
+last money: 4780
+
+last money: 5380
+
+last money: 4662.5
+
+last money: 5125
+
+last money: 4935
+
+last money: 5290
+
+last money: 4615
+
+last money: 5032.5
+
+last money: 4805
+
+last money: 4775
+
+last money: 5282.5
+
+last money: 5135
+
+last money: 5422.5
+
+last money: 4672.5
+
+last money: 5005
+
+last money: 4855
+
+last money: 4750
+
+last money: 4875
+
+last money: 4835
+
+last money: 5270
+
+last money: 5112.5
+
+last money: 5430
+
+last money: 4877.5
+
+last money: 4935
+
+last money: 4855
+
+last money: 4725
+
+last money: 4932.5
+
+last money: 5237.5
+
+last money: 4920
+
+last money: 4977.5
+
+last money: 5017.5
+
+last money: 4677.5
+
+last money: 5107.5
+
+last money: 5010
+
+last money: 4745
+
+last money: 4822.5
+
+last money: 4692.5
+
+last money: 4915
+
+last money: 5057.5
+
+last money: 4720
+
+last money: 4882.5
+
+last money: 4775
+
+last money: 5262.5
+
+last money: 4902.5
+
+last money: 4975
+
+last money: 5007.5
+
+last money: 4872.5
+
+last money: 4890
+
+last money: 4872.5
+
+last money: 4887.5
+
+last money: 4975
+
+last money: 4812.5
+
+last money: 4987.5
+
+last money: 4830
+
+last money: 5235
+
+last money: 5420
+
+last money: 4862.5
+
+last money: 4735
+
+last money: 5070
+
+last money: 4987.5
+
+last money: 4850
+
+last money: 4702.5
+
+last money: 4947.5
+
+last money: 4837.5
+
+last money: 5112.5
+
+last money: 4802.5
+
+last money: 5332.5
+
+last money: 5007.5
+
+last money: 4947.5
+
+last money: 4785
+
+last money: 4757.5
+
+last money: 5220
+
+last money: 5437.5
+
+last money: 5075
+
+last money: 4747.5
+
+last money: 4800
+
+last money: 4902.5
+
+last money: 5047.5
+
+last money: 5097.5
+
+last money: 4972.5
+
+last money: 4667.5
+
+last money: 4707.5
+
+last money: 4967.5
+
+last money: 4777.5
+
+last money: 5390
+
+last money: 4922.5
+
+last money: 4715
+
+last money: 4807.5
+
+last money: 4915
+
+last money: 4687.5
+
+last money: 5240
+
+last money: 4827.5
+
+last money: 5242.5
+
+last money: 4765
+
+last money: 4822.5
+
+last money: 4820
+
+last money: 5202.5
+
+last money: 4737.5
+
+last money: 5080
+
+last money: 5240
+
+last money: 5137.5
+
+last money: 4905
+
+last money: 5260
+
+last money: 4885
+
+last money: 5080
+
+last money: 4760
+
+last money: 4830
+
+last money: 4857.5
+
+last money: 5360
+
+last money: 5355
+
+last money: 4902.5
+
+last money: 4665
+
+last money: 5287.5
+
+last money: 4897.5
+
+last money: 4840
+
+last money: 5232.5
+
+last money: 5202.5
+
+last money: 4842.5
+
+last money: 5205
+
+last money: 5452.5
+
+last money: 5240
+
+last money: 5050
+
+last money: 4890
+
+last money: 5152.5
+
+last money: 4980
+
+last money: 4660
+
+last money: 5007.5
+
+last money: 4750
+
+last money: 4655
+
+last money: 4647.5
+
+last money: 4750
+
+last money: 4962.5
+
+last money: 5210
+
+last money: 4907.5
+
+last money: 5035
+
+last money: 4800
+
+last money: 4985
+
+last money: 5090
+
+last money: 4660
+
+last money: 4832.5
+
+last money: 4820
+
+last money: 4795
+
+last money: 4900
+
+last money: 4877.5
+
+last money: 4657.5
+
+last money: 5090
+
+last money: 4917.5
+
+last money: 4675
+
+last money: 5217.5
+
+last money: 4917.5
+
+last money: 4782.5
+
+last money: 4637.5
+
+last money: 4960
+
+last money: 4640
+
+last money: 4852.5
+
+last money: 5047.5
+
+last money: 4797.5
+
+last money: 4707.5
+
+last money: 4697.5
+
+last money: 4892.5
+
+last money: 4707.5
+
+last money: 4807.5
+
+last money: 4675
+
+last money: 5025
+
+last money: 4760
+
+last money: 4660
+
+last money: 5025
+
+last money: 4892.5
+
+last money: 4775
+
+last money: 4882.5
+
+last money: 5135
+
+last money: 5200
+
+last money: 4697.5
+
+last money: 5002.5
+
+last money: 4797.5
+
+last money: 4712.5
+
+last money: 4990
+
+last money: 5477.5
+
+last money: 4777.5
+
+last money: 4840
+
+last money: 5307.5
+
+last money: 4950
+
+last money: 4750
+
+last money: 4702.5
+
+last money: 5102.5
+
+last money: 4822.5
+
+last money: 4867.5
+
+last money: 4855
+
+last money: 4880
+
+last money: 4760
+
+last money: 5282.5
+
+last money: 5015
+
+last money: 4990
+
+last money: 5105
+
+last money: 5060
+
+last money: 4742.5
+
+last money: 5125
+
+last money: 4937.5
+
+last money: 4860
+
+last money: 5112.5
+
+last money: 4877.5
+
+last money: 5247.5
+
+last money: 4735
+
+last money: 4817.5
+
+last money: 4680
+
+last money: 4765
+
+last money: 4800
+
+last money: 4755
+
+last money: 4862.5
+
+last money: 5115
+
+last money: 4970
+
+last money: 4997.5
+
+last money: 5002.5
+
+last money: 5585
+
+last money: 5252.5
+
+last money: 4865
+
+last money: 4632.5
+
+last money: 5035
+
+last money: 4822.5
+
+last money: 4780
+
+last money: 4932.5
+
+last money: 4822.5
+
+last money: 4660
+
+last money: 4850
+
+last money: 4852.5
+
+last money: 4762.5
+
+last money: 4760
+
+last money: 5152.5
+
+last money: 4770
+
+last money: 4777.5
+
+last money: 5145
+
+last money: 4632.5
+
+last money: 4667.5
+
+last money: 4755
+
+last money: 4722.5
+
+last money: 5027.5
+
+last money: 4842.5
+
+last money: 4972.5
+
+last money: 4665
+
+last money: 4765
+
+last money: 5050
+
+last money: 4985
+
+last money: 4805
+
+last money: 5190
+
+last money: 4955
+
+last money: 5137.5
+
+last money: 4965
+
+last money: 4695
+
+last money: 5507.5
+
+last money: 4877.5
+
+last money: 4830
+
+last money: 4957.5
+
+last money: 4902.5
+
+last money: 4850
+
+last money: 5030
+
+last money: 5080
+
+last money: 4892.5
+
+last money: 5180
+
+last money: 4850
+
+last money: 4735
+
+last money: 5087.5
+
+last money: 4705
+
+last money: 5027.5
+
+last money: 4660
+
+last money: 4730
+
+last money: 5405
+
+last money: 5120
+
+last money: 4897.5
+
+last money: 5097.5
+
+last money: 4750
+
+last money: 4872.5
+
+last money: 5290
+
+last money: 5057.5
+
+last money: 4975
+
+last money: 5205
+
+last money: 4755
+
+last money: 4975
+
+last money: 4702.5
+
+last money: 4945
+
+last money: 4680
+
+last money: 4707.5
+
+last money: 4860
+
+last money: 4692.5
+
+last money: 5007.5
+
+last money: 5197.5
+
+last money: 5077.5
+
+last money: 4707.5
+
+last money: 4695
+
+last money: 5285
+
+last money: 4990
+
+last money: 4737.5
+
+last money: 4715
+
+last money: 5107.5
+
+last money: 5105
+
+last money: 4857.5
+
+last money: 4962.5
+
+last money: 4842.5
+
+last money: 5207.5
+
+last money: 5040
+
+last money: 4995
+
+last money: 4932.5
+
+last money: 4960
+
+last money: 4767.5
+
+last money: 4955
+
+last money: 5150
+
+last money: 5015
+
+last money: 5082.5
+
+last money: 4640
+
+last money: 4725
+
+last money: 4810
+
+last money: 5032.5
+
+last money: 4772.5
+
+last money: 5222.5
+
+last money: 5252.5
+
+last money: 4900
+
+last money: 4900
+
+last money: 4817.5
+
+last money: 4775
+
+last money: 4805
+
+last money: 4707.5
+
+last money: 4835
+
+last money: 5385
+
+last money: 4797.5
+
+last money: 4662.5
+
+last money: 5212.5
+
+last money: 5057.5
+
+last money: 4912.5
+
+last money: 4930
+
+last money: 5132.5
+
+last money: 4867.5
+
+last money: 4647.5
+
+last money: 4802.5
+
+last money: 4875
+
+last money: 4765
+
+last money: 5220
+
+last money: 4945
+
+last money: 4752.5
+
+last money: 4785
+
+last money: 4972.5
+
+last money: 4750
+
+last money: 4710
+
+last money: 4910
+
+last money: 4757.5
+
+last money: 4777.5
+
+last money: 4727.5
+
+last money: 5105
+
+last money: 5122.5
+
+last money: 4887.5
+
+last money: 5147.5
+
+last money: 5392.5
+
+last money: 5210
+
+last money: 5107.5
+
+last money: 4762.5
+
+last money: 4745
+
+last money: 4990
+
+last money: 4982.5
+
+last money: 5085
+
+last money: 4662.5
+
+last money: 4740
+
+last money: 4920
+
+last money: 4922.5
+
+last money: 5122.5
+
+last money: 5535
+
+last money: 4675
+
+last money: 4997.5
+
+last money: 4885
+
+last money: 5007.5
+
+last money: 4822.5
+
+last money: 4692.5
+
+last money: 5097.5
+
+last money: 4995
+
+last money: 4910
+
+last money: 4747.5
+
+last money: 4952.5
+
+last money: 4900
+
+last money: 4667.5
+
+last money: 5062.5
+
+last money: 5135
+
+last money: 5025
+
+last money: 4852.5
+
+last money: 4977.5
+
+last money: 4980
+
+last money: 5010
+
+last money: 5185
+
+last money: 5295
+
+last money: 4952.5
+
+last money: 4905
+
+last money: 4765
+
+last money: 4890
+
+last money: 5132.5
+
+last money: 4657.5
+
+last money: 5207.5
+
+last money: 4777.5
+
+last money: 5110
+
+last money: 4787.5
+
+last money: 4642.5
+
+last money: 4682.5
+
+last money: 4945
+
+last money: 4960
+
+last money: 4872.5
+
+last money: 4762.5
+
+last money: 4775
+
+last money: 4900
+
+last money: 4942.5
+
+last money: 5280
+
+last money: 5015
+
+last money: 4882.5
+
+last money: 5012.5
+
+last money: 5107.5
+
+last money: 4907.5
+
+last money: 4797.5
+
+last money: 4912.5
+
+last money: 4760
+
+last money: 4702.5
+
+last money: 4747.5
+
+last money: 4760
+
+last money: 5205
+
+last money: 4785
+
+last money: 4745
+
+last money: 4650
+
+last money: 5057.5
+
+last money: 4947.5
+
+last money: 4795
+
+last money: 5000
+
+last money: 4840
+
+last money: 4722.5
+
+last money: 4892.5
+
+last money: 4680
+
+last money: 5107.5
+
+last money: 4800
+
+last money: 5140
+
+last money: 5020
+
+last money: 5045
+
+last money: 4887.5
+
+last money: 4912.5
+
+last money: 4790
+
+last money: 5047.5
+
+last money: 5437.5
+
+last money: 4875
+
+last money: 4725
+
+last money: 4732.5
+
+last money: 4837.5
+
+last money: 4750
+
+last money: 4702.5
+
+last money: 5207.5
+
+last money: 4867.5
+
+last money: 5152.5
+
+last money: 5105
+
+last money: 5017.5
+
+last money: 4967.5
+
+last money: 5130
+
+last money: 5005
+
+last money: 4700
+
+last money: 5247.5
+
+last money: 4917.5
+
+last money: 4730
+
+last money: 4675
+
+last money: 4627.5
+
+last money: 5255
+
+last money: 4787.5
+
+last money: 4697.5
+
+last money: 5160
+
+last money: 4830
+
+last money: 4675
+
+last money: 4675
+
+last money: 5415
+
+last money: 4692.5
+
+last money: 4837.5
+
+last money: 4800
+
+last money: 5150
+
+last money: 5032.5
+
+last money: 5150
+
+last money: 5320
+
+last money: 5455
+
+last money: 4850
+
+last money: 5005
+
+last money: 4812.5
+
+last money: 4900
+
+last money: 5022.5
+
+last money: 4852.5
+
+last money: 5217.5
+
+last money: 4755
+
+last money: 4750
+
+last money: 4725
+
+last money: 5072.5
+
+last money: 5042.5
+
+last money: 4647.5
+
+last money: 5175
+
+last money: 5045
+
+last money: 4757.5
+
+last money: 5200
+
+last money: 4705
+
+last money: 4875
+
+last money: 4880
+
+last money: 5225
+
+last money: 5057.5
+
+last money: 5087.5
+
+last money: 4842.5
+
+last money: 4982.5
+
+last money: 5030
+
+last money: 4652.5
+
+last money: 4770
+
+last money: 4832.5
+
+last money: 4875
+
+last money: 5200
+
+last money: 5210
+
+last money: 5215
+
+last money: 5300
+
+last money: 5385
+
+last money: 4887.5
+
+last money: 4750
+
+last money: 5135
+
+last money: 4967.5
+
+last money: 5070
+
+last money: 5090
+
+last money: 4910
+
+last money: 4915
+
+last money: 5262.5
+
+last money: 4980
+
+last money: 4955
+
+last money: 4747.5
+
+last money: 4922.5
+
+last money: 5435
+
+last money: 5180
+
+last money: 5260
+
+last money: 4900
+
+last money: 5047.5
+
+last money: 4682.5
+
+last money: 5220
+
+last money: 4855
+
+last money: 5097.5
+
+last money: 4890
+
+last money: 4727.5
+
+last money: 4912.5
+
+last money: 4837.5
+
+last money: 5255
+
+last money: 4992.5
+
+last money: 4812.5
+
+last money: 4767.5
+
+last money: 5147.5
+
+last money: 5215
+
+last money: 4967.5
+
+last money: 5282.5
+
+last money: 5122.5
+
+last money: 5262.5
+
+last money: 4760
+
+last money: 5072.5
+
+last money: 5080
+
+last money: 4797.5
+
+last money: 4922.5
+
+last money: 5237.5
+
+last money: 4652.5
+
+last money: 4932.5
+
+last money: 5282.5
+
+last money: 4782.5
+
+last money: 4705
+
+last money: 4937.5
+
+last money: 5020
+
+last money: 5397.5
+
+last money: 4917.5
+
+last money: 4932.5
+
+last money: 4700
+
+last money: 4995
+
+last money: 4787.5
+
+last money: 5080
+
+last money: 4815
+
+last money: 4930
+
+last money: 5282.5
+
+last money: 5447.5
+
+last money: 4867.5
+
+last money: 4832.5
+
+last money: 4720
+
+last money: 4860
+
+last money: 5190
+
+last money: 4797.5
+
+last money: 5057.5
+
+last money: 5135
+
+last money: 4900
+
+last money: 5102.5
+
+last money: 5040
+
+last money: 4912.5
+
+last money: 5025
+
+last money: 5155
+
+last money: 4952.5
+
+last money: 5147.5
+
+last money: 4732.5
+
+last money: 5037.5
+
+last money: 5132.5
+
+last money: 4742.5
+
+last money: 5105
+
+last money: 4672.5
+
+last money: 4745
+
+last money: 4917.5
+
+last money: 5210
+
+last money: 5220
+
+last money: 4957.5
+
+last money: 4917.5
+
+last money: 5097.5
+
+last money: 4897.5
+
+last money: 5205
+
+last money: 5180
+
+last money: 5325
+
+last money: 4785
+
+last money: 4892.5
+
+last money: 4910
+
+last money: 5195
+
+last money: 5045
+
+last money: 4925
+
+last money: 4870
+
+last money: 4712.5
+
+last money: 4767.5
+
+last money: 4832.5
+
+last money: 4930
+
+last money: 4925
+
+last money: 4705
+
+last money: 5145
+
+last money: 4807.5
+
+last money: 4860
+
+last money: 5175
+
+last money: 4655
+
+last money: 5140
+
+last money: 5245
+
+last money: 5062.5
+
+last money: 5005
+
+last money: 4960
+
+last money: 5405
+
+last money: 5127.5
+
+last money: 4935
+
+last money: 4937.5
+
+last money: 4785
+
+last money: 4777.5
+
+last money: 5120
+
+last money: 4870
+
+last money: 4672.5
+
+last money: 5010
+
+last money: 5280
+
+last money: 5015
+
+last money: 4910
+
+last money: 4830
+
+last money: 4770
+
+last money: 4982.5
+
+last money: 5292.5
+
+last money: 5240
+
+last money: 4710
+
+last money: 4815
+
+last money: 4970
+
+last money: 5447.5
+
+last money: 5137.5
+
+last money: 4707.5
+
+last money: 4635
+
+last money: 4665
+
+last money: 4992.5
+
+last money: 5287.5
+
+last money: 4947.5
+
+last money: 4805
+
+last money: 4887.5
+
+last money: 5137.5
+
+last money: 4892.5
+
+last money: 4852.5
+
+last money: 5145
+
+last money: 5237.5
+
+last money: 4762.5
+
+last money: 4825
+
+last money: 5517.5
+
+last money: 4690
+
+last money: 4897.5
+
+last money: 5055
+
+last money: 4687.5
+
+last money: 4832.5
+
+last money: 5155
+
+last money: 4812.5
+
+last money: 4790
+
+last money: 5312.5
+
+last money: 4925
+
+last money: 5120
+
+last money: 4982.5
+
+last money: 5110
+
+last money: 5097.5
+
+last money: 4845
+
+last money: 4977.5
+
+last money: 4777.5
+
+last money: 4697.5
+
+last money: 5042.5
+
+last money: 5452.5
+
+last money: 5052.5
+
+last money: 5182.5
+
+last money: 5000
+
+last money: 4955
+
+last money: 5070
+
+last money: 5272.5
+
+last money: 5302.5
+
+last money: 4802.5
+
+last money: 4907.5
+
+last money: 5087.5
+
+last money: 5040
+
+last money: 4690
+
+last money: 4782.5
+
+last money: 5032.5
+
+last money: 4895
+
+last money: 4680
+
+last money: 5232.5
+
+last money: 4905
+
+last money: 4845
+
+last money: 5095
+
+last money: 5032.5
+
+last money: 4845
+
+last money: 4795
+
+last money: 5065
+
+last money: 4922.5
+
+last money: 4865
+
+last money: 4972.5
+
+last money: 5107.5
+
+last money: 4887.5
+
+last money: 4627.5
+
+last money: 5207.5
+
+last money: 4927.5
+
+last money: 5282.5
+
+last money: 4832.5
+
+last money: 5165
+
+last money: 4847.5
+
+last money: 5005
+
+last money: 5147.5
+
+last money: 4765
+
+last money: 4685
+
+last money: 5132.5
+
+last money: 5160
+
+last money: 4940
+
+last money: 4952.5
+
+last money: 4832.5
+
+last money: 4925
+
+last money: 4907.5
+
+last money: 5000
+
+last money: 4880
+
+last money: 4935
+
+last money: 5565
+
+last money: 5075
+
+last money: 4847.5
+
+last money: 4905
+
+last money: 4775
+
+last money: 5142.5
+
+last money: 5307.5
+
+last money: 5107.5
+
+last money: 4822.5
+
+last money: 5002.5
+
+last money: 4860
+
+last money: 4655
+
+last money: 4982.5
+
+last money: 4990
+
+last money: 5055
+
+last money: 4800
+
+last money: 5630
+
+last money: 4845
+
+last money: 4960
+
+last money: 5000
+
+last money: 5327.5
+
+last money: 4990
+
+last money: 4752.5
+
+last money: 5050
+
+last money: 4800
+
+last money: 5435
+
+last money: 5145
+
+last money: 4745
+
+last money: 4777.5
+
+last money: 4907.5
+
+last money: 4812.5
+
+last money: 4817.5
+
+last money: 4905
+
+last money: 5070
+
+last money: 4900
+
+last money: 5055
+
+last money: 4715
+
+last money: 4705
+
+last money: 4987.5
+
+last money: 5367.5
+
+last money: 5190
+
+last money: 4935
+
+last money: 4945
+
+last money: 4747.5
+
+last money: 5202.5
+
+last money: 5117.5
+
+last money: 4872.5
+
+last money: 4852.5
+
+last money: 4952.5
+
+last money: 4907.5
+
+last money: 5292.5
+
+last money: 4885
+
+last money: 4760
+
+last money: 4907.5
+
+last money: 4967.5
+
+last money: 5265
+
+last money: 4950
+
+last money: 5000
+
+last money: 4705
+
+last money: 4940
+
+last money: 5120
+
+last money: 4982.5
+
+last money: 4872.5
+
+last money: 4815
+
+last money: 4837.5
+
+last money: 4640
+
+last money: 5162.5
+
+last money: 5192.5
+
+last money: 4982.5
+
+last money: 4902.5
+
+last money: 4667.5
+
+last money: 4732.5
+
+last money: 5257.5
+
+last money: 5132.5
+
+last money: 5035
+
+last money: 5360
+
+last money: 4907.5
+
+last money: 4825
+
+last money: 5002.5
+
+last money: 4662.5
+
+last money: 4707.5
+
+last money: 4852.5
+
+last money: 4737.5
+
+last money: 5095
+
+last money: 4962.5
+
+last money: 4812.5
+
+last money: 4930
+
+last money: 5005
+
+last money: 4690
+
+last money: 4997.5
+
+last money: 4990
+
+last money: 4780
+
+last money: 5105
+
+last money: 5292.5
+
+last money: 4850
+
+last money: 4722.5
+
+last money: 4725
+
+last money: 5515
+
+last money: 4667.5
+
+last money: 4657.5
+
+last money: 4767.5
+
+last money: 5330
+
+last money: 4680
+
+last money: 4642.5
+
+last money: 5132.5
+
+last money: 5440
+
+last money: 5117.5
+
+last money: 4787.5
+
+last money: 4907.5
+
+last money: 4902.5
+
+last money: 4870
+
+last money: 4922.5
+
+last money: 4927.5
+
+last money: 5075
+
+last money: 5277.5
+
+last money: 4840
+
+last money: 4887.5
+
+last money: 4642.5
+
+last money: 5040
+
+last money: 4997.5
+
+last money: 4832.5
+
+last money: 4655
+
+last money: 4870
+
+last money: 5382.5
+
+last money: 4782.5
+
+last money: 4737.5
+
+last money: 4985
+
+last money: 5285
+
+last money: 4832.5
+
+last money: 5130
+
+last money: 4705
+
+last money: 4632.5
+
+last money: 4852.5
+
+last money: 5137.5
+
+last money: 4697.5
+
+last money: 5107.5
+
+last money: 4632.5
+
+last money: 4872.5
+
+last money: 5010
+
+last money: 4940
+
+last money: 5020
+
+last money: 4670
+
+last money: 5285
+
+last money: 5225
+
+last money: 5092.5
+
+last money: 4847.5
+
+last money: 5100
+
+last money: 5072.5
+
+last money: 4637.5
+
+last money: 4720
+
+last money: 4640
+
+last money: 5167.5
+
+last money: 4927.5
+
+last money: 5105
+
+last money: 5365
+
+last money: 5055
+
+last money: 4937.5
+
+last money: 5142.5
+
+last money: 4945
+
+last money: 5125
+
+last money: 4825
+
+last money: 4820
+
+last money: 5145
+
+last money: 5067.5
+
+last money: 5007.5
+
+last money: 5172.5
+
+last money: 5172.5
+
+last money: 4930
+
+last money: 4725
+
+last money: 5282.5
+
+last money: 4830
+
+last money: 4755
+
+last money: 5197.5
+
+last money: 4975
+
+last money: 4790
+
+last money: 4760
+
+last money: 4847.5
+
+last money: 5167.5
+
+last money: 5015
+
+last money: 4827.5
+
+last money: 4817.5
+
+last money: 5067.5
+
+last money: 4950
+
+last money: 5080
+
+last money: 5137.5
+
+last money: 4965
+
+last money: 4892.5
+
+last money: 4775
+
+last money: 5085
+
+last money: 5037.5
+
+last money: 5097.5
+
+last money: 5377.5
+
+last money: 4835
+
+last money: 4827.5
+
+last money: 5117.5
+
+last money: 5295
+
+last money: 4900
+
+last money: 4742.5
+
+last money: 4892.5
+
+last money: 4825
+
+last money: 5175
+
+last money: 5112.5
+
+last money: 4887.5
+
+last money: 4935
+
+last money: 4880
+
+last money: 4692.5
+
+last money: 5095
+
+last money: 5057.5
+
+last money: 4985
+
+last money: 4780
+
+last money: 5320
+
+last money: 4635
+
+last money: 4807.5
+
+last money: 4882.5
+
+last money: 5032.5
+
+last money: 4762.5
+
+last money: 4985
+
+last money: 4882.5
+
+last money: 5022.5
+
+last money: 5112.5
+
+last money: 5375
+
+last money: 4870
+
+last money: 5137.5
+
+last money: 4835
+
+last money: 4957.5
+
+last money: 5235
+
+last money: 5292.5
+
+last money: 5032.5
+
+last money: 4920
+
+last money: 5095
+
+last money: 4805
+
+last money: 4772.5
+
+last money: 5127.5
+
+last money: 4905
+
+last money: 5355
+
+last money: 5197.5
+
+last money: 4800
+
+last money: 5182.5
+
+last money: 4745
+
+last money: 4657.5
+
+last money: 5110
+
+last money: 4847.5
+
+last money: 4872.5
+
+last money: 4890
+
+last money: 4875
+
+last money: 4817.5
+
+last money: 4837.5
+
+last money: 4680
+
+last money: 4697.5
+
+last money: 4765
+
+last money: 5012.5
+
+last money: 5152.5
+
+last money: 4860
+
+last money: 4825
+
+last money: 4865
+
+last money: 5147.5
+
+last money: 4890
+
+last money: 5005
+
+last money: 4970
+
+last money: 4980
+
+last money: 4772.5
+
+last money: 5127.5
+
+last money: 5097.5
+
+last money: 5302.5
+
+last money: 4807.5
+
+last money: 4820
+
+last money: 5132.5
+
+last money: 4767.5
+
+last money: 5147.5
+
+last money: 4740
+
+last money: 4917.5
+
+last money: 5350
+
+last money: 4727.5
+
+last money: 4980
+
+last money: 4920
+
+last money: 4760
+
+last money: 5015
+
+last money: 5120
+
+last money: 5137.5
+
+last money: 4985
+
+last money: 5180
+
+last money: 4885
+
+last money: 4930
+
+last money: 4647.5
+
+last money: 5412.5
+
+last money: 4942.5
+
+last money: 4820
+
+last money: 4835
+
+last money: 4917.5
+
+last money: 4780
+
+last money: 5100
+
+last money: 5090
+
+last money: 4890
+
+last money: 4965
+
+last money: 5050
+
+last money: 5062.5
+
+last money: 5202.5
+
+last money: 5155
+
+last money: 4825
+
+last money: 4665
+
+last money: 4845
+
+last money: 4877.5
+
+last money: 5072.5
+
+last money: 4910
+
+last money: 4890
+
+last money: 5080
+
+last money: 5177.5
+
+last money: 5057.5
+
+last money: 4872.5
+
+last money: 5285
+
+last money: 4800
+
+last money: 5485
+
+last money: 4715
+
+last money: 5260
+
+last money: 4990
+
+last money: 5057.5
+
+last money: 4955
+
+last money: 5117.5
+
+last money: 4845
+
+last money: 5147.5
+
+last money: 5025
+
+last money: 5040
+
+last money: 5167.5
+
+last money: 4687.5
+
+last money: 5005
+
+last money: 5457.5
+
+last money: 4875
+
+last money: 5352.5
+
+last money: 5005
+
+last money: 4792.5
+
+last money: 5060
+
+last money: 4882.5
+
+last money: 4805
+
+last money: 4720
+
+last money: 4677.5
+
+last money: 4960
+
+last money: 5367.5
+
+last money: 4897.5
+
+last money: 4885
+
+last money: 4815
+
+last money: 4987.5
+
+last money: 4990
+
+last money: 4770
+
+last money: 4695
+
+last money: 5147.5
+
+last money: 5130
+
+last money: 5127.5
+
+last money: 4907.5
+
+last money: 4762.5
+
+last money: 4690
+
+last money: 4842.5
+
+last money: 4972.5
+
+last money: 5200
+
+last money: 4647.5
+
+last money: 4747.5
+
+last money: 4995
+
+last money: 4875
+
+last money: 4820
+
+last money: 4970
+
+last money: 4755
+
+last money: 4897.5
+
+last money: 4780
+
+last money: 4985
+
+last money: 5077.5
+
+last money: 5187.5
+
+last money: 5142.5
+
+last money: 4910
+
+last money: 4960
+
+last money: 4805
+
+last money: 5117.5
+
+last money: 5067.5
+
+last money: 5382.5
+
+last money: 4800
+
+last money: 4992.5
+
+last money: 4952.5
+
+last money: 4887.5
+
+last money: 4857.5
+
+last money: 4990
+
+last money: 5007.5
+
+last money: 4947.5
+
+last money: 4790
+
+last money: 5185
+
+last money: 4732.5
+
+last money: 5205
+
+last money: 5202.5
+
+last money: 4727.5
+
+last money: 5082.5
+
+last money: 4660
+
+last money: 5142.5
+
+last money: 5142.5
+
+last money: 5310
+
+last money: 4762.5
+
+last money: 4800
+
+last money: 4920
+
+last money: 4860
+
+last money: 4927.5
+
+last money: 4740
+
+last money: 5435
+
+last money: 5295
+
+last money: 4972.5
+
+last money: 4802.5
+
+last money: 5042.5
+
+last money: 4945
+
+last money: 4872.5
+
+last money: 5327.5
+
+last money: 4997.5
+
+last money: 4852.5
+
+last money: 4875
+
+last money: 4710
+
+last money: 5110
+
+last money: 5502.5
+
+last money: 5300
+
+last money: 4992.5
+
+last money: 5292.5
+
+last money: 4952.5
+
+last money: 5287.5
+
+last money: 5042.5
+
+last money: 5147.5
+
+last money: 5017.5
+
+last money: 4682.5
+
+last money: 4680
+
+last money: 5195
+
+last money: 4857.5
+
+last money: 4630
+
+last money: 5035
+
+last money: 4965
+
+last money: 4825
+
+last money: 5505
+
+last money: 5142.5
+
+last money: 5070
+
+last money: 4765
+
+last money: 4907.5
+
+last money: 5000
+
+last money: 4715
+
+last money: 4980
+
+last money: 5040
+
+last money: 4922.5
+
+last money: 4830
+
+last money: 5130
+
+last money: 4977.5
+
+last money: 4870
+
+last money: 4905
+
+last money: 5052.5
+
+last money: 5042.5
+
+last money: 4995
+
+last money: 4842.5
+
+last money: 5237.5
+
+last money: 5102.5
+
+last money: 5397.5
+
+last money: 5590
+
+last money: 5405
+
+last money: 4970
+
+last money: 5092.5
+
+last money: 5205
+
+last money: 5295
+
+last money: 4832.5
+
+last money: 4752.5
+
+last money: 5150
+
+last money: 5117.5
+
+last money: 5270
+
+last money: 5187.5
+
+last money: 5310
+
+last money: 4762.5
+
+last money: 5047.5
+
+last money: 4932.5
+
+last money: 5335
+
+last money: 5070
+
+last money: 5035
+
+last money: 5205
+
+last money: 4907.5
+
+last money: 5102.5
+
+last money: 5082.5
+
+last money: 4837.5
+
+last money: 4812.5
+
+last money: 4725
+
+last money: 4980
+
+last money: 4812.5
+
+last money: 4775
+
+last money: 5402.5
+
+last money: 5010
+
+last money: 5320
+
+last money: 5000
+
+last money: 5395
+
+last money: 4755
+
+last money: 5120
+
+last money: 4770
+
+last money: 5177.5
+
+last money: 4982.5
+
+last money: 5187.5
+
+last money: 4782.5
+
+last money: 4685
+
+last money: 5040
+
+last money: 5125
+
+last money: 5150
+
+last money: 5017.5
+
+last money: 5005
+
+last money: 4680
+
+last money: 4745
+
+last money: 5005
+
+last money: 5052.5
+
+last money: 4852.5
+
+last money: 4687.5
+
+last money: 5160
+
+last money: 5102.5
+
+last money: 4670
+
+last money: 5295
+
+last money: 4972.5
+
+last money: 5050
+
+last money: 5197.5
+
+last money: 4982.5
+
+last money: 4827.5
+
+last money: 4732.5
+
+last money: 4740
+
+last money: 4965
+
+last money: 5117.5
+
+last money: 4840
+
+last money: 4930
+
+last money: 5047.5
+
+last money: 5345
+
+last money: 5007.5
+
+last money: 5325
+
+last money: 4872.5
+
+last money: 4772.5
+
+last money: 5052.5
+
+last money: 4770
+
+last money: 5265
+
+last money: 5055
+
+last money: 5137.5
+
+last money: 4747.5
+
+last money: 5220
+
+last money: 4875
+
+last money: 5162.5
+
+last money: 5197.5
+
+last money: 4970
+
+last money: 4692.5
+
+last money: 5020
+
+last money: 4855
+
+last money: 4995
+
+last money: 4952.5
+
+last money: 5120
+
+last money: 4815
+
+last money: 5110
+
+last money: 4832.5
+
+last money: 4717.5
+
+last money: 5280
+
+last money: 4897.5
+
+last money: 5187.5
+
+last money: 4792.5
+
+last money: 4997.5
+
+last money: 4937.5
+
+last money: 5047.5
+
+last money: 4867.5
+
+last money: 4835
+
+last money: 4732.5
+
+last money: 4640
+
+last money: 4742.5
+
+last money: 4982.5
+
+last money: 4902.5
+
+last money: 5165
+
+last money: 4807.5
+
+last money: 4865
+
+last money: 4880
+
+last money: 4945
+
+last money: 4732.5
+
+last money: 4915
+
+last money: 5005
+
+last money: 4705
+
+last money: 4817.5
+
+last money: 5025
+
+last money: 5225
+
+last money: 4810
+
+last money: 5125
+
+last money: 4970
+
+last money: 4712.5
+
+last money: 5045
+
+last money: 5232.5
+
+last money: 4895
+
+last money: 4902.5
+
+last money: 5170
+
+last money: 4685
+
+last money: 5212.5
+
+last money: 4905
+
+last money: 5117.5
+
+last money: 5597.5
+
+last money: 4757.5
+
+last money: 4765
+
+last money: 4815
+
+last money: 5455
+
+last money: 5130
+
+last money: 5197.5
+
+last money: 5015
+
+last money: 4867.5
+
+last money: 4747.5
+
+last money: 5360
+
+last money: 4860
+
+last money: 5267.5
+
+last money: 5217.5
+
+last money: 5180
+
+last money: 4802.5
+
+last money: 5202.5
+
+last money: 5050
+
+last money: 4930
+
+last money: 5300
+
+last money: 4945
+
+last money: 4752.5
+
+last money: 4927.5
+
+last money: 5030
+
+last money: 4840
+
+last money: 4677.5
+
+last money: 4890
+
+last money: 5007.5
+
+last money: 5035
+
+last money: 4982.5
+
+last money: 4857.5
+
+last money: 4897.5
+
+last money: 5315
+
+last money: 5065
+
+last money: 4830
+
+last money: 5242.5
+
+last money: 5292.5
+
+last money: 4910
+
+last money: 5010
+
+last money: 4992.5
+
+last money: 4910
+
+last money: 4932.5
+
+last money: 5275
+
+last money: 4960
+
+last money: 4842.5
+
+last money: 5345
+
+last money: 5222.5
+
+last money: 4785
+
+last money: 4957.5
+
+last money: 4920
+
+last money: 4942.5
+
+last money: 4805
+
+last money: 5320
+
+last money: 4742.5
+
+last money: 5005
+
+last money: 5345
+
+last money: 4707.5
+
+last money: 4985
+
+last money: 5385
+
+last money: 5047.5
+
+last money: 4855
+
+last money: 4932.5
+
+last money: 4647.5
+
+last money: 5010
+
+last money: 5105
+
+last money: 5147.5
+
+last money: 4847.5
+
+last money: 4915
+
+last money: 4885
+
+last money: 5140
+
+last money: 4882.5
+
+last money: 5040
+
+last money: 5205
+
+last money: 4682.5
+
+last money: 5045
+
+last money: 5560
+
+last money: 4912.5
+
+last money: 4850
+
+last money: 4887.5
+
+last money: 4737.5
+
+last money: 4875
+
+last money: 4702.5
+
+last money: 4817.5
+
+last money: 4912.5
+
+last money: 5102.5
+
+last money: 4850
+
+last money: 5057.5
+
+last money: 4940
+
+last money: 4737.5
+
+last money: 5022.5
+
+last money: 4957.5
+
+last money: 4967.5
+
+last money: 4822.5
+
+last money: 4720
+
+last money: 4907.5
+
+last money: 4895
+
+last money: 4815
+
+last money: 5335
+
+last money: 5052.5
+
+last money: 4910
+
+last money: 4767.5
+
+last money: 5360
+
+last money: 4950
+
+last money: 4795
+
+last money: 4805
+
+last money: 5070
+
+last money: 5160
+
+last money: 4955
+
+last money: 4830
+
+last money: 5067.5
+
+last money: 4932.5
+
+last money: 4887.5
+
+last money: 4697.5
+
+last money: 4895
+
+last money: 4927.5
+
+last money: 5055
+
+last money: 5072.5
+
+last money: 4822.5
+
+last money: 4990
+
+last money: 4955
+
+last money: 5270
+
+last money: 4962.5
+
+last money: 4892.5
+
+last money: 4807.5
+
+last money: 4827.5
+
+last money: 4965
+
+last money: 4662.5
+
+last money: 4807.5
+
+last money: 4757.5
+
+last money: 4917.5
+
+last money: 4755
+
+last money: 4990
+
+last money: 4700
+
+last money: 5447.5
+
+last money: 4875
+
+last money: 5532.5
+
+last money: 5152.5
+
+last money: 4872.5
+
+last money: 5057.5
+
+last money: 5027.5
+
+last money: 5422.5
+
+last money: 4872.5
+
+last money: 5040
+
+last money: 4872.5
+
+last money: 5005
+
+last money: 4680
+
+last money: 5280
+
+last money: 5297.5
+
+last money: 4732.5
+
+last money: 4867.5
+
+last money: 4775
+
+last money: 4700
+
+last money: 5282.5
+
+last money: 4797.5
+
+last money: 4807.5
+
+last money: 4910
+
+last money: 4695
+
+last money: 5375
+
+last money: 5237.5
+
+last money: 4967.5
+
+last money: 4980
+
+last money: 4937.5
+
+last money: 4835
+
+last money: 4675
+
+last money: 4760
+
+last money: 5012.5
+
+last money: 5025
+
+last money: 4897.5
+
+last money: 4875
+
+last money: 5110
+
+last money: 4772.5
+
+last money: 4835
+
+last money: 4937.5
+
+last money: 5412.5
+
+last money: 4692.5
+
+last money: 4875
+
+last money: 5055
+
+last money: 4940
+
+last money: 4735
+
+last money: 5150
+
+last money: 5135
+
+last money: 4637.5
+
+last money: 5115
+
+last money: 4805
+
+last money: 4855
+
+last money: 4957.5
+
+last money: 4932.5
+
+last money: 5112.5
+
+last money: 4860
+
+last money: 4805
+
+last money: 4980
+
+last money: 4967.5
+
+last money: 4692.5
+
+last money: 4845
+
+last money: 4712.5
+
+last money: 4827.5
+
+last money: 4780
+
+last money: 5112.5
+
+last money: 4905
+
+last money: 5002.5
+
+last money: 4920
+
+last money: 5050
+
+last money: 5015
+
+last money: 4925
+
+last money: 5077.5
+
+last money: 4645
+
+last money: 4967.5
+
+last money: 5255
+
+last money: 4712.5
+
+last money: 5210
+
+last money: 4905
+
+last money: 5082.5
+
+last money: 5517.5
+
+last money: 4900
+
+last money: 4992.5
+
+last money: 4645
+
+last money: 4697.5
+
+last money: 4945
+
+last money: 4847.5
+
+last money: 5392.5
+
+last money: 5295
+
+last money: 4775
+
+last money: 4990
+
+last money: 4905
+
+last money: 4750
+
+last money: 5052.5
+
+last money: 4732.5
+
+last money: 4847.5
+
+last money: 4855
+
+last money: 5505
+
+last money: 5397.5
+
+last money: 5027.5
+
+last money: 4992.5
+
+last money: 4995
+
+last money: 4685
+
+last money: 4937.5
+
+last money: 5062.5
+
+last money: 4832.5
+
+last money: 5307.5
+
+last money: 4807.5
+
+last money: 5120
+
+last money: 5282.5
+
+last money: 4980
+
+last money: 5337.5
+
+last money: 5157.5
+
+last money: 5082.5
+
+last money: 5337.5
+
+last money: 4885
+
+average money: 4964

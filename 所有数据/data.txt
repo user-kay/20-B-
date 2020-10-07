@@ -1,0 +1,13001 @@
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 2 2 2 2 1 
+food:
+8 18 18 27 18 8 
+water: 
+6 18 18 27 18 6 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 2 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 2170
+get: 800
+money: 8630
+weight: 710
+10
+1 1 2 1 1 2 2 1 2 2 
+food:
+8 8 18 12 12 27 27 18 18 
+water: 
+6 6 18 9 9 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1520
+get: 400
+money: 8880
+weight: 496
+8
+2 2 2 1 1 1 2 1 
+food:
+18 18 18 12 12 18 8 
+water: 
+18 18 18 9 9 18 6 
+at mine: 
+4 5 
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 2 1 1 2 2 2 
+food:
+18 18 8 12 18 18 
+water: 
+18 18 6 9 18 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 2810
+get: 800
+money: 7990
+weight: 934
+10
+2 2 1 2 2 2 2 2 2 2 
+food:
+18 18 8 27 27 27 27 18 18 
+water: 
+18 18 6 27 27 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 1 2 2 1 
+food:
+8 8 8 18 8 
+water: 
+6 6 6 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 1 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1850
+get: 800
+money: 8950
+weight: 598
+10
+1 2 2 1 1 1 1 1 2 2 
+food:
+8 18 18 12 12 12 12 18 18 
+water: 
+6 18 18 9 9 9 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 2160
+get: 400
+money: 8240
+weight: 720
+8
+2 2 2 2 2 2 2 2 
+food:
+18 18 18 27 27 18 18 
+water: 
+18 18 18 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 2 1 2 1 1 
+food:
+18 18 18 12 8 8 
+water: 
+18 18 18 9 6 6 
+at mine: 
+4 
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 1 1 2 1 2 1 
+food:
+8 8 8 27 18 8 
+water: 
+6 6 6 27 18 6 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 1 2 1 
+food:
+8 18 8 18 8 
+water: 
+6 18 6 18 6 
+at mine: 
+
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 1 1 1 2 1 
+food:
+18 18 8 12 18 8 
+water: 
+18 18 6 9 18 6 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 1 2 2 1 2 2 
+food:
+18 8 18 27 18 18 
+water: 
+18 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 2085
+get: 600
+money: 8515
+weight: 687
+9
+1 1 2 2 2 2 2 2 1 
+food:
+8 8 18 27 27 27 18 8 
+water: 
+6 6 18 27 27 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1840
+get: 400
+money: 8560
+weight: 608
+8
+2 1 1 2 2 2 2 2 
+food:
+18 8 8 27 27 18 18 
+water: 
+18 6 6 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 1755
+get: 200
+money: 8445
+weight: 585
+7
+2 2 2 2 1 2 2 
+food:
+18 18 18 27 18 18 
+water: 
+18 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 2170
+get: 800
+money: 8630
+weight: 710
+10
+2 1 2 1 2 1 2 2 1 2 
+food:
+18 8 18 12 27 12 27 8 18 
+water: 
+18 6 18 9 27 9 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 2 1 2 
+food:
+8 18 8 8 18 
+water: 
+6 18 6 6 18 
+at mine: 
+
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+2 1 1 1 2 1 1 2 
+food:
+18 8 8 12 27 8 18 
+water: 
+18 6 6 9 27 6 18 
+at mine: 
+4 5 
+
+spend: 875
+get: 200
+money: 9325
+weight: 277
+7
+1 1 2 1 1 1 1 
+food:
+8 8 18 12 8 8 
+water: 
+6 6 18 9 6 6 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 1 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 1 2 1 
+food:
+18 18 8 18 8 
+water: 
+18 18 6 18 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 1 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 1 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+2 1 1 2 1 2 2 2 1 2 
+food:
+18 8 8 27 12 27 27 8 18 
+water: 
+18 6 6 27 9 27 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 2170
+get: 800
+money: 8630
+weight: 710
+10
+2 2 2 2 1 1 2 1 1 1 
+food:
+18 18 18 27 12 12 27 8 8 
+water: 
+18 18 18 27 9 9 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+1 2 1 2 2 1 1 2 2 1 
+food:
+8 18 8 27 27 12 12 18 8 
+water: 
+6 18 6 27 27 9 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 2 2 1 1 2 
+food:
+18 8 18 27 8 18 
+water: 
+18 6 18 27 6 18 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 1 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 2000
+get: 400
+money: 8400
+weight: 664
+8
+2 2 2 2 2 1 2 1 
+food:
+18 18 18 27 27 18 8 
+water: 
+18 18 18 27 27 18 6 
+at mine: 
+4 5 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 1 1 1 1 2 2 
+food:
+18 8 8 12 18 18 
+water: 
+18 6 6 9 18 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 1 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 1 2 2 1 2 2 
+food:
+8 8 18 27 18 18 
+water: 
+6 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 2090
+get: 800
+money: 8710
+weight: 682
+10
+1 2 2 1 2 1 1 2 2 2 
+food:
+8 18 18 12 27 12 12 18 18 
+water: 
+6 18 18 9 27 9 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+1 1 2 2 1 2 2 1 2 
+food:
+8 8 18 27 12 27 8 18 
+water: 
+6 6 18 27 9 27 6 18 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 1 2 1 2 2 
+food:
+8 8 18 18 18 
+water: 
+6 6 18 18 18 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 1 2 1 2 2 
+food:
+18 18 8 27 18 18 
+water: 
+18 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 1 1 1 1 2 2 
+food:
+8 8 8 12 18 18 
+water: 
+6 6 6 9 18 18 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 2 2 1 1 
+food:
+8 18 18 8 8 
+water: 
+6 18 18 6 6 
+at mine: 
+
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 1 1 1 2 1 
+food:
+18 18 8 12 18 8 
+water: 
+18 18 6 9 18 6 
+at mine: 
+4 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+1 1 2 1 2 2 2 
+food:
+8 8 18 12 18 18 
+water: 
+6 6 18 9 18 18 
+at mine: 
+4 
+
+spend: 1680
+get: 400
+money: 8720
+weight: 552
+8
+1 1 1 2 2 2 2 2 
+food:
+8 8 8 27 27 18 18 
+water: 
+6 6 6 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 2090
+get: 800
+money: 8710
+weight: 682
+10
+2 1 1 1 2 2 2 1 1 1 
+food:
+18 8 8 12 27 27 27 8 8 
+water: 
+18 6 6 9 27 27 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+2 2 1 2 2 1 2 1 2 
+food:
+18 18 8 27 27 12 8 18 
+water: 
+18 18 6 27 27 9 6 18 
+at mine: 
+4 5 6 
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 2 2 2 2 1 2 1 1 2 
+food:
+18 18 18 27 27 12 27 8 18 
+water: 
+18 18 18 27 27 9 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+1 2 2 2 1 1 2 2 
+food:
+8 18 18 27 12 18 18 
+water: 
+6 18 18 27 9 18 18 
+at mine: 
+4 5 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 1 2 1 2 
+food:
+8 8 8 8 18 
+water: 
+6 6 6 6 18 
+at mine: 
+
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 1 1 2 1 2 
+food:
+18 18 8 12 8 18 
+water: 
+18 18 6 9 6 18 
+at mine: 
+4 
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+1 1 2 2 1 2 2 1 
+food:
+8 8 18 27 12 18 8 
+water: 
+6 6 18 27 9 18 6 
+at mine: 
+4 5 
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 2 2 2 1 2 2 1 2 1 
+food:
+18 18 18 27 12 27 27 18 8 
+water: 
+18 18 18 27 9 27 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 1 2 2 2 2 1 
+food:
+8 8 18 27 18 8 
+water: 
+6 6 18 27 18 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 2090
+get: 800
+money: 8710
+weight: 682
+10
+1 1 2 1 2 2 2 2 1 1 
+food:
+8 8 18 12 27 27 27 8 8 
+water: 
+6 6 18 9 27 27 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+2 2 2 2 1 2 1 1 
+food:
+18 18 18 27 12 8 8 
+water: 
+18 18 18 27 9 6 6 
+at mine: 
+4 5 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 2 2 2 1 2 
+food:
+8 18 18 27 8 18 
+water: 
+6 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 2 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 2650
+get: 800
+money: 8150
+weight: 878
+10
+2 1 2 2 2 2 2 2 1 2 
+food:
+18 8 18 27 27 27 27 8 18 
+water: 
+18 6 18 27 27 27 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 2165
+get: 600
+money: 8435
+weight: 715
+9
+2 2 1 1 2 2 2 2 2 
+food:
+18 18 8 12 27 27 18 18 
+water: 
+18 18 6 9 27 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 2 1 1 1 
+food:
+8 18 18 8 8 
+water: 
+6 18 18 6 6 
+at mine: 
+
+
+spend: 2170
+get: 800
+money: 8630
+weight: 710
+10
+1 2 2 1 2 2 1 1 2 1 
+food:
+8 18 18 12 27 27 12 18 8 
+water: 
+6 18 18 9 27 27 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 2170
+get: 800
+money: 8630
+weight: 710
+10
+2 1 2 2 1 2 1 2 1 2 
+food:
+18 8 18 27 12 27 12 8 18 
+water: 
+18 6 18 27 9 27 9 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+2 2 1 1 2 1 2 2 1 
+food:
+18 18 8 12 27 12 18 8 
+water: 
+18 18 6 9 27 9 18 6 
+at mine: 
+4 5 6 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 1 2 2 1 2 2 
+food:
+18 8 18 27 18 18 
+water: 
+18 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 1 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1280
+get: 400
+money: 9120
+weight: 412
+8
+1 2 1 1 2 1 1 1 
+food:
+8 18 8 12 27 8 8 
+water: 
+6 18 6 9 27 6 6 
+at mine: 
+4 5 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 2 2 1 1 2 
+food:
+8 18 18 27 8 18 
+water: 
+6 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+2 2 2 1 2 1 2 2 1 2 
+food:
+18 18 18 12 27 12 27 8 18 
+water: 
+18 18 18 9 27 9 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1850
+get: 800
+money: 8950
+weight: 598
+10
+2 2 1 1 1 1 1 2 2 2 
+food:
+18 18 8 12 12 12 12 18 18 
+water: 
+18 18 6 9 9 9 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 2 1 2 2 2 1 
+food:
+18 18 8 27 18 8 
+water: 
+18 18 6 27 18 6 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 1 1 2 2 
+food:
+18 8 8 18 18 
+water: 
+18 6 6 18 18 
+at mine: 
+
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 2 1 1 2 2 2 
+food:
+18 18 8 12 18 18 
+water: 
+18 18 6 9 18 18 
+at mine: 
+4 
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 2 1 2 1 1 1 
+food:
+8 18 8 27 8 8 
+water: 
+6 18 6 27 6 6 
+at mine: 
+4 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 1 2 2 2 1 
+food:
+8 18 8 27 18 8 
+water: 
+6 18 6 27 18 6 
+at mine: 
+4 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 1 1 2 2 2 2 
+food:
+8 8 8 27 18 18 
+water: 
+6 6 6 27 18 18 
+at mine: 
+4 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 2 1 2 2 1 2 
+food:
+18 18 8 27 8 18 
+water: 
+18 18 6 27 6 18 
+at mine: 
+4 
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+2 1 2 2 1 1 1 2 1 
+food:
+18 8 18 27 12 12 18 8 
+water: 
+18 6 18 27 9 9 18 6 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 1 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 1 1 2 1 2 
+food:
+18 18 8 12 8 18 
+water: 
+18 18 6 9 6 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 2 1 1 2 2 2 
+food:
+18 18 8 12 18 18 
+water: 
+18 18 6 9 18 18 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 2 2 1 
+food:
+8 18 8 18 8 
+water: 
+6 18 6 18 6 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 2 1 2 2 1 2 
+food:
+18 18 8 27 8 18 
+water: 
+18 18 6 27 6 18 
+at mine: 
+4 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 1 1 1 1 2 2 
+food:
+8 8 8 12 18 18 
+water: 
+6 6 6 9 18 18 
+at mine: 
+4 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 2 1 1 1 1 
+food:
+8 18 8 8 8 
+water: 
+6 18 6 6 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 955
+get: 200
+money: 9245
+weight: 305
+7
+1 1 1 2 1 1 1 
+food:
+8 8 8 27 8 8 
+water: 
+6 6 6 27 6 6 
+at mine: 
+4 
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 2 1 2 2 1 1 
+food:
+8 18 8 27 8 8 
+water: 
+6 18 6 27 6 6 
+at mine: 
+4 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 1 1 1 2 
+food:
+8 8 8 8 18 
+water: 
+6 6 6 6 18 
+at mine: 
+
+
+spend: 1040
+get: 400
+money: 9360
+weight: 328
+8
+1 2 1 1 1 2 1 1 
+food:
+8 18 8 12 12 8 8 
+water: 
+6 18 6 9 9 6 6 
+at mine: 
+4 5 
+
+spend: 1680
+get: 400
+money: 8720
+weight: 552
+8
+2 1 2 2 2 2 1 1 
+food:
+18 8 18 27 27 8 8 
+water: 
+18 6 18 27 27 6 6 
+at mine: 
+4 5 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 1 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+2 1 2 1 2 1 1 1 
+food:
+18 8 18 12 27 8 8 
+water: 
+18 6 18 9 27 6 6 
+at mine: 
+4 5 
+
+spend: 2165
+get: 600
+money: 8435
+weight: 715
+9
+2 1 2 2 2 1 1 2 2 
+food:
+18 8 18 27 27 12 18 18 
+water: 
+18 6 18 27 27 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+1 2 2 1 1 1 2 
+food:
+8 18 18 12 8 18 
+water: 
+6 18 18 9 6 18 
+at mine: 
+4 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+1 1 2 2 2 2 2 2 1 1 
+food:
+8 8 18 27 27 27 27 8 8 
+water: 
+6 6 18 27 27 27 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 1 2 1 1 2 2 
+food:
+18 8 18 12 18 18 
+water: 
+18 6 18 9 18 18 
+at mine: 
+4 
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+1 2 2 2 1 2 1 2 1 
+food:
+8 18 18 27 12 27 18 8 
+water: 
+6 18 18 27 9 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 1 2 1 2 
+food:
+8 8 8 8 18 
+water: 
+6 6 6 6 18 
+at mine: 
+
+
+spend: 2170
+get: 800
+money: 8630
+weight: 710
+10
+2 2 2 2 2 1 1 2 1 1 
+food:
+18 18 18 27 27 12 12 8 8 
+water: 
+18 18 18 27 27 9 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 1 2 1 2 2 2 2 
+food:
+18 8 18 12 27 18 18 
+water: 
+18 6 18 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 1 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1755
+get: 200
+money: 8445
+weight: 585
+7
+2 2 2 2 1 2 2 
+food:
+18 18 18 27 18 18 
+water: 
+18 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 1 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 2 1 2 1 2 1 
+food:
+18 18 8 27 18 8 
+water: 
+18 18 6 27 18 6 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 1 1 2 
+food:
+18 8 8 8 18 
+water: 
+18 6 6 6 18 
+at mine: 
+
+
+spend: 1040
+get: 400
+money: 9360
+weight: 328
+8
+1 1 2 1 1 1 1 1 
+food:
+8 8 18 12 12 8 8 
+water: 
+6 6 18 9 9 6 6 
+at mine: 
+4 5 
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+1 1 1 2 2 1 1 2 2 
+food:
+8 8 8 27 27 12 18 18 
+water: 
+6 6 6 27 27 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+2 1 1 2 1 1 1 2 2 
+food:
+18 8 8 27 12 12 18 18 
+water: 
+18 6 6 27 9 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 2085
+get: 600
+money: 8515
+weight: 687
+9
+1 2 2 2 2 2 2 1 1 
+food:
+8 18 18 27 27 27 8 8 
+water: 
+6 18 18 27 27 27 6 6 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 1 1 2 
+food:
+8 18 18 8 18 
+water: 
+6 18 18 6 18 
+at mine: 
+
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+2 2 1 1 2 2 1 1 2 
+food:
+18 18 8 12 27 27 8 18 
+water: 
+18 18 6 9 27 27 6 18 
+at mine: 
+4 5 6 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 1 1 2 1 1 2 
+food:
+18 8 8 27 8 18 
+water: 
+18 6 6 27 6 18 
+at mine: 
+4 
+
+spend: 1680
+get: 400
+money: 8720
+weight: 552
+8
+2 2 2 1 1 2 2 2 
+food:
+18 18 18 12 12 18 18 
+water: 
+18 18 18 9 9 18 18 
+at mine: 
+4 5 
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+2 2 1 2 1 2 1 2 2 2 
+food:
+18 18 8 27 12 27 12 18 18 
+water: 
+18 18 6 27 9 27 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 2000
+get: 400
+money: 8400
+weight: 664
+8
+2 2 1 2 2 1 2 2 
+food:
+18 18 8 27 27 18 18 
+water: 
+18 18 6 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 2730
+get: 800
+money: 8070
+weight: 906
+10
+2 2 2 2 1 2 2 1 2 2 
+food:
+18 18 18 27 12 27 27 18 18 
+water: 
+18 18 18 27 9 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 1 2 2 2 2 2 
+food:
+18 8 18 27 18 18 
+water: 
+18 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 2165
+get: 600
+money: 8435
+weight: 715
+9
+2 2 1 2 2 1 1 2 2 
+food:
+18 18 8 27 27 12 18 18 
+water: 
+18 18 6 27 27 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 2 1 2 1 1 1 
+food:
+8 18 8 27 8 8 
+water: 
+6 18 6 27 6 6 
+at mine: 
+4 
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+2 1 2 1 2 1 1 2 
+food:
+18 8 18 12 27 8 18 
+water: 
+18 6 18 9 27 6 18 
+at mine: 
+4 5 
+
+spend: 1520
+get: 400
+money: 8880
+weight: 496
+8
+2 1 2 1 1 2 2 2 
+food:
+18 8 18 12 12 18 18 
+water: 
+18 6 18 9 9 18 18 
+at mine: 
+4 5 
+
+spend: 1930
+get: 800
+money: 8870
+weight: 626
+10
+2 2 1 1 1 1 2 2 2 1 
+food:
+18 18 8 12 12 12 27 18 8 
+water: 
+18 18 6 9 9 9 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 1 2 2 2 1 2 1 2 2 
+food:
+18 8 18 27 27 12 27 18 18 
+water: 
+18 6 18 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 2 1 2 1 1 1 
+food:
+18 18 8 27 8 8 
+water: 
+18 18 6 27 6 6 
+at mine: 
+4 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 2 2 2 1 1 2 1 
+food:
+18 18 18 27 12 18 8 
+water: 
+18 18 18 27 9 18 6 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 2410
+get: 800
+money: 8390
+weight: 794
+10
+1 2 1 2 2 1 2 1 2 2 
+food:
+8 18 8 27 27 12 27 18 18 
+water: 
+6 18 6 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 1 2 2 2 2 1 
+food:
+8 8 18 27 18 8 
+water: 
+6 6 18 27 18 6 
+at mine: 
+4 
+
+spend: 2090
+get: 800
+money: 8710
+weight: 682
+10
+1 1 1 2 2 2 1 1 1 2 
+food:
+8 8 8 27 27 27 12 8 18 
+water: 
+6 6 6 27 27 27 9 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1520
+get: 400
+money: 8880
+weight: 496
+8
+1 1 1 2 2 2 1 2 
+food:
+8 8 8 27 27 8 18 
+water: 
+6 6 6 27 27 6 18 
+at mine: 
+4 5 
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+1 2 2 1 2 2 1 2 
+food:
+8 18 18 12 27 8 18 
+water: 
+6 18 18 9 27 6 18 
+at mine: 
+4 5 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 1 2 2 2 2 2 
+food:
+8 8 18 27 18 18 
+water: 
+6 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 1 2 2 2 1 1 
+food:
+8 8 18 27 8 8 
+water: 
+6 6 18 27 6 6 
+at mine: 
+4 
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 1 2 1 1 2 2 
+food:
+18 8 18 12 18 18 
+water: 
+18 6 18 9 18 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 1 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 1 1 2 2 
+food:
+18 8 8 18 18 
+water: 
+18 6 6 18 18 
+at mine: 
+
+
+spend: 2085
+get: 600
+money: 8515
+weight: 687
+9
+2 2 2 1 1 2 1 2 2 
+food:
+18 18 18 12 12 27 18 18 
+water: 
+18 18 18 9 9 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 1 1 2 
+food:
+18 8 8 8 18 
+water: 
+18 6 6 6 18 
+at mine: 
+
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+2 1 2 2 2 1 2 1 2 
+food:
+18 8 18 27 27 12 8 18 
+water: 
+18 6 18 27 27 9 6 18 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 1 2 2 2 2 
+food:
+8 8 18 18 18 
+water: 
+6 6 18 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 1 2 1 2 2 
+food:
+8 18 8 27 18 18 
+water: 
+6 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 1 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+2 2 2 2 1 1 1 1 
+food:
+18 18 18 27 12 8 8 
+water: 
+18 18 18 27 9 6 6 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 1 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 2 2 2 1 2 
+food:
+8 18 18 27 8 18 
+water: 
+6 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 1920
+get: 400
+money: 8480
+weight: 636
+8
+2 2 2 2 1 1 2 2 
+food:
+18 18 18 27 12 18 18 
+water: 
+18 18 18 27 9 18 18 
+at mine: 
+4 5 
+
+spend: 1770
+get: 800
+money: 9030
+weight: 570
+10
+2 1 2 1 2 1 1 2 1 1 
+food:
+18 8 18 12 27 12 12 8 8 
+water: 
+18 6 18 9 27 9 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+1 1 1 2 2 1 2 2 2 2 
+food:
+8 8 8 27 27 12 27 18 18 
+water: 
+6 6 6 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 1 2 
+food:
+8 18 18 8 18 
+water: 
+6 18 18 6 18 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 1 1 1 2 
+food:
+8 8 8 8 18 
+water: 
+6 6 6 6 18 
+at mine: 
+
+
+spend: 1840
+get: 400
+money: 8560
+weight: 608
+8
+2 2 1 2 2 2 2 1 
+food:
+18 18 8 27 27 18 8 
+water: 
+18 18 6 27 27 18 6 
+at mine: 
+4 5 
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+1 2 2 2 1 1 1 2 1 
+food:
+8 18 18 27 12 12 18 8 
+water: 
+6 18 18 27 9 9 18 6 
+at mine: 
+4 5 6 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 1 2 2 2 2 1 
+food:
+8 8 18 27 18 8 
+water: 
+6 6 18 27 18 6 
+at mine: 
+4 
+
+spend: 2490
+get: 800
+money: 8310
+weight: 822
+10
+2 1 2 2 2 2 2 1 1 1 
+food:
+18 8 18 27 27 27 27 8 8 
+water: 
+18 6 18 27 27 27 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 2 1 2 1 1 2 
+food:
+18 18 8 27 8 18 
+water: 
+18 18 6 27 6 18 
+at mine: 
+4 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+2 1 1 2 2 1 2 1 2 
+food:
+18 8 8 27 27 12 8 18 
+water: 
+18 6 6 27 27 9 6 18 
+at mine: 
+4 5 6 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 2 1 2 2 2 1 
+food:
+18 18 8 27 18 8 
+water: 
+18 18 6 27 18 6 
+at mine: 
+4 
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 1 1 2 1 2 1 
+food:
+8 8 8 27 18 8 
+water: 
+6 6 6 27 18 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 1 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+1 2 1 2 1 2 1 1 2 
+food:
+8 18 8 27 12 27 8 18 
+water: 
+6 18 6 27 9 27 6 18 
+at mine: 
+4 5 6 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 2 2 1 1 
+food:
+8 8 18 8 8 
+water: 
+6 6 18 6 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 1 2 2 2 1 2 
+food:
+8 8 18 27 8 18 
+water: 
+6 6 18 27 6 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 1 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 2 2 1 1 2 
+food:
+18 8 18 27 8 18 
+water: 
+18 6 18 27 6 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 1 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 1 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1200
+get: 400
+money: 9200
+weight: 384
+8
+1 2 2 1 1 2 1 1 
+food:
+8 18 18 12 12 8 8 
+water: 
+6 18 18 9 9 6 6 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 2 1 1 1 
+food:
+8 8 18 8 8 
+water: 
+6 6 18 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 1 2 1 2 2 
+food:
+8 8 18 18 18 
+water: 
+6 6 18 18 18 
+at mine: 
+
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+1 2 1 1 2 2 1 1 1 2 
+food:
+8 18 8 12 27 27 12 8 18 
+water: 
+6 18 6 9 27 27 9 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 2410
+get: 800
+money: 8390
+weight: 794
+10
+2 1 1 2 2 2 1 2 2 2 
+food:
+18 8 8 27 27 27 12 18 18 
+water: 
+18 6 6 27 27 27 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 2 1 1 1 1 
+food:
+18 18 8 8 8 
+water: 
+18 18 6 6 6 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 2 2 2 2 1 
+food:
+18 8 18 27 18 8 
+water: 
+18 6 18 27 18 6 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 1 2 1 2 2 
+food:
+18 18 8 27 18 18 
+water: 
+18 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+1 2 2 2 1 1 1 2 
+food:
+8 18 18 27 12 8 18 
+water: 
+6 18 18 27 9 6 18 
+at mine: 
+4 5 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 1 2 2 2 2 
+food:
+8 18 8 27 18 18 
+water: 
+6 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 2650
+get: 800
+money: 8150
+weight: 878
+10
+1 2 1 2 2 2 2 2 2 2 
+food:
+8 18 8 27 27 27 27 18 18 
+water: 
+6 18 6 27 27 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+2 2 2 2 2 1 1 1 2 1 
+food:
+18 18 18 27 27 12 12 18 8 
+water: 
+18 18 18 27 27 9 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 1 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 1 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+1 2 1 1 2 1 1 2 2 
+food:
+8 18 8 12 27 12 18 18 
+water: 
+6 18 6 9 27 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 2 2 1 
+food:
+18 8 8 18 8 
+water: 
+18 6 6 18 6 
+at mine: 
+
+
+spend: 1685
+get: 600
+money: 8915
+weight: 547
+9
+1 1 1 2 2 1 2 1 2 
+food:
+8 8 8 27 27 12 8 18 
+water: 
+6 6 6 27 27 9 6 18 
+at mine: 
+4 5 6 
+
+spend: 1755
+get: 200
+money: 8445
+weight: 585
+7
+2 2 2 2 1 2 2 
+food:
+18 18 18 27 18 18 
+water: 
+18 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 2 1 2 
+food:
+18 18 18 27 8 18 
+water: 
+18 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 1 1 1 1 2 2 
+food:
+18 8 8 12 18 18 
+water: 
+18 6 6 9 18 18 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 2 2 1 
+food:
+18 8 8 18 8 
+water: 
+18 6 6 18 6 
+at mine: 
+
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 2 2 1 2 2 1 
+food:
+18 18 18 12 18 8 
+water: 
+18 18 18 9 18 6 
+at mine: 
+4 
+
+spend: 2650
+get: 800
+money: 8150
+weight: 878
+10
+2 2 2 2 2 2 2 2 1 1 
+food:
+18 18 18 27 27 27 27 8 8 
+water: 
+18 18 18 27 27 27 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 2 2 1 
+food:
+8 18 8 18 8 
+water: 
+6 18 6 18 6 
+at mine: 
+
+
+spend: 1605
+get: 600
+money: 8995
+weight: 519
+9
+1 1 2 1 1 2 2 1 2 
+food:
+8 8 18 12 12 27 8 18 
+water: 
+6 6 18 9 9 27 6 18 
+at mine: 
+4 5 6 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 2 2 2 1 2 1 2 
+food:
+18 18 18 27 12 8 18 
+water: 
+18 18 18 27 9 6 18 
+at mine: 
+4 5 
+
+spend: 715
+get: 200
+money: 9485
+weight: 221
+7
+1 1 1 1 2 1 1 
+food:
+8 8 8 12 8 8 
+water: 
+6 6 6 9 6 6 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 2 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+1 2 2 1 2 2 2 2 
+food:
+8 18 18 12 27 18 18 
+water: 
+6 18 18 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 1 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 2405
+get: 600
+money: 8195
+weight: 799
+9
+2 2 1 2 2 2 1 2 2 
+food:
+18 18 8 27 27 27 18 18 
+water: 
+18 18 6 27 27 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 715
+get: 200
+money: 9485
+weight: 221
+7
+1 1 1 1 2 1 1 
+food:
+8 8 8 12 8 8 
+water: 
+6 6 6 9 6 6 
+at mine: 
+4 
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 2 2 2 2 1 2 2 1 2 
+food:
+18 18 18 27 27 12 27 8 18 
+water: 
+18 18 18 27 27 9 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 2 2 1 1 2 
+food:
+18 8 18 27 8 18 
+water: 
+18 6 18 27 6 18 
+at mine: 
+4 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 2 2 1 1 1 1 
+food:
+8 18 18 12 8 8 
+water: 
+6 18 18 9 6 6 
+at mine: 
+4 
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+2 1 2 2 1 2 1 2 
+food:
+18 8 18 27 12 8 18 
+water: 
+18 6 18 27 9 6 18 
+at mine: 
+4 5 
+
+spend: 1680
+get: 400
+money: 8720
+weight: 552
+8
+1 1 1 2 2 2 2 2 
+food:
+8 8 8 27 27 18 18 
+water: 
+6 6 6 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+2 2 1 1 2 1 1 1 2 
+food:
+18 18 8 12 27 12 8 18 
+water: 
+18 18 6 9 27 9 6 18 
+at mine: 
+4 5 6 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 1 2 1 2 1 2 2 
+food:
+18 8 18 12 27 18 18 
+water: 
+18 6 18 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 2810
+get: 800
+money: 7990
+weight: 934
+10
+2 2 2 2 2 2 2 2 1 2 
+food:
+18 18 18 27 27 27 27 8 18 
+water: 
+18 18 18 27 27 27 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+1 1 1 2 1 2 1 2 2 2 
+food:
+8 8 8 27 12 27 12 18 18 
+water: 
+6 6 6 27 9 27 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 1 2 1 2 2 
+food:
+8 18 8 27 18 18 
+water: 
+6 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1515
+get: 200
+money: 8685
+weight: 501
+7
+2 2 2 1 2 2 2 
+food:
+18 18 18 12 18 18 
+water: 
+18 18 18 9 18 18 
+at mine: 
+4 
+
+spend: 1925
+get: 600
+money: 8675
+weight: 631
+9
+2 1 2 1 1 2 2 2 2 
+food:
+18 8 18 12 12 27 18 18 
+water: 
+18 6 18 9 9 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 1360
+get: 400
+money: 9040
+weight: 440
+8
+2 1 1 1 1 1 2 2 
+food:
+18 8 8 12 12 18 18 
+water: 
+18 6 6 9 9 18 18 
+at mine: 
+4 5 
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 2 1 2 2 1 2 2 2 2 
+food:
+18 18 8 27 27 12 27 18 18 
+water: 
+18 18 6 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 1 2 1 1 1 2 
+food:
+18 8 18 12 8 18 
+water: 
+18 6 18 9 6 18 
+at mine: 
+4 
+
+spend: 1850
+get: 800
+money: 8950
+weight: 598
+10
+1 1 2 2 1 2 1 1 1 1 
+food:
+8 8 18 27 12 27 12 8 8 
+water: 
+6 6 18 27 9 27 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+2 1 2 2 2 1 2 2 1 1 
+food:
+18 8 18 27 27 12 27 8 8 
+water: 
+18 6 18 27 27 9 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 1 1 2 2 2 1 
+food:
+18 8 8 27 18 8 
+water: 
+18 6 6 27 18 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 1 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 2090
+get: 800
+money: 8710
+weight: 682
+10
+1 1 1 2 2 2 1 1 1 2 
+food:
+8 8 8 27 27 27 12 8 18 
+water: 
+6 6 6 27 27 27 9 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 1 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1850
+get: 800
+money: 8950
+weight: 598
+10
+1 1 2 1 2 2 1 2 1 1 
+food:
+8 8 18 12 27 27 12 8 8 
+water: 
+6 6 18 9 27 27 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1925
+get: 600
+money: 8675
+weight: 631
+9
+1 2 2 1 1 2 2 2 2 
+food:
+8 18 18 12 12 27 18 18 
+water: 
+6 18 18 9 9 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 1 1 2 
+food:
+18 8 8 8 18 
+water: 
+18 6 6 6 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 2 2 1 
+food:
+8 18 8 18 8 
+water: 
+6 18 6 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 1 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+2 1 2 2 1 2 1 1 1 
+food:
+18 8 18 27 12 27 8 8 
+water: 
+18 6 18 27 9 27 6 6 
+at mine: 
+4 5 6 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 1 1 2 1 2 
+food:
+18 18 8 12 8 18 
+water: 
+18 18 6 9 6 18 
+at mine: 
+4 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 2810
+get: 800
+money: 7990
+weight: 934
+10
+2 2 2 2 2 2 2 2 2 1 
+food:
+18 18 18 27 27 27 27 18 8 
+water: 
+18 18 18 27 27 27 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 2 2 1 1 
+food:
+8 8 18 8 8 
+water: 
+6 6 18 6 6 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 2 2 1 
+food:
+18 18 18 27 18 8 
+water: 
+18 18 18 27 18 6 
+at mine: 
+4 
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+1 2 1 2 2 1 2 2 1 2 
+food:
+8 18 8 27 27 12 27 8 18 
+water: 
+6 18 6 27 27 9 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 1 2 2 2 2 
+food:
+8 18 8 27 18 18 
+water: 
+6 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 1 2 2 2 2 
+food:
+18 18 8 27 18 18 
+water: 
+18 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 1 2 2 2 2 2 
+food:
+18 8 18 27 18 18 
+water: 
+18 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1685
+get: 600
+money: 8915
+weight: 547
+9
+2 1 1 2 1 2 2 1 1 
+food:
+18 8 8 27 12 27 8 8 
+water: 
+18 6 6 27 9 27 6 6 
+at mine: 
+4 5 6 
+
+spend: 1755
+get: 200
+money: 8445
+weight: 585
+7
+2 2 2 2 1 2 2 
+food:
+18 18 18 27 18 18 
+water: 
+18 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+1 2 2 2 1 1 2 1 2 
+food:
+8 18 18 27 12 12 8 18 
+water: 
+6 18 18 27 9 9 6 18 
+at mine: 
+4 5 6 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 1 2 2 2 2 
+food:
+18 18 8 27 18 18 
+water: 
+18 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 1 1 2 
+food:
+18 8 8 8 18 
+water: 
+18 6 6 6 18 
+at mine: 
+
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+2 2 2 2 1 1 1 1 
+food:
+18 18 18 27 12 8 8 
+water: 
+18 18 18 27 9 6 6 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 1 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 1 1 2 2 1 2 
+food:
+18 8 8 27 8 18 
+water: 
+18 6 6 27 6 18 
+at mine: 
+4 
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+2 1 1 1 2 2 2 2 2 
+food:
+18 8 8 12 27 27 18 18 
+water: 
+18 6 6 9 27 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1690
+get: 800
+money: 9110
+weight: 542
+10
+2 2 1 1 1 1 1 1 2 1 
+food:
+18 18 8 12 12 12 12 18 8 
+water: 
+18 18 6 9 9 9 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 1 2 2 2 2 2 
+food:
+8 8 18 27 18 18 
+water: 
+6 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 1 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+1 1 2 1 2 2 1 2 
+food:
+8 8 18 12 27 8 18 
+water: 
+6 6 18 9 27 6 18 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 1 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 1 2 2 2 1 1 
+food:
+8 8 18 27 8 8 
+water: 
+6 6 18 27 6 6 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 2 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 1925
+get: 600
+money: 8675
+weight: 631
+9
+2 1 2 1 1 2 2 2 2 
+food:
+18 8 18 12 12 27 18 18 
+water: 
+18 6 18 9 9 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 2650
+get: 800
+money: 8150
+weight: 878
+10
+2 2 1 2 2 2 2 2 1 2 
+food:
+18 18 8 27 27 27 27 8 18 
+water: 
+18 18 6 27 27 27 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+2 1 1 2 1 1 
+food:
+18 8 8 8 8 
+water: 
+18 6 6 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 1 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 2 2 1 
+food:
+8 18 8 18 8 
+water: 
+6 18 6 18 6 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 2000
+get: 400
+money: 8400
+weight: 664
+8
+2 2 2 2 2 1 2 1 
+food:
+18 18 18 27 27 18 8 
+water: 
+18 18 18 27 27 18 6 
+at mine: 
+4 5 
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+2 2 2 2 1 1 2 1 2 1 
+food:
+18 18 18 27 12 12 27 18 8 
+water: 
+18 18 18 27 9 9 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1515
+get: 200
+money: 8685
+weight: 501
+7
+2 2 2 1 2 2 2 
+food:
+18 18 18 12 18 18 
+water: 
+18 18 18 9 18 18 
+at mine: 
+4 
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+1 2 2 1 2 2 2 
+food:
+8 18 18 12 18 18 
+water: 
+6 18 18 9 18 18 
+at mine: 
+4 
+
+spend: 1930
+get: 800
+money: 8870
+weight: 626
+10
+1 2 2 2 1 1 1 2 1 2 
+food:
+8 18 18 27 12 12 12 8 18 
+water: 
+6 18 18 27 9 9 9 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 1 2 1 
+food:
+8 18 8 18 8 
+water: 
+6 18 6 18 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 1 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 2 1 2 
+food:
+18 18 18 27 8 18 
+water: 
+18 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 1920
+get: 400
+money: 8480
+weight: 636
+8
+2 2 2 2 1 1 2 2 
+food:
+18 18 18 27 12 18 18 
+water: 
+18 18 18 27 9 18 18 
+at mine: 
+4 5 
+
+spend: 1530
+get: 800
+money: 9270
+weight: 486
+10
+1 2 2 1 1 1 1 1 1 1 
+food:
+8 18 18 12 12 12 12 8 8 
+water: 
+6 18 18 9 9 9 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 1 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 1520
+get: 400
+money: 8880
+weight: 496
+8
+2 2 2 1 1 2 2 1 
+food:
+18 18 18 12 12 18 8 
+water: 
+18 18 18 9 9 18 6 
+at mine: 
+4 5 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 1 2 2 1 
+food:
+8 8 8 18 8 
+water: 
+6 6 6 18 6 
+at mine: 
+
+
+spend: 2000
+get: 400
+money: 8400
+weight: 664
+8
+2 2 1 2 2 2 2 2 
+food:
+18 18 8 27 27 18 18 
+water: 
+18 18 6 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 2 2 1 
+food:
+8 8 18 18 8 
+water: 
+6 6 18 18 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+2 1 1 1 1 1 
+food:
+18 8 8 8 8 
+water: 
+18 6 6 6 6 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 1 2 2 2 2 1 
+food:
+8 8 18 27 18 8 
+water: 
+6 6 18 27 18 6 
+at mine: 
+4 
+
+spend: 2160
+get: 400
+money: 8240
+weight: 720
+8
+2 2 2 2 2 1 2 2 
+food:
+18 18 18 27 27 18 18 
+water: 
+18 18 18 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 2 1 2 1 1 
+food:
+8 18 8 8 8 
+water: 
+6 18 6 6 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 1360
+get: 400
+money: 9040
+weight: 440
+8
+2 2 1 1 1 2 1 2 
+food:
+18 18 8 12 12 8 18 
+water: 
+18 18 6 9 9 6 18 
+at mine: 
+4 5 
+
+spend: 550
+get: 0
+money: 9450
+weight: 170
+6
+1 1 1 1 1 1 
+food:
+8 8 8 8 8 
+water: 
+6 6 6 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 1 2 1 
+food:
+18 18 8 18 8 
+water: 
+18 18 6 18 6 
+at mine: 
+
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 1 2 1 1 2 1 
+food:
+8 8 18 12 18 8 
+water: 
+6 6 18 9 18 6 
+at mine: 
+4 
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+2 2 1 2 1 2 2 1 2 
+food:
+18 18 8 27 12 27 8 18 
+water: 
+18 18 6 27 9 27 6 18 
+at mine: 
+4 5 6 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 2085
+get: 600
+money: 8515
+weight: 687
+9
+2 1 2 2 2 2 1 1 1 
+food:
+18 8 18 27 27 27 8 8 
+water: 
+18 6 18 27 27 27 6 6 
+at mine: 
+4 5 6 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 2 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+1 2 2 2 2 1 2 2 1 
+food:
+8 18 18 27 27 12 18 8 
+water: 
+6 18 18 27 27 9 18 6 
+at mine: 
+4 5 6 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 1 1 2 
+food:
+18 18 18 27 8 18 
+water: 
+18 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 1 2 1 
+food:
+18 18 18 27 18 8 
+water: 
+18 18 18 27 18 6 
+at mine: 
+4 
+
+spend: 2650
+get: 800
+money: 8150
+weight: 878
+10
+2 1 2 2 2 2 2 1 1 2 
+food:
+18 8 18 27 27 27 27 8 18 
+water: 
+18 6 18 27 27 27 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 1 2 1 
+food:
+18 8 8 18 8 
+water: 
+18 6 6 18 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 2 2 1 
+food:
+18 8 8 18 8 
+water: 
+18 6 6 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+1 1 2 2 1 2 2 2 
+food:
+8 8 18 27 12 18 18 
+water: 
+6 6 18 27 9 18 18 
+at mine: 
+4 5 
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+1 2 2 2 1 1 2 2 1 1 
+food:
+8 18 18 27 12 12 27 8 8 
+water: 
+6 18 18 27 9 9 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 2170
+get: 800
+money: 8630
+weight: 710
+10
+2 1 1 2 1 1 2 2 2 2 
+food:
+18 8 8 27 12 12 27 18 18 
+water: 
+18 6 6 27 9 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 2 1 
+food:
+18 18 8 18 8 
+water: 
+18 18 6 18 6 
+at mine: 
+
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+1 2 1 1 2 2 2 2 
+food:
+8 18 8 12 27 18 18 
+water: 
+6 18 6 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 955
+get: 200
+money: 9245
+weight: 305
+7
+1 1 1 2 2 1 1 
+food:
+8 8 8 27 8 8 
+water: 
+6 6 6 27 6 6 
+at mine: 
+4 
+
+spend: 1360
+get: 400
+money: 9040
+weight: 440
+8
+1 1 1 2 2 1 1 1 
+food:
+8 8 8 27 27 8 8 
+water: 
+6 6 6 27 27 6 6 
+at mine: 
+4 5 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+1 1 2 1 1 2 2 
+food:
+8 8 18 12 18 18 
+water: 
+6 6 18 9 18 18 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 1 2 2 2 2 
+food:
+18 18 8 27 18 18 
+water: 
+18 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1680
+get: 400
+money: 8720
+weight: 552
+8
+1 1 2 2 2 2 1 2 
+food:
+8 8 18 27 27 8 18 
+water: 
+6 6 18 27 27 6 18 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 2 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1925
+get: 600
+money: 8675
+weight: 631
+9
+1 1 1 2 2 2 1 1 2 
+food:
+8 8 8 27 27 27 8 18 
+water: 
+6 6 6 27 27 27 6 18 
+at mine: 
+4 5 6 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 2 2 2 1 1 
+food:
+8 18 18 27 8 8 
+water: 
+6 18 18 27 6 6 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 2 1 2 
+food:
+8 18 8 8 18 
+water: 
+6 18 6 6 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 1 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 1 1 2 2 2 1 
+food:
+8 8 8 27 18 8 
+water: 
+6 6 6 27 18 6 
+at mine: 
+4 
+
+spend: 1680
+get: 400
+money: 8720
+weight: 552
+8
+1 1 1 2 2 2 2 2 
+food:
+8 8 8 27 27 18 18 
+water: 
+6 6 6 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 2 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 2650
+get: 800
+money: 8150
+weight: 878
+10
+2 2 1 2 2 2 2 2 1 2 
+food:
+18 18 8 27 27 27 27 8 18 
+water: 
+18 18 6 27 27 27 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 2 2 1 1 
+food:
+18 8 18 8 8 
+water: 
+18 6 18 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 2 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 1 2 1 
+food:
+18 18 18 27 18 8 
+water: 
+18 18 18 27 18 6 
+at mine: 
+4 
+
+spend: 2000
+get: 400
+money: 8400
+weight: 664
+8
+2 1 2 2 2 1 2 2 
+food:
+18 8 18 27 27 18 18 
+water: 
+18 6 18 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 2 1 2 2 1 2 1 2 2 
+food:
+18 18 8 27 27 12 27 18 18 
+water: 
+18 18 6 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1360
+get: 400
+money: 9040
+weight: 440
+8
+2 1 1 1 1 1 2 2 
+food:
+18 8 8 12 12 18 18 
+water: 
+18 6 6 9 9 18 18 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 1 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 1 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+2 2 2 1 2 2 1 1 
+food:
+18 18 18 12 27 8 8 
+water: 
+18 18 18 9 27 6 6 
+at mine: 
+4 5 
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 1 2 1 1 2 2 
+food:
+18 8 18 12 18 18 
+water: 
+18 6 18 9 18 18 
+at mine: 
+4 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 1 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 1840
+get: 400
+money: 8560
+weight: 608
+8
+2 2 2 2 2 1 1 1 
+food:
+18 18 18 27 27 8 8 
+water: 
+18 18 18 27 27 6 6 
+at mine: 
+4 5 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 1 2 2 2 2 
+food:
+18 18 8 27 18 18 
+water: 
+18 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 2 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 1 2 2 2 1 2 
+food:
+8 8 18 27 8 18 
+water: 
+6 6 18 27 6 18 
+at mine: 
+4 
+
+spend: 1920
+get: 400
+money: 8480
+weight: 636
+8
+2 2 2 2 1 2 2 2 
+food:
+18 18 18 27 12 18 18 
+water: 
+18 18 18 27 9 18 18 
+at mine: 
+4 5 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+2 1 1 1 2 2 1 
+food:
+18 8 8 12 18 8 
+water: 
+18 6 6 9 18 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 2 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+1 1 2 2 1 2 2 2 1 
+food:
+8 8 18 27 12 27 18 8 
+water: 
+6 6 18 27 9 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+2 1 2 1 2 1 1 
+food:
+18 8 18 12 8 8 
+water: 
+18 6 18 9 6 6 
+at mine: 
+4 
+
+spend: 2410
+get: 800
+money: 8390
+weight: 794
+10
+2 1 2 2 1 2 2 2 2 1 
+food:
+18 8 18 27 12 27 27 18 8 
+water: 
+18 6 18 27 9 27 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 1 1 2 2 1 
+food:
+18 18 8 12 18 8 
+water: 
+18 18 6 9 18 6 
+at mine: 
+4 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 1 1 2 2 2 2 
+food:
+8 8 8 27 18 18 
+water: 
+6 6 6 27 18 18 
+at mine: 
+4 
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+2 2 2 2 2 1 1 2 2 1 
+food:
+18 18 18 27 27 12 12 18 8 
+water: 
+18 18 18 27 27 9 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 1 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 2 2 1 1 
+food:
+8 8 18 8 8 
+water: 
+6 6 18 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 2 1 2 2 1 1 
+food:
+18 18 8 27 8 8 
+water: 
+18 18 6 27 6 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 1 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 2 1 2 
+food:
+18 18 18 27 8 18 
+water: 
+18 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 2 2 1 2 2 1 
+food:
+18 18 18 12 18 8 
+water: 
+18 18 18 9 18 6 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 2 2 1 
+food:
+18 18 18 27 18 8 
+water: 
+18 18 18 27 18 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 1 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+1 2 2 2 2 1 2 2 2 2 
+food:
+8 18 18 27 27 12 27 18 18 
+water: 
+6 18 18 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 1 2 1 
+food:
+8 8 18 18 8 
+water: 
+6 6 18 18 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 2 1 2 1 1 
+food:
+18 18 8 8 8 
+water: 
+18 18 6 6 6 
+at mine: 
+
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+2 2 2 2 1 1 1 1 2 2 
+food:
+18 18 18 27 12 12 12 18 18 
+water: 
+18 18 18 27 9 9 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 1 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 1 2 1 
+food:
+18 18 8 18 8 
+water: 
+18 18 6 18 6 
+at mine: 
+
+
+spend: 2410
+get: 800
+money: 8390
+weight: 794
+10
+2 2 2 1 2 2 2 2 1 1 
+food:
+18 18 18 12 27 27 27 8 8 
+water: 
+18 18 18 9 27 27 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 2730
+get: 800
+money: 8070
+weight: 906
+10
+2 2 2 2 2 1 2 2 2 2 
+food:
+18 18 18 27 27 12 27 18 18 
+water: 
+18 18 18 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 2 2 1 
+food:
+8 8 18 18 8 
+water: 
+6 6 18 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 1 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 550
+get: 0
+money: 9450
+weight: 170
+6
+1 1 1 2 1 1 
+food:
+8 8 8 8 8 
+water: 
+6 6 6 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 2 1 2 1 2 2 2 2 2 
+food:
+18 18 8 27 12 27 27 18 18 
+water: 
+18 18 6 27 9 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 955
+get: 200
+money: 9245
+weight: 305
+7
+1 1 1 2 2 1 1 
+food:
+8 8 8 27 8 8 
+water: 
+6 6 6 27 6 6 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 1 1 2 2 
+food:
+18 8 8 18 18 
+water: 
+18 6 6 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 1 2 2 2 
+food:
+18 8 8 18 18 
+water: 
+18 6 6 18 18 
+at mine: 
+
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 1 1 2 2 2 1 
+food:
+8 8 8 27 18 8 
+water: 
+6 6 6 27 18 6 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 2 1 2 
+food:
+8 18 8 8 18 
+water: 
+6 18 6 6 18 
+at mine: 
+
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 1 1 2 2 1 2 
+food:
+8 8 8 27 8 18 
+water: 
+6 6 6 27 6 18 
+at mine: 
+4 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+2 1 1 1 1 1 2 
+food:
+18 8 8 12 8 18 
+water: 
+18 6 6 9 6 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 2 1 
+food:
+18 18 8 18 8 
+water: 
+18 18 6 18 6 
+at mine: 
+
+
+spend: 1925
+get: 600
+money: 8675
+weight: 631
+9
+2 2 2 1 1 2 2 2 1 
+food:
+18 18 18 12 12 27 18 8 
+water: 
+18 18 18 9 9 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+2 2 1 2 1 2 1 1 
+food:
+18 18 8 27 12 8 8 
+water: 
+18 18 6 27 9 6 6 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 1 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+2 1 2 1 2 1 1 2 
+food:
+18 8 18 12 27 8 18 
+water: 
+18 6 18 9 27 6 18 
+at mine: 
+4 5 
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+1 2 2 1 2 2 2 
+food:
+8 18 18 12 18 18 
+water: 
+6 18 18 9 18 18 
+at mine: 
+4 
+
+spend: 1755
+get: 200
+money: 8445
+weight: 585
+7
+2 2 2 2 2 2 2 
+food:
+18 18 18 27 18 18 
+water: 
+18 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 2 2 1 2 2 1 2 
+food:
+18 18 18 12 27 8 18 
+water: 
+18 18 18 9 27 6 18 
+at mine: 
+4 5 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 1 2 1 1 1 2 
+food:
+8 8 18 12 8 18 
+water: 
+6 6 18 9 6 18 
+at mine: 
+4 
+
+spend: 1040
+get: 400
+money: 9360
+weight: 328
+8
+1 1 1 1 1 1 1 2 
+food:
+8 8 8 12 12 8 18 
+water: 
+6 6 6 9 9 6 18 
+at mine: 
+4 5 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 1 2 2 2 1 1 
+food:
+18 8 18 27 8 8 
+water: 
+18 6 18 27 6 6 
+at mine: 
+4 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 2 2 2 2 1 
+food:
+8 18 18 27 18 8 
+water: 
+6 18 18 27 18 6 
+at mine: 
+4 
+
+spend: 1920
+get: 400
+money: 8480
+weight: 636
+8
+2 2 2 1 2 1 2 2 
+food:
+18 18 18 12 27 18 18 
+water: 
+18 18 18 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 2 2 1 
+food:
+18 8 8 18 8 
+water: 
+18 6 6 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 1 2 2 2 
+food:
+18 8 8 18 18 
+water: 
+18 6 6 18 18 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 1 1 2 2 2 1 
+food:
+18 8 8 27 18 8 
+water: 
+18 6 6 27 18 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 1 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 1520
+get: 400
+money: 8880
+weight: 496
+8
+1 2 2 1 1 1 2 2 
+food:
+8 18 18 12 12 18 18 
+water: 
+6 18 18 9 9 18 18 
+at mine: 
+4 5 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 2 1 2 
+food:
+8 8 18 8 18 
+water: 
+6 6 18 6 18 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 1 2 1 2 2 
+food:
+18 18 8 27 18 18 
+water: 
+18 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+1 2 2 1 2 2 2 
+food:
+8 18 18 12 18 18 
+water: 
+6 18 18 9 18 18 
+at mine: 
+4 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 1 2 2 2 2 
+food:
+8 18 8 27 18 18 
+water: 
+6 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1770
+get: 800
+money: 9030
+weight: 570
+10
+1 1 2 2 1 1 1 2 2 1 
+food:
+8 8 18 27 12 12 12 18 8 
+water: 
+6 6 18 27 9 9 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 2 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 1 2 1 
+food:
+18 18 18 27 18 8 
+water: 
+18 18 18 27 18 6 
+at mine: 
+4 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 1 1 1 1 2 
+food:
+18 18 8 12 8 18 
+water: 
+18 18 6 9 6 18 
+at mine: 
+4 
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 2 2 2 1 2 2 2 2 1 
+food:
+18 18 18 27 12 27 27 18 8 
+water: 
+18 18 18 27 9 27 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+1 2 2 1 1 2 2 1 2 2 
+food:
+8 18 18 12 12 27 27 18 18 
+water: 
+6 18 18 9 9 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1930
+get: 800
+money: 8870
+weight: 626
+10
+2 2 1 1 1 2 1 1 2 1 
+food:
+18 18 8 12 12 27 12 18 8 
+water: 
+18 18 6 9 9 27 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 2490
+get: 800
+money: 8310
+weight: 822
+10
+1 2 1 2 2 2 2 1 1 2 
+food:
+8 18 8 27 27 27 27 8 18 
+water: 
+6 18 6 27 27 27 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 2730
+get: 800
+money: 8070
+weight: 906
+10
+2 2 2 2 1 2 2 2 2 2 
+food:
+18 18 18 27 12 27 27 18 18 
+water: 
+18 18 18 27 9 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 2 1 2 
+food:
+18 8 8 8 18 
+water: 
+18 6 6 6 18 
+at mine: 
+
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+2 2 2 1 2 1 2 2 1 2 
+food:
+18 18 18 12 27 12 27 8 18 
+water: 
+18 18 18 9 27 9 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+1 2 1 1 2 1 2 1 
+food:
+8 18 8 12 27 18 8 
+water: 
+6 18 6 9 27 18 6 
+at mine: 
+4 5 
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+1 1 1 1 2 1 2 2 
+food:
+8 8 8 12 27 18 18 
+water: 
+6 6 6 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 2 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1920
+get: 400
+money: 8480
+weight: 636
+8
+2 2 2 2 1 2 2 2 
+food:
+18 18 18 27 12 18 18 
+water: 
+18 18 18 27 9 18 18 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 1 2 2 2 2 
+food:
+8 8 18 18 18 
+water: 
+6 6 18 18 18 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 1 1 1 2 2 2 
+food:
+8 8 8 12 18 18 
+water: 
+6 6 6 9 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 2 1 
+food:
+18 18 8 18 8 
+water: 
+18 18 6 18 6 
+at mine: 
+
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+2 1 1 2 1 2 2 1 2 
+food:
+18 8 8 27 12 27 8 18 
+water: 
+18 6 6 27 9 27 6 18 
+at mine: 
+4 5 6 
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+1 2 1 1 2 1 2 2 2 
+food:
+8 18 8 12 27 12 18 18 
+water: 
+6 18 6 9 27 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 2170
+get: 800
+money: 8630
+weight: 710
+10
+1 1 2 2 2 1 1 2 2 2 
+food:
+8 8 18 27 27 12 12 18 18 
+water: 
+6 6 18 27 27 9 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 2 2 1 1 
+food:
+8 18 18 8 8 
+water: 
+6 18 18 6 6 
+at mine: 
+
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+2 1 2 2 1 1 1 2 1 
+food:
+18 8 18 27 12 12 18 8 
+water: 
+18 6 18 27 9 9 18 6 
+at mine: 
+4 5 6 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 2 1 2 1 1 2 2 
+food:
+18 18 8 27 12 18 18 
+water: 
+18 18 6 27 9 18 18 
+at mine: 
+4 5 
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+2 1 1 1 1 2 2 2 2 1 
+food:
+18 8 8 12 12 27 27 18 8 
+water: 
+18 6 6 9 9 27 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 1 2 
+food:
+8 18 18 8 18 
+water: 
+6 18 18 6 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 1 1 1 2 
+food:
+8 8 8 8 18 
+water: 
+6 6 6 6 18 
+at mine: 
+
+
+spend: 2730
+get: 800
+money: 8070
+weight: 906
+10
+2 2 2 2 2 1 2 2 2 2 
+food:
+18 18 18 27 27 12 27 18 18 
+water: 
+18 18 18 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 1 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 1 1 2 2 2 1 
+food:
+8 8 8 27 18 8 
+water: 
+6 6 6 27 18 6 
+at mine: 
+4 
+
+spend: 1610
+get: 800
+money: 9190
+weight: 514
+10
+2 1 1 2 1 1 1 2 1 1 
+food:
+18 8 8 27 12 12 12 8 8 
+water: 
+18 6 6 27 9 9 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 2325
+get: 600
+money: 8275
+weight: 771
+9
+2 2 2 2 1 2 2 2 2 
+food:
+18 18 18 27 12 27 18 18 
+water: 
+18 18 18 27 9 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 1840
+get: 400
+money: 8560
+weight: 608
+8
+1 2 2 2 2 1 1 2 
+food:
+8 18 18 27 27 8 18 
+water: 
+6 18 18 27 27 6 18 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 1 2 
+food:
+8 18 18 8 18 
+water: 
+6 18 18 6 18 
+at mine: 
+
+
+spend: 2085
+get: 600
+money: 8515
+weight: 687
+9
+1 1 1 2 2 2 2 2 2 
+food:
+8 8 8 27 27 27 18 18 
+water: 
+6 6 6 27 27 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 1 2 2 2 1 
+food:
+8 18 8 27 18 8 
+water: 
+6 18 6 27 18 6 
+at mine: 
+4 
+
+spend: 1680
+get: 400
+money: 8720
+weight: 552
+8
+1 2 1 2 2 2 2 1 
+food:
+8 18 8 27 27 18 8 
+water: 
+6 18 6 27 27 18 6 
+at mine: 
+4 5 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 2 1 1 2 2 1 
+food:
+8 18 8 12 18 8 
+water: 
+6 18 6 9 18 6 
+at mine: 
+4 
+
+spend: 1930
+get: 800
+money: 8870
+weight: 626
+10
+2 2 1 1 1 1 2 1 1 2 
+food:
+18 18 8 12 12 12 27 8 18 
+water: 
+18 18 6 9 9 9 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 2000
+get: 400
+money: 8400
+weight: 664
+8
+1 2 2 2 2 1 2 2 
+food:
+8 18 18 27 27 18 18 
+water: 
+6 18 18 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 1 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 1 2 2 2 1 2 2 2 2 
+food:
+18 8 18 27 27 12 27 18 18 
+water: 
+18 6 18 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 2165
+get: 600
+money: 8435
+weight: 715
+9
+1 2 2 2 2 1 1 2 2 
+food:
+8 18 18 27 27 12 18 18 
+water: 
+6 18 18 27 27 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 1840
+get: 400
+money: 8560
+weight: 608
+8
+2 1 2 2 2 1 1 2 
+food:
+18 8 18 27 27 8 18 
+water: 
+18 6 18 27 27 6 18 
+at mine: 
+4 5 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 2 2 2 2 1 
+food:
+18 8 18 27 18 8 
+water: 
+18 6 18 27 18 6 
+at mine: 
+4 
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+2 2 1 2 1 1 2 1 
+food:
+18 18 8 27 12 18 8 
+water: 
+18 18 6 27 9 18 6 
+at mine: 
+4 5 
+
+spend: 1930
+get: 800
+money: 8870
+weight: 626
+10
+2 1 2 1 1 1 2 1 1 2 
+food:
+18 8 18 12 12 12 27 8 18 
+water: 
+18 6 18 9 9 9 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 2 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 2 2 2 2 1 
+food:
+18 8 18 27 18 8 
+water: 
+18 6 18 27 18 6 
+at mine: 
+4 
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+1 2 2 2 1 1 2 1 2 2 
+food:
+8 18 18 27 12 12 27 18 18 
+water: 
+6 18 18 27 9 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+2 2 1 1 1 1 1 
+food:
+18 18 8 12 8 8 
+water: 
+18 18 6 9 6 6 
+at mine: 
+4 
+
+spend: 1520
+get: 400
+money: 8880
+weight: 496
+8
+2 1 1 2 2 2 1 1 
+food:
+18 8 8 27 27 8 8 
+water: 
+18 6 6 27 27 6 6 
+at mine: 
+4 5 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 1 2 2 2 2 2 
+food:
+18 8 18 27 18 18 
+water: 
+18 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+1 2 2 1 1 2 2 2 1 
+food:
+8 18 18 12 12 27 18 8 
+water: 
+6 18 18 9 9 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 1 2 1 2 2 
+food:
+18 18 8 27 18 18 
+water: 
+18 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1850
+get: 800
+money: 8950
+weight: 598
+10
+1 1 2 1 2 1 2 1 1 1 
+food:
+8 8 18 12 27 12 27 8 8 
+water: 
+6 6 18 9 27 9 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+1 2 2 1 1 2 1 
+food:
+8 18 18 12 18 8 
+water: 
+6 18 18 9 18 6 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 1 2 2 2 2 
+food:
+18 18 8 27 18 18 
+water: 
+18 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+2 1 2 1 2 1 1 2 
+food:
+18 8 18 12 27 8 18 
+water: 
+18 6 18 9 27 6 18 
+at mine: 
+4 5 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 1 2 2 2 2 2 
+food:
+18 8 18 27 18 18 
+water: 
+18 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+2 1 1 1 2 2 2 2 1 
+food:
+18 8 8 12 27 27 18 8 
+water: 
+18 6 6 9 27 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 2000
+get: 400
+money: 8400
+weight: 664
+8
+1 2 2 2 2 2 2 2 
+food:
+8 18 18 27 27 18 18 
+water: 
+6 18 18 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 1360
+get: 400
+money: 9040
+weight: 440
+8
+2 2 1 1 1 1 1 2 
+food:
+18 18 8 12 12 8 18 
+water: 
+18 18 6 9 9 6 18 
+at mine: 
+4 5 
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 1 1 2 1 1 2 
+food:
+8 8 8 27 8 18 
+water: 
+6 6 6 27 6 18 
+at mine: 
+4 
+
+spend: 715
+get: 200
+money: 9485
+weight: 221
+7
+1 1 1 1 2 1 1 
+food:
+8 8 8 12 8 8 
+water: 
+6 6 6 9 6 6 
+at mine: 
+4 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 1 2 2 2 2 
+food:
+8 18 8 27 18 18 
+water: 
+6 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 1 2 2 2 2 1 
+food:
+8 8 18 27 18 8 
+water: 
+6 6 18 27 18 6 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 2 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 1 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+1 2 2 1 2 2 2 2 1 
+food:
+8 18 18 12 27 27 18 8 
+water: 
+6 18 18 9 27 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+1 2 2 1 1 2 1 2 1 
+food:
+8 18 18 12 12 27 18 8 
+water: 
+6 18 18 9 9 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 2 1 1 2 2 2 
+food:
+18 18 8 12 18 18 
+water: 
+18 18 6 9 18 18 
+at mine: 
+4 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 2 2 1 1 2 
+food:
+8 18 18 27 8 18 
+water: 
+6 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+1 1 1 2 2 2 2 2 2 1 
+food:
+8 8 8 27 27 27 27 18 8 
+water: 
+6 6 6 27 27 27 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 2000
+get: 400
+money: 8400
+weight: 664
+8
+2 2 2 2 2 2 2 1 
+food:
+18 18 18 27 27 18 8 
+water: 
+18 18 18 27 27 18 6 
+at mine: 
+4 5 
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+1 1 2 1 2 2 2 2 
+food:
+8 8 18 12 27 18 18 
+water: 
+6 6 18 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 1 1 2 
+food:
+8 18 18 8 18 
+water: 
+6 18 18 6 18 
+at mine: 
+
+
+spend: 2405
+get: 600
+money: 8195
+weight: 799
+9
+2 2 1 2 2 2 2 2 2 
+food:
+18 18 8 27 27 27 18 18 
+water: 
+18 18 6 27 27 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 2 1 2 1 1 
+food:
+18 18 8 8 8 
+water: 
+18 18 6 6 6 
+at mine: 
+
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 2 2 1 1 1 1 
+food:
+8 18 18 12 8 8 
+water: 
+6 18 18 9 6 6 
+at mine: 
+4 
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+1 1 2 1 1 2 1 2 2 
+food:
+8 8 18 12 12 27 18 18 
+water: 
+6 6 18 9 9 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+1 2 2 2 2 2 2 
+food:
+8 18 18 27 18 18 
+water: 
+6 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 1 2 1 
+food:
+18 18 18 27 18 8 
+water: 
+18 18 18 27 18 6 
+at mine: 
+4 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 2 1 2 1 1 
+food:
+18 18 18 12 8 8 
+water: 
+18 18 18 9 6 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+2 1 1 2 1 2 1 2 
+food:
+18 8 8 27 12 8 18 
+water: 
+18 6 6 27 9 6 18 
+at mine: 
+4 5 
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+1 2 1 2 2 1 1 2 2 1 
+food:
+8 18 8 27 27 12 12 18 8 
+water: 
+6 18 6 27 27 9 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 2 1 1 1 1 
+food:
+8 18 8 8 8 
+water: 
+6 18 6 6 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 1 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 1 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+2 1 2 1 2 1 2 2 2 2 
+food:
+18 8 18 12 27 12 27 18 18 
+water: 
+18 6 18 9 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 2 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 1 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 1 2 2 2 2 1 2 2 2 
+food:
+18 8 18 27 27 27 12 18 18 
+water: 
+18 6 18 27 27 27 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+2 1 1 2 1 1 2 1 1 2 
+food:
+18 8 8 27 12 12 27 8 18 
+water: 
+18 6 6 27 9 9 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 2 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 2 1 2 
+food:
+8 8 18 8 18 
+water: 
+6 6 18 6 18 
+at mine: 
+
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+1 1 1 2 2 1 2 1 2 2 
+food:
+8 8 8 27 27 12 27 18 18 
+water: 
+6 6 6 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 1 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 1 2 1 2 2 
+food:
+18 8 8 27 18 18 
+water: 
+18 6 6 27 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 2 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 1930
+get: 800
+money: 8870
+weight: 626
+10
+1 2 2 2 1 1 1 2 2 1 
+food:
+8 18 18 27 12 12 12 18 8 
+water: 
+6 18 18 27 9 9 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 1 1 2 1 2 
+food:
+18 18 8 12 8 18 
+water: 
+18 18 6 9 6 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 2 2 2 1 1 
+food:
+8 18 18 27 8 8 
+water: 
+6 18 18 27 6 6 
+at mine: 
+4 
+
+spend: 1770
+get: 800
+money: 9030
+weight: 570
+10
+2 2 1 1 2 1 1 2 1 1 
+food:
+18 18 8 12 27 12 12 8 8 
+water: 
+18 18 6 9 27 9 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 1 2 2 1 1 1 
+food:
+8 8 18 27 8 8 
+water: 
+6 6 18 27 6 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 1 2 1 2 2 2 
+food:
+18 8 18 12 18 18 
+water: 
+18 6 18 9 18 18 
+at mine: 
+4 
+
+spend: 2565
+get: 600
+money: 8035
+weight: 855
+9
+2 2 2 2 2 2 2 2 2 
+food:
+18 18 18 27 27 27 18 18 
+water: 
+18 18 18 27 27 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 1 1 2 
+food:
+8 18 18 8 18 
+water: 
+6 18 18 6 18 
+at mine: 
+
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+1 1 2 1 2 2 1 2 2 
+food:
+8 8 18 12 27 27 18 18 
+water: 
+6 6 18 9 27 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 2410
+get: 800
+money: 8390
+weight: 794
+10
+1 2 2 2 1 2 2 2 2 1 
+food:
+8 18 18 27 12 27 27 18 8 
+water: 
+6 18 18 27 9 27 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 2565
+get: 600
+money: 8035
+weight: 855
+9
+2 2 2 2 2 2 1 2 2 
+food:
+18 18 18 27 27 27 18 18 
+water: 
+18 18 18 27 27 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 1 2 2 2 1 2 
+food:
+8 8 18 27 8 18 
+water: 
+6 6 18 27 6 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 1 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 1 2 2 2 1 1 
+food:
+18 8 18 27 8 8 
+water: 
+18 6 18 27 6 6 
+at mine: 
+4 
+
+spend: 875
+get: 200
+money: 9325
+weight: 277
+7
+1 2 1 1 1 1 1 
+food:
+8 18 8 12 8 8 
+water: 
+6 18 6 9 6 6 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 1 2 
+food:
+8 18 18 8 18 
+water: 
+6 18 18 6 18 
+at mine: 
+
+
+spend: 2490
+get: 800
+money: 8310
+weight: 822
+10
+2 2 2 1 2 2 1 2 2 2 
+food:
+18 18 18 12 27 27 12 18 18 
+water: 
+18 18 18 9 27 27 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+1 2 1 2 2 1 2 2 1 
+food:
+8 18 8 27 27 12 18 8 
+water: 
+6 18 6 27 27 9 18 6 
+at mine: 
+4 5 6 
+
+spend: 1755
+get: 200
+money: 8445
+weight: 585
+7
+2 2 2 2 2 2 2 
+food:
+18 18 18 27 18 18 
+water: 
+18 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 1 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 2 1 
+food:
+18 18 8 18 8 
+water: 
+18 18 6 18 6 
+at mine: 
+
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 2 1 1 2 1 2 2 
+food:
+18 18 8 12 27 18 18 
+water: 
+18 18 6 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 2 1 2 1 1 
+food:
+8 18 8 8 8 
+water: 
+6 18 6 6 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 2 1 1 1 
+food:
+18 8 18 8 8 
+water: 
+18 6 18 6 6 
+at mine: 
+
+
+spend: 1840
+get: 400
+money: 8560
+weight: 608
+8
+2 1 2 2 2 2 1 2 
+food:
+18 8 18 27 27 8 18 
+water: 
+18 6 18 27 27 6 18 
+at mine: 
+4 5 
+
+spend: 2090
+get: 800
+money: 8710
+weight: 682
+10
+2 2 1 1 1 1 2 2 2 2 
+food:
+18 18 8 12 12 12 27 18 18 
+water: 
+18 18 6 9 9 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 1 2 1 
+food:
+18 8 8 18 8 
+water: 
+18 6 6 18 6 
+at mine: 
+
+
+spend: 2000
+get: 400
+money: 8400
+weight: 664
+8
+1 2 2 2 2 1 2 2 
+food:
+8 18 18 27 27 18 18 
+water: 
+6 18 18 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 2 1 2 
+food:
+18 18 18 27 8 18 
+water: 
+18 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1920
+get: 400
+money: 8480
+weight: 636
+8
+2 2 2 1 2 2 2 2 
+food:
+18 18 18 12 27 18 18 
+water: 
+18 18 18 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+2 2 1 1 2 1 1 1 
+food:
+18 18 8 12 27 8 8 
+water: 
+18 18 6 9 27 6 6 
+at mine: 
+4 5 
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+2 2 1 2 1 2 2 1 2 
+food:
+18 18 8 27 12 27 8 18 
+water: 
+18 18 6 27 9 27 6 18 
+at mine: 
+4 5 6 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 2 2 1 1 
+food:
+8 18 18 8 8 
+water: 
+6 18 18 6 6 
+at mine: 
+
+
+spend: 1755
+get: 200
+money: 8445
+weight: 585
+7
+2 2 2 2 2 2 2 
+food:
+18 18 18 27 18 18 
+water: 
+18 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 2970
+get: 800
+money: 7830
+weight: 990
+10
+2 2 2 2 2 2 2 2 2 2 
+food:
+18 18 18 27 27 27 27 18 18 
+water: 
+18 18 18 27 27 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 1 1 2 2 2 1 
+food:
+18 8 8 27 18 8 
+water: 
+18 6 6 27 18 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1680
+get: 400
+money: 8720
+weight: 552
+8
+1 1 2 2 2 1 2 1 
+food:
+8 8 18 27 27 18 8 
+water: 
+6 6 18 27 27 18 6 
+at mine: 
+4 5 
+
+spend: 2650
+get: 800
+money: 8150
+weight: 878
+10
+1 2 2 2 2 2 2 1 1 2 
+food:
+8 18 18 27 27 27 27 8 18 
+water: 
+6 18 18 27 27 27 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1755
+get: 200
+money: 8445
+weight: 585
+7
+2 2 2 2 1 2 2 
+food:
+18 18 18 27 18 18 
+water: 
+18 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+1 2 2 1 2 2 1 
+food:
+8 18 18 12 18 8 
+water: 
+6 18 18 9 18 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 1 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 1 2 2 1 2 2 
+food:
+18 8 18 27 18 18 
+water: 
+18 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 1 1 2 2 
+food:
+18 8 8 18 18 
+water: 
+18 6 6 18 18 
+at mine: 
+
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+1 1 2 2 1 2 2 2 1 
+food:
+8 8 18 27 12 27 18 8 
+water: 
+6 6 18 27 9 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1930
+get: 800
+money: 8870
+weight: 626
+10
+1 1 2 1 1 2 1 2 2 2 
+food:
+8 8 18 12 12 27 12 18 18 
+water: 
+6 6 18 9 9 27 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 550
+get: 0
+money: 9450
+weight: 170
+6
+1 1 1 2 1 1 
+food:
+8 8 8 8 8 
+water: 
+6 6 6 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1925
+get: 600
+money: 8675
+weight: 631
+9
+1 1 1 2 2 2 1 2 1 
+food:
+8 8 8 27 27 27 18 8 
+water: 
+6 6 6 27 27 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 1 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 1 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 2410
+get: 800
+money: 8390
+weight: 794
+10
+2 1 2 2 1 2 2 2 2 1 
+food:
+18 8 18 27 12 27 27 18 8 
+water: 
+18 6 18 27 9 27 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 2 2 1 1 2 1 
+food:
+18 18 18 12 18 8 
+water: 
+18 18 18 9 18 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 1040
+get: 400
+money: 9360
+weight: 328
+8
+1 1 2 1 1 1 1 1 
+food:
+8 8 18 12 12 8 8 
+water: 
+6 6 18 9 9 6 6 
+at mine: 
+4 5 
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+1 2 1 1 2 2 1 2 
+food:
+8 18 8 12 27 8 18 
+water: 
+6 18 6 9 27 6 18 
+at mine: 
+4 5 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 2 2 1 2 2 2 1 
+food:
+18 18 18 12 27 18 8 
+water: 
+18 18 18 9 27 18 6 
+at mine: 
+4 5 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+1 2 1 1 1 2 2 
+food:
+8 18 8 12 18 18 
+water: 
+6 18 6 9 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 1 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+1 2 1 1 2 2 2 2 
+food:
+8 18 8 12 27 18 18 
+water: 
+6 18 6 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 1 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 1 1 1 1 2 2 
+food:
+18 8 8 12 18 18 
+water: 
+18 6 6 9 18 18 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 1 2 2 2 2 2 
+food:
+18 8 18 27 18 18 
+water: 
+18 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 2 1 2 2 1 2 
+food:
+18 18 8 27 8 18 
+water: 
+18 18 6 27 6 18 
+at mine: 
+4 
+
+spend: 2405
+get: 600
+money: 8195
+weight: 799
+9
+1 2 2 2 2 2 2 2 2 
+food:
+8 18 18 27 27 27 18 18 
+water: 
+6 18 18 27 27 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 1 2 2 2 
+food:
+18 8 8 18 18 
+water: 
+18 6 6 18 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 1 2 1 
+food:
+18 8 8 18 8 
+water: 
+18 6 6 18 6 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 2 2 2 2 1 1 
+food:
+18 18 18 27 8 8 
+water: 
+18 18 18 27 6 6 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 1 1 2 
+food:
+18 18 18 27 8 18 
+water: 
+18 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 2 2 1 2 1 
+food:
+8 18 18 27 18 8 
+water: 
+6 18 18 27 18 6 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 1 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 2 1 1 2 2 2 
+food:
+18 18 8 12 18 18 
+water: 
+18 18 6 9 18 18 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 1 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 1 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+2 2 2 1 2 2 1 2 2 1 
+food:
+18 18 18 12 27 27 12 18 8 
+water: 
+18 18 18 9 27 27 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1930
+get: 800
+money: 8870
+weight: 626
+10
+2 1 2 1 2 1 1 2 1 2 
+food:
+18 8 18 12 27 12 12 8 18 
+water: 
+18 6 18 9 27 9 9 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 2 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 2 1 2 
+food:
+18 8 8 8 18 
+water: 
+18 6 6 6 18 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 1 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 2 1 2 1 1 
+food:
+8 18 8 8 8 
+water: 
+6 18 6 6 6 
+at mine: 
+
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 2 2 1 2 2 2 1 
+food:
+18 18 18 12 27 18 8 
+water: 
+18 18 18 9 27 18 6 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 2 2 2 1 2 
+food:
+8 18 18 27 8 18 
+water: 
+6 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 1 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 1 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 2 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 2 2 1 1 1 2 
+food:
+18 18 18 12 8 18 
+water: 
+18 18 18 9 6 18 
+at mine: 
+4 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+2 1 1 2 1 1 
+food:
+18 8 8 8 8 
+water: 
+18 6 6 6 6 
+at mine: 
+
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 1 2 1 2 1 2 
+food:
+18 8 18 12 8 18 
+water: 
+18 6 18 9 6 18 
+at mine: 
+4 
+
+spend: 1040
+get: 400
+money: 9360
+weight: 328
+8
+1 1 1 1 1 1 1 2 
+food:
+8 8 8 12 12 8 18 
+water: 
+6 6 6 9 9 6 18 
+at mine: 
+4 5 
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 2 1 2 1 1 1 
+food:
+8 18 8 27 8 8 
+water: 
+6 18 6 27 6 6 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 2 1 
+food:
+18 18 8 18 8 
+water: 
+18 18 6 18 6 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 1 2 2 2 1 
+food:
+8 18 8 27 18 8 
+water: 
+6 18 6 27 18 6 
+at mine: 
+4 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+2 1 1 1 1 1 2 
+food:
+18 8 8 12 8 18 
+water: 
+18 6 6 9 6 18 
+at mine: 
+4 
+
+spend: 1280
+get: 400
+money: 9120
+weight: 412
+8
+1 2 1 1 2 1 1 1 
+food:
+8 18 8 12 27 8 8 
+water: 
+6 18 6 9 27 6 6 
+at mine: 
+4 5 
+
+spend: 1445
+get: 600
+money: 9155
+weight: 463
+9
+1 1 1 1 1 2 1 2 1 
+food:
+8 8 8 12 12 27 18 8 
+water: 
+6 6 6 9 9 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+1 1 2 2 1 1 1 2 
+food:
+8 8 18 27 12 8 18 
+water: 
+6 6 18 27 9 6 18 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 1 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 2 1 2 
+food:
+8 18 8 8 18 
+water: 
+6 18 6 6 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 2 1 1 1 
+food:
+18 8 18 8 8 
+water: 
+18 6 18 6 6 
+at mine: 
+
+
+spend: 2970
+get: 800
+money: 7830
+weight: 990
+10
+2 2 2 2 2 2 2 2 2 2 
+food:
+18 18 18 27 27 27 27 18 18 
+water: 
+18 18 18 27 27 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+1 1 2 2 1 2 2 2 
+food:
+8 8 18 27 12 18 18 
+water: 
+6 6 18 27 9 18 18 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1520
+get: 400
+money: 8880
+weight: 496
+8
+2 2 1 1 1 2 2 2 
+food:
+18 18 8 12 12 18 18 
+water: 
+18 18 6 9 9 18 18 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 1 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+1 2 2 1 2 1 2 2 2 2 
+food:
+8 18 18 12 27 12 27 18 18 
+water: 
+6 18 18 9 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 2 2 2 2 1 
+food:
+18 8 18 27 18 8 
+water: 
+18 6 18 27 18 6 
+at mine: 
+4 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 2 2 1 1 
+food:
+8 8 18 8 8 
+water: 
+6 6 18 6 6 
+at mine: 
+
+
+spend: 2410
+get: 800
+money: 8390
+weight: 794
+10
+1 2 2 1 2 2 2 1 1 2 
+food:
+8 18 18 12 27 27 27 8 18 
+water: 
+6 18 18 9 27 27 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 2245
+get: 600
+money: 8355
+weight: 743
+9
+2 1 2 2 2 2 2 2 1 
+food:
+18 8 18 27 27 27 18 8 
+water: 
+18 6 18 27 27 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 1 2 2 2 
+food:
+18 8 8 18 18 
+water: 
+18 6 6 18 18 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 2 1 2 
+food:
+8 8 18 8 18 
+water: 
+6 6 18 6 18 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 1 1 2 2 1 2 
+food:
+18 8 8 27 8 18 
+water: 
+18 6 6 27 6 18 
+at mine: 
+4 
+
+spend: 1770
+get: 800
+money: 9030
+weight: 570
+10
+2 2 1 2 1 1 1 2 1 1 
+food:
+18 18 8 27 12 12 12 8 8 
+water: 
+18 18 6 27 9 9 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 2170
+get: 800
+money: 8630
+weight: 710
+10
+2 2 1 2 1 2 1 2 1 2 
+food:
+18 18 8 27 12 27 12 8 18 
+water: 
+18 18 6 27 9 27 9 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 2085
+get: 600
+money: 8515
+weight: 687
+9
+2 1 2 2 2 2 2 1 1 
+food:
+18 8 18 27 27 27 8 8 
+water: 
+18 6 18 27 27 27 6 6 
+at mine: 
+4 5 6 
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+2 2 1 2 1 2 2 1 
+food:
+18 18 8 27 12 18 8 
+water: 
+18 18 6 27 9 18 6 
+at mine: 
+4 5 
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+2 1 2 1 2 2 2 1 1 1 
+food:
+18 8 18 12 27 27 27 8 8 
+water: 
+18 6 18 9 27 27 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 2 2 1 1 1 
+food:
+8 18 18 27 8 8 
+water: 
+6 18 18 27 6 6 
+at mine: 
+4 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+2 1 2 1 1 1 1 
+food:
+18 8 18 12 8 8 
+water: 
+18 6 18 9 6 6 
+at mine: 
+4 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 1 2 1 2 2 2 2 
+food:
+18 8 18 12 27 18 18 
+water: 
+18 6 18 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 1 1 2 2 
+food:
+18 8 8 18 18 
+water: 
+18 6 6 18 18 
+at mine: 
+
+
+spend: 1840
+get: 400
+money: 8560
+weight: 608
+8
+1 1 2 2 2 1 2 2 
+food:
+8 8 18 27 27 18 18 
+water: 
+6 6 18 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 1 1 1 2 2 2 
+food:
+18 8 8 12 18 18 
+water: 
+18 6 6 9 18 18 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 2 2 1 
+food:
+8 8 18 18 8 
+water: 
+6 6 18 18 6 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 1 2 2 1 2 2 
+food:
+18 8 18 27 18 18 
+water: 
+18 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 2 2 1 
+food:
+8 8 18 18 8 
+water: 
+6 6 18 18 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 2 2 1 1 
+food:
+8 18 18 8 8 
+water: 
+6 18 18 6 6 
+at mine: 
+
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 1 2 2 2 1 2 2 2 2 
+food:
+18 8 18 27 27 12 27 18 18 
+water: 
+18 6 18 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+1 2 2 2 2 2 2 
+food:
+8 18 18 27 18 18 
+water: 
+6 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 2 2 1 1 1 
+food:
+8 18 18 27 8 8 
+water: 
+6 18 18 27 6 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 1 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+2 2 1 2 1 1 2 1 2 2 
+food:
+18 18 8 27 12 12 27 18 18 
+water: 
+18 18 6 27 9 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1925
+get: 600
+money: 8675
+weight: 631
+9
+2 1 2 1 2 1 1 2 2 
+food:
+18 8 18 12 27 12 18 18 
+water: 
+18 6 18 9 27 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 2 2 1 2 2 1 2 
+food:
+18 18 18 12 27 8 18 
+water: 
+18 18 18 9 27 6 18 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 1 2 2 2 2 
+food:
+18 18 8 27 18 18 
+water: 
+18 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+2 1 1 2 2 1 1 2 2 
+food:
+18 8 8 27 27 12 18 18 
+water: 
+18 6 6 27 27 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 1 2 2 2 2 
+food:
+8 8 18 18 18 
+water: 
+6 6 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 1 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 1 2 2 2 1 2 
+food:
+8 8 18 27 8 18 
+water: 
+6 6 18 27 6 18 
+at mine: 
+4 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 2 2 2 1 1 
+food:
+8 18 18 27 8 8 
+water: 
+6 18 18 27 6 6 
+at mine: 
+4 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 1 2 2 2 2 
+food:
+8 18 8 27 18 18 
+water: 
+6 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 1 2 2 2 2 2 
+food:
+18 8 18 27 18 18 
+water: 
+18 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 1690
+get: 800
+money: 9110
+weight: 542
+10
+1 1 1 1 2 1 2 2 1 1 
+food:
+8 8 8 12 27 12 27 8 8 
+water: 
+6 6 6 9 27 9 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 2 2 1 1 
+food:
+8 18 18 8 8 
+water: 
+6 18 18 6 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 2 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 1690
+get: 800
+money: 9110
+weight: 542
+10
+2 1 2 1 1 1 1 1 1 2 
+food:
+18 8 18 12 12 12 12 8 18 
+water: 
+18 6 18 9 9 9 9 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 2 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 2 1 1 1 1 
+food:
+8 18 8 8 8 
+water: 
+6 18 6 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 1 2 1 
+food:
+18 18 8 18 8 
+water: 
+18 18 6 18 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 1 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 2000
+get: 400
+money: 8400
+weight: 664
+8
+2 2 2 2 2 1 2 1 
+food:
+18 18 18 27 27 18 8 
+water: 
+18 18 18 27 27 18 6 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+2 1 1 2 1 2 1 2 1 
+food:
+18 8 8 27 12 27 18 8 
+water: 
+18 6 6 27 9 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1610
+get: 800
+money: 9190
+weight: 514
+10
+2 1 1 1 2 1 1 1 1 1 
+food:
+18 8 8 12 27 12 12 8 8 
+water: 
+18 6 6 9 27 9 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1685
+get: 600
+money: 8915
+weight: 547
+9
+1 2 2 1 1 1 2 2 2 
+food:
+8 18 18 12 12 12 18 18 
+water: 
+6 18 18 9 9 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+2 2 1 1 2 1 2 2 1 
+food:
+18 18 8 12 27 12 18 8 
+water: 
+18 18 6 9 27 9 18 6 
+at mine: 
+4 5 6 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 1 2 2 2 1 1 
+food:
+18 8 18 27 8 8 
+water: 
+18 6 18 27 6 6 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 2 1 2 
+food:
+8 18 8 8 18 
+water: 
+6 18 6 6 18 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+2 1 1 2 1 1 
+food:
+18 8 8 8 8 
+water: 
+18 6 6 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 1 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 1 2 1 2 2 1 
+food:
+8 8 18 12 18 8 
+water: 
+6 6 18 9 18 6 
+at mine: 
+4 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 2 2 1 2 1 
+food:
+8 18 18 27 18 8 
+water: 
+6 18 18 27 18 6 
+at mine: 
+4 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 1 2 2 2 1 
+food:
+8 18 8 27 18 8 
+water: 
+6 18 6 27 18 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+1 2 2 1 2 1 2 
+food:
+8 18 18 12 8 18 
+water: 
+6 18 18 9 6 18 
+at mine: 
+4 
+
+spend: 1755
+get: 200
+money: 8445
+weight: 585
+7
+2 2 2 2 1 2 2 
+food:
+18 18 18 27 18 18 
+water: 
+18 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+2 1 1 1 2 1 2 
+food:
+18 8 8 12 8 18 
+water: 
+18 6 6 9 6 18 
+at mine: 
+4 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 1 2 1 2 1 2 
+food:
+8 8 18 12 8 18 
+water: 
+6 6 18 9 6 18 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 1 1 2 
+food:
+8 18 8 8 18 
+water: 
+6 18 6 6 18 
+at mine: 
+
+
+spend: 1520
+get: 400
+money: 8880
+weight: 496
+8
+2 2 2 1 1 1 1 2 
+food:
+18 18 18 12 12 8 18 
+water: 
+18 18 18 9 9 6 18 
+at mine: 
+4 5 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 2 1 2 
+food:
+8 18 8 8 18 
+water: 
+6 18 6 6 18 
+at mine: 
+
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 2 2 1 1 2 1 
+food:
+18 18 18 12 18 8 
+water: 
+18 18 18 9 18 6 
+at mine: 
+4 
+
+spend: 550
+get: 0
+money: 9450
+weight: 170
+6
+1 1 1 2 1 1 
+food:
+8 8 8 8 8 
+water: 
+6 6 6 6 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 2 2 1 
+food:
+8 8 18 18 8 
+water: 
+6 6 18 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+2 2 1 2 2 2 1 1 1 1 
+food:
+18 18 8 27 27 27 12 8 8 
+water: 
+18 18 6 27 27 27 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+1 2 2 1 2 1 2 2 
+food:
+8 18 18 12 27 18 18 
+water: 
+6 18 18 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 1 2 1 2 2 
+food:
+8 18 8 27 18 18 
+water: 
+6 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+1 2 2 1 1 2 2 
+food:
+8 18 18 12 18 18 
+water: 
+6 18 18 9 18 18 
+at mine: 
+4 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 1 2 1 2 2 
+food:
+8 8 18 18 18 
+water: 
+6 6 18 18 18 
+at mine: 
+
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+1 1 1 2 2 1 2 2 2 
+food:
+8 8 8 27 27 12 18 18 
+water: 
+6 6 6 27 27 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+1 2 2 1 2 2 2 2 
+food:
+8 18 18 12 27 18 18 
+water: 
+6 18 18 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+1 1 2 1 2 1 2 1 
+food:
+8 8 18 12 27 18 8 
+water: 
+6 6 18 9 27 18 6 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 1 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1200
+get: 400
+money: 9200
+weight: 384
+8
+2 1 2 1 1 1 1 1 
+food:
+18 8 18 12 12 8 8 
+water: 
+18 6 18 9 9 6 6 
+at mine: 
+4 5 
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+1 2 2 1 1 2 1 2 1 
+food:
+8 18 18 12 12 27 18 8 
+water: 
+6 18 18 9 9 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 1 2 2 2 2 
+food:
+8 8 18 18 18 
+water: 
+6 6 18 18 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 2 2 1 1 
+food:
+18 8 18 8 8 
+water: 
+18 6 18 6 6 
+at mine: 
+
+
+spend: 1925
+get: 600
+money: 8675
+weight: 631
+9
+2 2 2 1 1 2 2 2 1 
+food:
+18 18 18 12 12 27 18 8 
+water: 
+18 18 18 9 9 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 2 1 2 1 1 
+food:
+18 18 8 8 8 
+water: 
+18 18 6 6 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 1 2 1 
+food:
+18 18 8 18 8 
+water: 
+18 18 6 18 6 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 2 2 1 1 
+food:
+8 8 18 8 8 
+water: 
+6 6 18 6 6 
+at mine: 
+
+
+spend: 1360
+get: 400
+money: 9040
+weight: 440
+8
+1 1 2 1 1 1 2 2 
+food:
+8 8 18 12 12 18 18 
+water: 
+6 6 18 9 9 18 18 
+at mine: 
+4 5 
+
+spend: 2000
+get: 400
+money: 8400
+weight: 664
+8
+2 1 2 2 2 1 2 2 
+food:
+18 8 18 27 27 18 18 
+water: 
+18 6 18 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 2 2 1 
+food:
+8 8 18 18 8 
+water: 
+6 6 18 18 6 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 2 2 2 2 2 1 1 2 1 
+food:
+18 18 18 27 27 27 12 18 8 
+water: 
+18 18 18 27 27 27 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+1 2 2 2 2 1 2 2 1 
+food:
+8 18 18 27 27 12 18 8 
+water: 
+6 18 18 27 27 9 18 6 
+at mine: 
+4 5 6 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 2 1 2 2 1 1 
+food:
+18 18 8 27 8 8 
+water: 
+18 18 6 27 6 6 
+at mine: 
+4 
+
+spend: 1680
+get: 400
+money: 8720
+weight: 552
+8
+2 2 1 2 2 2 1 1 
+food:
+18 18 8 27 27 8 8 
+water: 
+18 18 6 27 27 6 6 
+at mine: 
+4 5 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+1 2 2 1 2 2 1 
+food:
+8 18 18 12 18 8 
+water: 
+6 18 18 9 18 6 
+at mine: 
+4 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 1 1 1 1 2 2 
+food:
+18 8 8 12 18 18 
+water: 
+18 6 6 9 18 18 
+at mine: 
+4 
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 2 2 2 2 2 1 1 1 2 
+food:
+18 18 18 27 27 27 12 8 18 
+water: 
+18 18 18 27 27 27 9 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+1 2 2 1 1 2 2 1 1 1 
+food:
+8 18 18 12 12 27 27 8 8 
+water: 
+6 18 18 9 9 27 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 1 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 2 1 2 
+food:
+18 8 8 8 18 
+water: 
+18 6 6 6 18 
+at mine: 
+
+
+spend: 1925
+get: 600
+money: 8675
+weight: 631
+9
+2 2 2 1 1 2 1 2 1 
+food:
+18 18 18 12 12 27 18 8 
+water: 
+18 18 18 9 9 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 2 1 1 1 
+food:
+8 18 18 8 8 
+water: 
+6 18 18 6 6 
+at mine: 
+
+
+spend: 2810
+get: 800
+money: 7990
+weight: 934
+10
+2 2 2 2 2 2 2 1 2 1 
+food:
+18 18 18 27 27 27 27 18 8 
+water: 
+18 18 18 27 27 27 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 2 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 1 2 2 2 2 2 
+food:
+18 8 18 27 18 18 
+water: 
+18 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 2 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+2 1 1 1 2 2 1 2 2 1 
+food:
+18 8 8 12 27 27 12 18 8 
+water: 
+18 6 6 9 27 27 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 2 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+2 1 2 1 2 2 2 2 1 1 
+food:
+18 8 18 12 27 27 27 8 8 
+water: 
+18 6 18 9 27 27 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 2 2 2 1 2 2 1 
+food:
+18 18 18 27 12 18 8 
+water: 
+18 18 18 27 9 18 6 
+at mine: 
+4 5 
+
+spend: 1770
+get: 800
+money: 9030
+weight: 570
+10
+2 1 1 1 1 1 2 2 2 1 
+food:
+18 8 8 12 12 12 27 18 8 
+water: 
+18 6 6 9 9 9 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+2 2 1 2 2 1 1 
+food:
+18 18 8 27 8 8 
+water: 
+18 18 6 27 6 6 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 1 1 2 
+food:
+8 8 18 8 18 
+water: 
+6 6 18 6 18 
+at mine: 
+
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 2 1 1 2 1 2 2 
+food:
+18 18 8 12 27 18 18 
+water: 
+18 18 6 9 27 18 18 
+at mine: 
+4 5 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 1 2 1 2 2 
+food:
+18 8 8 27 18 18 
+water: 
+18 6 6 27 18 18 
+at mine: 
+4 
+
+spend: 1605
+get: 600
+money: 8995
+weight: 519
+9
+2 2 1 1 2 1 2 1 1 
+food:
+18 18 8 12 27 12 8 8 
+water: 
+18 18 6 9 27 9 6 6 
+at mine: 
+4 5 6 
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+1 2 2 1 2 1 2 2 2 2 
+food:
+8 18 18 12 27 12 27 18 18 
+water: 
+6 18 18 9 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 2 1 2 1 1 
+food:
+8 18 8 8 8 
+water: 
+6 18 6 6 6 
+at mine: 
+
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+2 1 1 1 2 2 2 1 
+food:
+18 8 8 12 27 18 8 
+water: 
+18 6 6 9 27 18 6 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 2 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 2 1 2 2 2 1 2 2 2 
+food:
+18 18 8 27 27 27 12 18 18 
+water: 
+18 18 6 27 27 27 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1755
+get: 200
+money: 8445
+weight: 585
+7
+2 2 2 2 2 2 2 
+food:
+18 18 18 27 18 18 
+water: 
+18 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 1370
+get: 800
+money: 9430
+weight: 430
+10
+1 1 2 1 1 1 1 2 1 1 
+food:
+8 8 18 12 12 12 12 8 8 
+water: 
+6 6 18 9 9 9 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+1 2 2 2 1 2 2 2 1 1 
+food:
+8 18 18 27 12 27 27 8 8 
+water: 
+6 18 18 27 9 27 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1515
+get: 200
+money: 8685
+weight: 501
+7
+2 2 2 1 2 2 2 
+food:
+18 18 18 12 18 18 
+water: 
+18 18 18 9 18 18 
+at mine: 
+4 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 1 2 2 2 2 
+food:
+18 8 8 27 18 18 
+water: 
+18 6 6 27 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 1 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 1520
+get: 400
+money: 8880
+weight: 496
+8
+2 2 1 1 1 2 2 2 
+food:
+18 18 8 12 12 18 18 
+water: 
+18 18 6 9 9 18 18 
+at mine: 
+4 5 
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+1 1 2 2 1 2 2 2 1 
+food:
+8 8 18 27 12 27 18 8 
+water: 
+6 6 18 27 9 27 18 6 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 1 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 2810
+get: 800
+money: 7990
+weight: 934
+10
+1 2 2 2 2 2 2 1 2 2 
+food:
+8 18 18 27 27 27 27 18 18 
+water: 
+6 18 18 27 27 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 2 1 1 1 1 
+food:
+18 18 18 12 8 8 
+water: 
+18 18 18 9 6 6 
+at mine: 
+4 
+
+spend: 1515
+get: 200
+money: 8685
+weight: 501
+7
+2 2 2 1 1 2 2 
+food:
+18 18 18 12 18 18 
+water: 
+18 18 18 9 18 18 
+at mine: 
+4 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+1 2 2 2 1 2 2 
+food:
+8 18 18 27 18 18 
+water: 
+6 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 2 1 2 1 1 
+food:
+8 18 8 8 8 
+water: 
+6 18 6 6 6 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+2 1 1 1 1 1 
+food:
+18 8 8 8 8 
+water: 
+18 6 6 6 6 
+at mine: 
+
+
+spend: 2090
+get: 800
+money: 8710
+weight: 682
+10
+2 1 2 2 1 1 1 2 2 2 
+food:
+18 8 18 27 12 12 12 18 18 
+water: 
+18 6 18 27 9 9 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 1 2 2 1 2 2 
+food:
+8 8 18 27 18 18 
+water: 
+6 6 18 27 18 18 
+at mine: 
+4 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 2 2 2 1 1 
+food:
+8 18 18 27 8 8 
+water: 
+6 18 18 27 6 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 1 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 1 2 2 2 2 
+food:
+18 18 8 27 18 18 
+water: 
+18 18 6 27 18 18 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 1 2 1 
+food:
+18 18 18 18 8 
+water: 
+18 18 18 18 6 
+at mine: 
+
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+2 2 1 1 2 2 2 1 1 1 
+food:
+18 18 8 12 27 27 27 8 8 
+water: 
+18 18 6 9 27 27 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 2000
+get: 400
+money: 8400
+weight: 664
+8
+2 2 2 2 2 2 1 2 
+food:
+18 18 18 27 27 8 18 
+water: 
+18 18 18 27 27 6 18 
+at mine: 
+4 5 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 2 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+2 2 1 1 1 2 1 1 2 
+food:
+18 18 8 12 12 27 8 18 
+water: 
+18 18 6 9 9 27 6 18 
+at mine: 
+4 5 6 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 1 2 1 
+food:
+18 18 18 27 18 8 
+water: 
+18 18 18 27 18 6 
+at mine: 
+4 
+
+spend: 1360
+get: 400
+money: 9040
+weight: 440
+8
+2 1 2 1 1 1 1 2 
+food:
+18 8 18 12 12 8 18 
+water: 
+18 6 18 9 9 6 18 
+at mine: 
+4 5 
+
+spend: 1200
+get: 400
+money: 9200
+weight: 384
+8
+2 1 1 1 1 2 2 1 
+food:
+18 8 8 12 12 18 8 
+water: 
+18 6 6 9 9 18 6 
+at mine: 
+4 5 
+
+spend: 2005
+get: 600
+money: 8595
+weight: 659
+9
+2 1 1 2 2 1 2 2 2 
+food:
+18 8 8 27 27 12 18 18 
+water: 
+18 6 6 27 27 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 1840
+get: 400
+money: 8560
+weight: 608
+8
+1 2 1 2 2 1 2 2 
+food:
+8 18 8 27 27 18 18 
+water: 
+6 18 6 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 2 2 2 1 1 
+food:
+8 18 18 27 8 8 
+water: 
+6 18 18 27 6 6 
+at mine: 
+4 
+
+spend: 2170
+get: 800
+money: 8630
+weight: 710
+10
+1 2 2 2 1 1 2 2 2 1 
+food:
+8 18 18 27 12 12 27 18 8 
+water: 
+6 18 18 27 9 9 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1755
+get: 200
+money: 8445
+weight: 585
+7
+2 2 2 2 1 2 2 
+food:
+18 18 18 27 18 18 
+water: 
+18 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 2 1 2 1 1 
+food:
+18 18 8 8 8 
+water: 
+18 18 6 6 6 
+at mine: 
+
+
+spend: 2410
+get: 800
+money: 8390
+weight: 794
+10
+1 2 1 2 2 1 2 2 2 2 
+food:
+8 18 8 27 27 12 27 18 18 
+water: 
+6 18 6 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1930
+get: 800
+money: 8870
+weight: 626
+10
+2 2 1 1 1 2 1 2 1 2 
+food:
+18 18 8 12 12 27 12 8 18 
+water: 
+18 18 6 9 9 27 9 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 550
+get: 0
+money: 9450
+weight: 170
+6
+1 1 1 2 1 1 
+food:
+8 8 8 8 8 
+water: 
+6 6 6 6 6 
+at mine: 
+
+
+spend: 2170
+get: 800
+money: 8630
+weight: 710
+10
+2 1 1 1 1 2 2 2 2 2 
+food:
+18 8 8 12 12 27 27 18 18 
+water: 
+18 6 6 9 9 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+1 2 2 2 2 2 
+food:
+8 18 18 18 18 
+water: 
+6 18 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 2810
+get: 800
+money: 7990
+weight: 934
+10
+2 2 1 2 2 2 2 1 2 2 
+food:
+18 18 8 27 27 27 27 18 18 
+water: 
+18 18 6 27 27 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 1 2 1 2 2 1 
+food:
+8 8 18 12 18 8 
+water: 
+6 6 18 9 18 6 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 1 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+spend: 2085
+get: 600
+money: 8515
+weight: 687
+9
+1 1 2 2 2 2 2 1 2 
+food:
+8 8 18 27 27 27 8 18 
+water: 
+6 6 18 27 27 27 6 18 
+at mine: 
+4 5 6 
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+1 2 1 1 1 2 2 2 2 1 
+food:
+8 18 8 12 12 27 27 18 8 
+water: 
+6 18 6 9 9 27 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 1 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+2 2 1 1 2 1 1 
+food:
+18 18 8 12 8 8 
+water: 
+18 18 6 9 6 6 
+at mine: 
+4 
+
+spend: 1360
+get: 400
+money: 9040
+weight: 440
+8
+1 1 2 1 1 1 2 2 
+food:
+8 8 18 12 12 18 18 
+water: 
+6 6 18 9 9 18 18 
+at mine: 
+4 5 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 1 1 2 1 
+food:
+8 8 8 18 8 
+water: 
+6 6 6 18 6 
+at mine: 
+
+
+spend: 1515
+get: 200
+money: 8685
+weight: 501
+7
+2 2 2 1 1 2 2 
+food:
+18 18 18 12 18 18 
+water: 
+18 18 18 9 18 18 
+at mine: 
+4 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 2 2 1 2 1 1 
+food:
+8 18 18 12 8 8 
+water: 
+6 18 18 9 6 6 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 1 1 2 
+food:
+18 8 8 8 18 
+water: 
+18 6 6 6 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 1 1 2 
+food:
+8 8 18 8 18 
+water: 
+6 6 18 6 18 
+at mine: 
+
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+1 2 2 2 1 2 2 2 
+food:
+8 18 18 27 12 18 18 
+water: 
+6 18 18 27 9 18 18 
+at mine: 
+4 5 
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 2 2 1 1 1 1 
+food:
+8 18 18 12 8 8 
+water: 
+6 18 18 9 6 6 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 2 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+1 2 1 2 1 1 2 2 
+food:
+8 18 8 27 12 18 18 
+water: 
+6 18 6 27 9 18 18 
+at mine: 
+4 5 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+1 2 2 2 1 2 2 2 
+food:
+8 18 18 27 12 18 18 
+water: 
+6 18 18 27 9 18 18 
+at mine: 
+4 5 
+
+spend: 1840
+get: 400
+money: 8560
+weight: 608
+8
+2 2 1 2 2 2 2 1 
+food:
+18 18 8 27 27 18 8 
+water: 
+18 18 6 27 27 18 6 
+at mine: 
+4 5 
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+2 1 1 2 2 1 1 
+food:
+18 8 8 27 8 8 
+water: 
+18 6 6 27 6 6 
+at mine: 
+4 
+
+spend: 1770
+get: 800
+money: 9030
+weight: 570
+10
+2 2 1 1 2 1 1 2 1 1 
+food:
+18 18 8 12 27 12 12 8 8 
+water: 
+18 18 6 9 27 9 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1920
+get: 400
+money: 8480
+weight: 636
+8
+2 2 2 2 1 2 2 2 
+food:
+18 18 18 27 12 18 18 
+water: 
+18 18 18 27 9 18 18 
+at mine: 
+4 5 
+
+spend: 2160
+get: 400
+money: 8240
+weight: 720
+8
+2 2 2 2 2 1 2 2 
+food:
+18 18 18 27 27 18 18 
+water: 
+18 18 18 27 27 18 18 
+at mine: 
+4 5 
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 1 1 2 2 1 2 
+food:
+8 8 8 27 8 18 
+water: 
+6 6 6 27 6 18 
+at mine: 
+4 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 2 2 2 1 1 
+food:
+8 18 18 27 8 8 
+water: 
+6 18 18 27 6 6 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 2 2 1 1 
+food:
+18 8 18 8 8 
+water: 
+18 6 18 6 6 
+at mine: 
+
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 1 2 1 1 2 2 
+food:
+18 8 18 12 18 18 
+water: 
+18 6 18 9 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 2 1 
+food:
+18 18 8 18 8 
+water: 
+18 18 6 18 6 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 2 1 2 2 1 2 
+food:
+18 18 8 27 8 18 
+water: 
+18 18 6 27 6 18 
+at mine: 
+4 
+
+spend: 875
+get: 200
+money: 9325
+weight: 277
+7
+2 1 1 1 2 1 1 
+food:
+18 8 8 12 8 8 
+water: 
+18 6 6 9 6 6 
+at mine: 
+4 
+
+spend: 550
+get: 0
+money: 9450
+weight: 170
+6
+1 1 1 2 1 1 
+food:
+8 8 8 8 8 
+water: 
+6 6 6 6 6 
+at mine: 
+
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+1 2 1 1 1 2 2 1 2 1 
+food:
+8 18 8 12 12 27 27 18 8 
+water: 
+6 18 6 9 9 27 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 1 2 1 
+food:
+18 18 8 18 8 
+water: 
+18 18 6 18 6 
+at mine: 
+
+
+spend: 1845
+get: 600
+money: 8755
+weight: 603
+9
+2 1 1 2 2 1 2 1 2 
+food:
+18 8 8 27 27 12 8 18 
+water: 
+18 6 6 27 27 9 6 18 
+at mine: 
+4 5 6 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 2 2 1 
+food:
+8 8 18 18 8 
+water: 
+6 6 18 18 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1035
+get: 200
+money: 9165
+weight: 333
+7
+1 1 2 1 2 1 2 
+food:
+8 8 18 12 8 18 
+water: 
+6 6 18 9 6 18 
+at mine: 
+4 
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 2 2 2 1 1 
+food:
+8 18 18 27 8 8 
+water: 
+6 18 18 27 6 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 1 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 550
+get: 0
+money: 9450
+weight: 170
+6
+1 1 1 2 1 1 
+food:
+8 8 8 8 8 
+water: 
+6 6 6 6 6 
+at mine: 
+
+
+spend: 1930
+get: 800
+money: 8870
+weight: 626
+10
+1 2 2 2 1 1 1 1 2 1 
+food:
+8 18 18 27 12 12 12 18 8 
+water: 
+6 18 18 27 9 9 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 1 1 2 
+food:
+18 18 18 27 8 18 
+water: 
+18 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+1 2 1 1 2 2 1 2 
+food:
+8 18 8 12 27 8 18 
+water: 
+6 18 6 9 27 6 18 
+at mine: 
+4 5 
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+1 2 1 2 1 2 2 1 1 2 
+food:
+8 18 8 27 12 27 27 8 18 
+water: 
+6 18 6 27 9 27 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 2 1 2 
+food:
+18 18 18 27 8 18 
+water: 
+18 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 2170
+get: 800
+money: 8630
+weight: 710
+10
+2 1 2 2 1 2 1 1 2 1 
+food:
+18 8 18 27 12 27 12 18 8 
+water: 
+18 6 18 27 9 27 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 2570
+get: 800
+money: 8230
+weight: 850
+10
+2 2 2 2 2 2 1 1 1 2 
+food:
+18 18 18 27 27 27 12 8 18 
+water: 
+18 18 18 27 27 27 9 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+2 1 2 2 1 1 1 1 
+food:
+18 8 18 27 12 8 8 
+water: 
+18 6 18 27 9 6 6 
+at mine: 
+4 5 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 1 2 2 2 
+food:
+8 8 8 18 18 
+water: 
+6 6 6 18 18 
+at mine: 
+
+
+spend: 1520
+get: 400
+money: 8880
+weight: 496
+8
+1 1 2 2 2 1 1 1 
+food:
+8 8 18 27 27 8 8 
+water: 
+6 6 18 27 27 6 6 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 1 2 2 2 2 
+food:
+8 8 18 18 18 
+water: 
+6 6 18 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+1 2 1 1 2 1 2 1 
+food:
+8 18 8 12 27 18 8 
+water: 
+6 18 6 9 27 18 6 
+at mine: 
+4 5 
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+2 1 2 2 1 2 1 2 
+food:
+18 8 18 27 12 8 18 
+water: 
+18 6 18 27 9 6 18 
+at mine: 
+4 5 
+
+spend: 2650
+get: 800
+money: 8150
+weight: 878
+10
+1 2 1 2 2 2 2 1 2 2 
+food:
+8 18 8 27 27 27 27 18 18 
+water: 
+6 18 6 27 27 27 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1115
+get: 200
+money: 9085
+weight: 361
+7
+1 1 1 2 1 1 2 
+food:
+8 8 8 27 8 18 
+water: 
+6 6 6 27 6 18 
+at mine: 
+4 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 1 2 2 2 2 
+food:
+18 8 8 27 18 18 
+water: 
+18 6 6 27 18 18 
+at mine: 
+4 
+
+spend: 2410
+get: 800
+money: 8390
+weight: 794
+10
+2 2 1 2 2 2 1 2 2 1 
+food:
+18 18 8 27 27 27 12 18 8 
+water: 
+18 18 6 27 27 27 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 1 2 2 1 
+food:
+8 8 8 18 8 
+water: 
+6 6 6 18 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 2 2 1 2 
+food:
+18 18 18 8 18 
+water: 
+18 18 18 6 18 
+at mine: 
+
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 2 1 2 1 1 
+food:
+18 18 18 12 8 8 
+water: 
+18 18 18 9 6 6 
+at mine: 
+4 
+
+spend: 2330
+get: 800
+money: 8470
+weight: 766
+10
+1 2 2 1 2 2 1 2 2 2 
+food:
+8 18 18 12 27 27 12 18 18 
+water: 
+6 18 18 9 27 27 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 2 1 2 1 1 
+food:
+18 18 8 8 8 
+water: 
+18 18 6 6 6 
+at mine: 
+
+
+spend: 2810
+get: 800
+money: 7990
+weight: 934
+10
+2 2 2 2 2 2 2 2 1 2 
+food:
+18 18 18 27 27 27 27 8 18 
+water: 
+18 18 18 27 27 27 27 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1275
+get: 200
+money: 8925
+weight: 417
+7
+1 2 2 2 2 1 1 
+food:
+8 18 18 27 8 8 
+water: 
+6 18 18 27 6 6 
+at mine: 
+4 
+
+spend: 2410
+get: 800
+money: 8390
+weight: 794
+10
+1 2 1 2 2 1 2 2 2 2 
+food:
+8 18 8 27 27 12 27 18 18 
+water: 
+6 18 6 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 2 2 1 
+food:
+8 8 18 18 8 
+water: 
+6 6 18 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 2 2 1 1 
+food:
+8 18 18 8 8 
+water: 
+6 18 18 6 6 
+at mine: 
+
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+1 2 2 2 2 1 2 2 1 1 
+food:
+8 18 18 27 27 12 27 8 8 
+water: 
+6 18 18 27 27 9 27 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 1755
+get: 200
+money: 8445
+weight: 585
+7
+2 2 2 2 2 2 2 
+food:
+18 18 18 27 18 18 
+water: 
+18 18 18 27 18 18 
+at mine: 
+4 
+
+spend: 1680
+get: 400
+money: 8720
+weight: 552
+8
+1 2 2 2 2 1 1 1 
+food:
+8 18 18 27 27 8 8 
+water: 
+6 18 18 27 27 6 6 
+at mine: 
+4 5 
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+1 1 1 2 1 1 2 1 2 2 
+food:
+8 8 8 27 12 12 27 18 18 
+water: 
+6 6 6 27 9 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 1 1 2 
+food:
+8 18 8 8 18 
+water: 
+6 18 6 6 18 
+at mine: 
+
+
+spend: 1605
+get: 600
+money: 8995
+weight: 519
+9
+1 1 2 1 2 1 2 2 1 
+food:
+8 8 18 12 27 12 18 8 
+water: 
+6 6 18 9 27 9 18 6 
+at mine: 
+4 5 6 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 2 1 2 1 1 
+food:
+18 18 8 8 8 
+water: 
+18 18 6 6 6 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 1 2 1 
+food:
+18 8 8 18 8 
+water: 
+18 6 6 18 6 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 2 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 2730
+get: 800
+money: 8070
+weight: 906
+10
+2 2 2 2 2 1 2 1 2 2 
+food:
+18 18 18 27 27 12 27 18 18 
+water: 
+18 18 18 27 27 9 27 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 2 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1520
+get: 400
+money: 8880
+weight: 496
+8
+2 1 2 1 1 1 2 2 
+food:
+18 8 18 12 12 18 18 
+water: 
+18 6 18 9 9 18 18 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 1 2 
+food:
+8 18 18 8 18 
+water: 
+6 18 18 6 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 2 2 1 
+food:
+8 8 18 18 8 
+water: 
+6 6 18 18 6 
+at mine: 
+
+
+spend: 1360
+get: 400
+money: 9040
+weight: 440
+8
+2 2 1 1 1 1 2 1 
+food:
+18 18 8 12 12 18 8 
+water: 
+18 18 6 9 9 18 6 
+at mine: 
+4 5 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 2 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 1605
+get: 600
+money: 8995
+weight: 519
+9
+2 1 2 1 2 1 2 1 1 
+food:
+18 8 18 12 27 12 8 8 
+water: 
+18 6 18 9 27 9 6 6 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 1 1 2 
+food:
+8 18 18 8 18 
+water: 
+6 18 18 6 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 2 1 
+food:
+8 18 18 18 8 
+water: 
+6 18 18 18 6 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+1 2 2 2 1 2 1 
+food:
+8 18 18 27 18 8 
+water: 
+6 18 18 27 18 6 
+at mine: 
+4 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 1 2 1 1 2 
+food:
+8 8 18 8 18 
+water: 
+6 6 18 6 18 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 1 1 2 
+food:
+18 8 18 8 18 
+water: 
+18 6 18 6 18 
+at mine: 
+
+
+spend: 2165
+get: 600
+money: 8435
+weight: 715
+9
+2 2 1 2 1 2 2 2 2 
+food:
+18 18 8 27 12 27 18 18 
+water: 
+18 18 6 27 9 27 18 18 
+at mine: 
+4 5 6 
+
+spend: 2090
+get: 800
+money: 8710
+weight: 682
+10
+2 2 2 1 1 1 2 2 2 1 
+food:
+18 18 18 12 12 12 27 18 8 
+water: 
+18 18 18 9 9 9 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 2 2 1 
+food:
+8 18 8 18 8 
+water: 
+6 18 6 18 6 
+at mine: 
+
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 1 2 1 2 2 
+food:
+8 8 18 18 18 
+water: 
+6 6 18 18 18 
+at mine: 
+
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+1 2 1 1 1 2 
+food:
+8 18 8 8 18 
+water: 
+6 18 6 6 18 
+at mine: 
+
+
+spend: 2090
+get: 800
+money: 8710
+weight: 682
+10
+1 1 1 2 2 1 2 2 2 1 
+food:
+8 8 8 27 27 12 27 18 8 
+water: 
+6 6 6 27 27 9 27 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 1 2 
+food:
+8 18 18 8 18 
+water: 
+6 18 18 6 18 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 2 2 1 2 1 
+food:
+18 8 18 27 18 8 
+water: 
+18 6 18 27 18 6 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 1 2 2 2 2 
+food:
+8 8 18 18 18 
+water: 
+6 6 18 18 18 
+at mine: 
+
+
+spend: 1840
+get: 400
+money: 8560
+weight: 608
+8
+1 2 2 2 2 2 1 2 
+food:
+8 18 18 27 27 8 18 
+water: 
+6 18 18 27 27 6 18 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 2 2 1 2 
+food:
+8 18 18 8 18 
+water: 
+6 18 18 6 18 
+at mine: 
+
+
+spend: 1520
+get: 400
+money: 8880
+weight: 496
+8
+2 2 2 1 1 1 1 2 
+food:
+18 18 18 12 12 8 18 
+water: 
+18 18 18 9 9 6 18 
+at mine: 
+4 5 
+
+spend: 1440
+get: 400
+money: 8960
+weight: 468
+8
+2 1 1 2 1 2 1 2 
+food:
+18 8 8 27 12 8 18 
+water: 
+18 6 6 27 9 6 18 
+at mine: 
+4 5 
+
+spend: 1760
+get: 400
+money: 8640
+weight: 580
+8
+2 2 2 1 2 2 2 1 
+food:
+18 18 18 12 27 18 8 
+water: 
+18 18 18 9 27 18 6 
+at mine: 
+4 5 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 1 2 1 2 2 
+food:
+18 8 8 27 18 18 
+water: 
+18 6 6 27 18 18 
+at mine: 
+4 
+
+spend: 1925
+get: 600
+money: 8675
+weight: 631
+9
+2 2 1 1 2 1 2 2 2 
+food:
+18 18 8 12 27 12 18 18 
+water: 
+18 18 6 9 27 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+1 2 1 1 2 2 
+food:
+8 18 8 18 18 
+water: 
+6 18 6 18 18 
+at mine: 
+
+
+spend: 1680
+get: 400
+money: 8720
+weight: 552
+8
+1 2 1 2 2 1 1 2 
+food:
+8 18 8 27 27 8 18 
+water: 
+6 18 6 27 27 6 18 
+at mine: 
+4 5 
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 1 2 1 2 2 
+food:
+18 8 8 27 18 18 
+water: 
+18 6 6 27 18 18 
+at mine: 
+4 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 1 2 1 2 1 
+food:
+18 8 18 18 8 
+water: 
+18 6 18 18 6 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 1 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 2 2 2 1 1 1 
+food:
+18 18 18 27 8 8 
+water: 
+18 18 18 27 6 6 
+at mine: 
+4 
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+2 2 1 2 1 2 1 2 1 1 
+food:
+18 18 8 27 12 27 12 8 8 
+water: 
+18 18 6 27 9 27 9 6 6 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 2 2 1 1 
+food:
+18 8 18 8 8 
+water: 
+18 6 18 6 6 
+at mine: 
+
+
+spend: 1840
+get: 400
+money: 8560
+weight: 608
+8
+2 1 2 2 2 2 2 1 
+food:
+18 8 18 27 27 18 8 
+water: 
+18 6 18 27 27 18 6 
+at mine: 
+4 5 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 1 2 1 2 
+food:
+18 18 8 8 18 
+water: 
+18 18 6 6 18 
+at mine: 
+
+
+spend: 2090
+get: 800
+money: 8710
+weight: 682
+10
+2 2 1 1 2 1 1 2 2 2 
+food:
+18 18 8 12 27 12 12 18 18 
+water: 
+18 18 6 9 27 9 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 2 2 1 1 
+food:
+8 8 18 8 8 
+water: 
+6 6 18 6 6 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 1 1 1 2 
+food:
+8 8 8 8 18 
+water: 
+6 6 6 6 18 
+at mine: 
+
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1765
+get: 600
+money: 8835
+weight: 575
+9
+1 2 1 1 2 1 2 2 2 
+food:
+8 18 8 12 27 12 18 18 
+water: 
+6 18 6 9 27 9 18 18 
+at mine: 
+4 5 6 
+
+spend: 1350
+get: 0
+money: 8650
+weight: 450
+6
+2 2 2 2 2 2 
+food:
+18 18 18 18 18 
+water: 
+18 18 18 18 18 
+at mine: 
+
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 1 2 2 2 2 
+food:
+18 8 18 18 18 
+water: 
+18 6 18 18 18 
+at mine: 
+
+
+spend: 1600
+get: 400
+money: 8800
+weight: 524
+8
+2 2 1 2 1 2 1 2 
+food:
+18 18 8 27 12 8 18 
+water: 
+18 18 6 27 9 6 18 
+at mine: 
+4 5 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 1 2 1 2 2 1 
+food:
+18 8 18 12 18 8 
+water: 
+18 6 18 9 18 6 
+at mine: 
+4 
+
+spend: 1190
+get: 0
+money: 8810
+weight: 394
+6
+2 2 1 1 2 2 
+food:
+18 18 8 18 18 
+water: 
+18 18 6 18 18 
+at mine: 
+
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 1 2 2 1 1 
+food:
+8 8 18 8 8 
+water: 
+6 6 18 6 6 
+at mine: 
+
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+1 2 1 2 2 1 1 2 2 1 
+food:
+8 18 8 27 27 12 12 18 8 
+water: 
+6 18 6 27 27 9 9 18 6 
+at mine: 
+4 5 6 7 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 2 1 1 2 1 2 
+food:
+18 18 8 12 8 18 
+water: 
+18 18 6 9 6 18 
+at mine: 
+4 
+
+spend: 710
+get: 0
+money: 9290
+weight: 226
+6
+1 2 1 1 1 1 
+food:
+8 18 8 8 8 
+water: 
+6 18 6 6 6 
+at mine: 
+
+
+spend: 1435
+get: 200
+money: 8765
+weight: 473
+7
+2 1 2 2 1 2 1 
+food:
+18 8 18 27 18 8 
+water: 
+18 6 18 27 18 6 
+at mine: 
+4 
+
+spend: 1595
+get: 200
+money: 8605
+weight: 529
+7
+2 2 2 2 1 1 2 
+food:
+18 18 18 27 8 18 
+water: 
+18 18 18 27 6 18 
+at mine: 
+4 
+
+spend: 2010
+get: 800
+money: 8790
+weight: 654
+10
+1 1 2 2 2 1 1 2 1 2 
+food:
+8 8 18 27 27 12 12 8 18 
+water: 
+6 6 18 27 27 9 9 6 18 
+at mine: 
+4 5 6 7 
+
+spend: 870
+get: 0
+money: 9130
+weight: 282
+6
+2 1 1 2 1 2 
+food:
+18 8 8 8 18 
+water: 
+18 6 6 6 18 
+at mine: 
+
+
+spend: 1355
+get: 200
+money: 8845
+weight: 445
+7
+2 1 2 1 2 2 2 
+food:
+18 8 18 12 18 18 
+water: 
+18 6 18 9 18 18 
+at mine: 
+4 
+
+spend: 1605
+get: 600
+money: 8995
+weight: 519
+9
+2 1 1 1 2 1 2 2 1 
+food:
+18 8 8 12 27 12 18 8 
+water: 
+18 6 6 9 27 9 18 6 
+at mine: 
+4 5 6 
+
+spend: 1200
+get: 400
+money: 9200
+weight: 384
+8
+1 1 2 1 1 2 1 2 
+food:
+8 8 18 12 12 8 18 
+water: 
+6 6 18 9 9 6 18 
+at mine: 
+4 5 
+
+spend: 1195
+get: 200
+money: 9005
+weight: 389
+7
+2 1 1 1 2 2 2 
+food:
+18 8 8 12 18 18 
+water: 
+18 6 6 9 18 18 
+at mine: 
+4 
+
+spend: 2250
+get: 800
+money: 8550
+weight: 738
+10
+2 2 2 1 1 2 1 1 2 2 
+food:
+18 18 18 12 12 27 12 18 18 
+water: 
+18 18 18 9 9 27 9 18 18 
+at mine: 
+4 5 6 7 
+
+spend: 1030
+get: 0
+money: 8970
+weight: 338
+6
+2 2 2 2 1 1 
+food:
+18 18 18 8 8 
+water: 
+18 18 18 6 6 
+at mine: 
+
+
+allmoney: 8830

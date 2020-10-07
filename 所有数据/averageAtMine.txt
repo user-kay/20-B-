@@ -1,0 +1,32 @@
+all food: -99
+all water: -94
+
+all food: -98
+all water: -94
+
+all food: -97
+all water: -93
+
+all food: -99
+all water: -95
+
+all food: -98
+all water: -94
+
+all food: -99
+all water: -95
+
+all food: -100
+all water: -96
+
+all food: -99
+all water: -94
+
+all food: -98
+all water: -94
+
+all food: -99
+all water: -95
+
+average food: -98
+average water: -94

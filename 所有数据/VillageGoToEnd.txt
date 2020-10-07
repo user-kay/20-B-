@@ -1,0 +1,32 @@
+all food: -64
+all water: -61
+
+all food: -62
+all water: -60
+
+all food: -64
+all water: -61
+
+all food: -63
+all water: -60
+
+all food: -64
+all water: -61
+
+all food: -64
+all water: -61
+
+all food: -63
+all water: -60
+
+all food: -64
+all water: -61
+
+all food: -63
+all water: -60
+
+all food: -63
+all water: -61
+
+average food: -63
+average water: -60

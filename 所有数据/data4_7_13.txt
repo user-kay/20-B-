@@ -1,0 +1,11001 @@
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 440
+get: 0
+money: 9560
+weight: 136
+4
+1 1 1 1 
+food:
+8 8 8 8 
+water: 
+6 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+2 1 1 1 
+food:
+18 8 8 8 
+water: 
+18 6 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 1 2 
+food:
+18 18 8 18 
+water: 
+18 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 2 1 
+food:
+8 8 18 8 
+water: 
+6 6 18 6 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 1 2 
+food:
+8 18 8 18 
+water: 
+6 18 6 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 1 1 2 
+food:
+8 8 8 18 
+water: 
+6 6 6 18 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 2 2 1 
+food:
+8 18 18 8 
+water: 
+6 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 2 1 
+food:
+18 8 18 8 
+water: 
+18 6 18 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+1 1 2 2 
+food:
+8 8 18 18 
+water: 
+6 6 18 18 
+
+spend: 1080
+get: 0
+money: 8920
+weight: 360
+4
+2 2 2 2 
+food:
+18 18 18 18 
+water: 
+18 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+1 2 2 2 
+food:
+8 18 18 18 
+water: 
+6 18 18 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 600
+get: 0
+money: 9400
+weight: 192
+4
+1 2 1 1 
+food:
+8 18 8 8 
+water: 
+6 18 6 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 2 1 1 
+food:
+18 18 8 8 
+water: 
+18 18 6 6 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 2 2 1 
+food:
+18 18 18 8 
+water: 
+18 18 18 6 
+
+spend: 760
+get: 0
+money: 9240
+weight: 248
+4
+2 1 1 2 
+food:
+18 8 8 18 
+water: 
+18 6 6 18 
+
+spend: 920
+get: 0
+money: 9080
+weight: 304
+4
+2 1 2 2 
+food:
+18 8 18 18 
+water: 
+18 6 18 18 
+
+allmoney: 9185
